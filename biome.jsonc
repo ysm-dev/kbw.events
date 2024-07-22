@@ -7,7 +7,8 @@
       "style": {
         "noUnusedTemplateLiteral": "off",
         "useImportType": "error",
-        "noUselessElse": "off"
+        "noUselessElse": "off",
+        "noNonNullAssertion": "warn"
       },
       "correctness": {
         "noUnusedVariables": "warn"

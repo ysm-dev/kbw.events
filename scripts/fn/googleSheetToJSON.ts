@@ -20,7 +20,17 @@ export const googleSheetToJSON = async (sheetId: string) => {
     },
   ).then<R>((r) => r.json())
 
-  return json
+  const sheet = json.sheets[0]
+
+  const col = 9
+
+  const rows = sheet.data[0].rowData!.map((row) => {
+    return row.values
+      ?.slice(0, col)
+      .map((value) => value.effectiveValue?.stringValue)
+  })
+
+  return rows
 }
 
 export interface R {
