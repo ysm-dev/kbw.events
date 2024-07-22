@@ -1,6 +1,10 @@
-const API_KEY = ``
+const API_KEY = Bun.env.GOOGLE_API_KEY
 
 export const googleSheetToJSON = async (sheetId: string) => {
+  if (!API_KEY) {
+    throw new Error("GOOGLE_API_KEY not found")
+  }
+
   const json = await fetch(
     `https://content-sheets.googleapis.com/v4/spreadsheets/${sheetId}?${new URLSearchParams(
       {
@@ -72,7 +76,7 @@ export interface DefaultFormatTextFormat {
   foregroundColorStyle: ForegroundColorStyle
 }
 
-export interface ForegroundColor {}
+export type ForegroundColor = {}
 
 export interface ForegroundColorStyle {
   rgbColor: ForegroundColor
