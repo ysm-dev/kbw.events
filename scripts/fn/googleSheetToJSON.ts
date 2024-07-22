@@ -13,7 +13,6 @@ export const googleSheetToJSON = async (sheetId: string) => {
       },
     )}`,
     {
-      method: "GET",
       headers: {
         "X-Referer": "https://explorer.apis.google.com",
       },
