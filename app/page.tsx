@@ -5,3 +5,23 @@ export default function Page() {
     </div>
   )
 }
+
+/**
+ * Event properties
+ *
+ * og image
+ * title
+ * host
+ * event type
+ * location name
+ * location address
+ * entry / ticket
+ * rsvp link
+ * capacity
+ * email
+ *
+ *
+ * start datetime
+ * end datetime
+ *
+ */
