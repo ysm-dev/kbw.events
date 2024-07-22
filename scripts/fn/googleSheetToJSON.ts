@@ -24,11 +24,13 @@ export const googleSheetToJSON = async (sheetId: string) => {
 
   const col = 9
 
-  const rows = sheet.data[0].rowData!.map((row) => {
-    return row.values
-      ?.slice(0, col)
-      .map((value) => value.effectiveValue?.stringValue)
-  })
+  const rows = sheet.data[0]
+    .rowData!.map((row) => {
+      return row.values
+        ?.slice(0, col)
+        .map((value) => value.effectiveValue?.stringValue)
+    })
+    .filter((row) => row?.some((cell) => cell))
 
   return rows
 }
