@@ -1,5 +1,4 @@
 {
-  "extends": "@vercel/style-guide/typescript",
   "compilerOptions": {
     "target": "ESNext",
     "lib": ["dom", "dom.iterable", "esnext"],
@@ -26,7 +25,8 @@
       "styles/*": ["styles/*"],
       "app/*": ["app/*"],
       "components/*": ["components/*"],
-      "lib/*": ["lib/*"]
+      "lib/*": ["lib/*"],
+      "hooks/*": ["hooks/*"]
     }
   },
   "include": [

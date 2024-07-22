@@ -1,8 +1,9 @@
-import { type NextConfig } from 'next'
+import type { NextConfig } from "next"
 
 const config: NextConfig = {
-  experimental: {
-    typedRoutes: true,
+  reactStrictMode: true,
+  compiler: {
+    // removeConsole: true,
   },
 }
 
