@@ -2,7 +2,7 @@ import { Image } from "components/Image"
 import { Button } from "components/ui/button"
 import { Toggle } from "components/ui/toggle"
 import { getEvents } from "hooks/useEvents"
-import { Bookmark, Share } from "lucide-react"
+import { Bookmark, MapPin, Share } from "lucide-react"
 
 export const EventList = async () => {
   const events = await getEvents()
@@ -15,7 +15,30 @@ export const EventList = async () => {
             <h2 className="text-balance font-medium text-lg leading-tight">
               {e.title}
             </h2>
-            <p className="text-xs opacity-50">{e.location}</p>
+            {e.host && (
+              <div className="flex gap-1">
+                <span className="text-xs opacity-50">by</span>
+                <span className="text-xs opacity-70">{e.host}</span>
+              </div>
+            )}
+            {e.location !== "TBD" ? (
+              <Button asChild variant="link">
+                <a
+                  className="mt-3 h-6 w-min gap-1.5 px-0 py-0"
+                  href={`https://www.google.com/maps/place/?q=${e.location}`}
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  <MapPin className="aspect-square size-3.5" />
+                  <span className="text-sm opacity-50">{e.location}</span>
+                </a>
+              </Button>
+            ) : (
+              <div className="mt-3 flex h-6 w-min items-center gap-1.5">
+                <MapPin className="aspect-square size-3.5" />
+                <span className="text-sm opacity-50">{e.location}</span>
+              </div>
+            )}
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex gap-2">
@@ -23,13 +46,13 @@ export const EventList = async () => {
               <Button
                 size="icon"
                 variant="outline"
-                className="-mr-1 -mt-1 size-6"
+                className="-mr-0.5 -mt-0.5 size-6"
               >
                 <Share className="size-4" />
               </Button>
               <Toggle
                 variant="outline"
-                className="group -mr-1 -mt-1 size-6 p-0"
+                className="group -mr-0.5 -mt-0.5 size-6 p-0"
               >
                 <Bookmark className="size-4 group-data-[state=on]:fill-foreground" />
               </Toggle>
