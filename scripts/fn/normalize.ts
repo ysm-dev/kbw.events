@@ -14,6 +14,7 @@ import ogs from "open-graph-scraper"
 import { getLumaInfo } from "scripts/fn/getLumaInfo"
 import { isLumaPage } from "utils/isLumaPage"
 import { isURL } from "utils/isURL"
+import { saveImage } from "utils/saveImage"
 
 export const normalize = async (data: (string | undefined)[][]) => {
   const a = [data[4], data[5], ...data.slice(7)]
@@ -84,7 +85,12 @@ const getImage = async (
     if (isLumaPage(link)) {
       const id = new URL(link).pathname.split("/")[1]
       const { event } = await getLumaInfo(id)
-      return event.cover_url || null
+
+      if (isURL(event.cover_url)) {
+        return await saveImage(event.cover_url)
+      }
+
+      return null
     }
 
     const r = await ogs({ url: link }).catch(() => null)
@@ -95,13 +101,15 @@ const getImage = async (
 
     const url = r.result.ogImage?.[0].url
 
-    // console.log({ link, url })
-
     if (url && !url.startsWith("http")) {
-      return new URL(url, link).toString()
+      const uri = new URL(url, link).toString()
+
+      return await saveImage(uri)
     }
 
-    return url || null
+    if (isURL(url)) {
+      return await saveImage(url)
+    }
   }
 
   return null
