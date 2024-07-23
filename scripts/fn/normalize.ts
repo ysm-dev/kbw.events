@@ -70,7 +70,7 @@ const norm = async (
   return pipe(
     r,
     entries,
-    map(([k, v]) => [k, v?.replaceAll("\r", "") ?? null]),
+    map(([k, v]) => [k, v?.replaceAll("\r", "").trim() ?? null]),
     Object.fromEntries,
   )
 }
