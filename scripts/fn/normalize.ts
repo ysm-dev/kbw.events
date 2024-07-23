@@ -95,7 +95,7 @@ const getImage = async (
 
     const url = r.result.ogImage?.[0].url
 
-    console.log({ link, url })
+    // console.log({ link, url })
 
     if (url && !url.startsWith("http")) {
       return new URL(url, link).toString()
