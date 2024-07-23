@@ -16,16 +16,25 @@ export const EventList = async () => {
               {e.title}
             </h2>
             {e.host && (
-              <div className="flex gap-1">
+              <div className="flex gap-1 overflow-hidden">
                 <span className="text-xs opacity-50">by</span>
-                <span className="text-xs opacity-70">{e.host}</span>
+                <span className="line-clamp-1 text-wrap text-xs opacity-70">
+                  {e.host}
+                </span>
               </div>
             )}
             {e.location !== "TBD" ? (
-              <Button asChild variant="link">
+              <Button
+                asChild
+                variant="link"
+                className="mt-3 h-6 w-min gap-1.5 px-0 py-0"
+              >
                 <a
-                  className="mt-3 h-6 w-min gap-1.5 px-0 py-0"
-                  href={`https://www.google.com/maps/place/?q=${e.location}`}
+                  href={
+                    e.placeId
+                      ? `https://www.google.com/maps/place/?q=place_id:${e.placeId}`
+                      : `https://www.google.com/maps/search/?api=1&query=${e.location}, ${e.address}`
+                  }
                   target="_blank"
                   rel="noreferrer noopener"
                 >

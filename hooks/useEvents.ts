@@ -21,6 +21,7 @@ type Event = {
   type: string | null
   location: string | null
   address: string | null
+  placeId: string | null
   entry: string | null
   link: string | null
   capacity: string | null
