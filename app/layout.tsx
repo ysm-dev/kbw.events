@@ -1,7 +1,11 @@
+import { Header } from "app/_components/Header"
 import "app/globals.css"
 
 import { Providers } from "components/Providers"
 import { HOST } from "constants/urls"
+import { GeistMono } from "geist/font/mono"
+import { GeistSans } from "geist/font/sans"
+import { cn } from "lib/utils"
 import type { Metadata } from "next"
 import type { ReactNode } from "react"
 
@@ -28,7 +32,10 @@ export const generateMetadata = async (): Promise<Metadata> => {
 
 export default function RootLayout({ children }: Props) {
   return (
-    <html lang="en" className="dark">
+    <html
+      lang="en"
+      className={cn("dark", GeistMono.variable, GeistSans.variable)}
+    >
       <head>
         <meta
           name="viewport"
@@ -36,7 +43,10 @@ export default function RootLayout({ children }: Props) {
         />
       </head>
       <body className="antialiased">
-        <Providers>{children}</Providers>
+        <Providers>
+          <Header />
+          {children}
+        </Providers>
       </body>
     </html>
   )

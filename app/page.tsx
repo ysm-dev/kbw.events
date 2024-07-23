@@ -1,27 +1,15 @@
+import { EventList } from "app/_components/EventList"
+
+export const runtime = "edge"
+export const revalidate = 180
+
 export default function Page() {
   return (
     <div className="m-2 p-2 text-2xl">
-      <div className="">1</div>
+      <h1 className="text-center font-extrabold text-xl uppercase">
+        Korea Blockchain Week 2024 Official Side Event List
+      </h1>
+      <EventList />
     </div>
   )
 }
-
-/**
- * Event properties
- *
- * og image
- * title
- * host
- * event type
- * location name
- * location address
- * entry / ticket
- * rsvp link
- * capacity
- * email
- *
- *
- * start datetime
- * end datetime
- *
- */
