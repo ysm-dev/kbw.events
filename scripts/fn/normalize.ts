@@ -232,23 +232,3 @@ const getEndTime = (row: (string | undefined)[]): string | null => {
 
   return "23:59"
 }
-
-/**
- * Event properties
- *
- * og image
- * title
- * host
- * event type
- * location name
- * location address
- * entry / ticket
- * rsvp link
- * capacity
- * email
- *
- *
- * start datetime
- * end datetime
- *
- */
