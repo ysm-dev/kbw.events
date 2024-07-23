@@ -42,6 +42,7 @@ const norm = async (
   const type = getType(row)
   const location = getLocation(row)
   const address = getAddress(row)
+  const placeId = await getPlaceId(row)
   const entry = getEntry(row)
   const link = getLink(row)
   const capacity = getCapacity(row)
@@ -62,6 +63,7 @@ const norm = async (
     type,
     location,
     address,
+    placeId,
     entry,
     link,
     capacity,
@@ -149,6 +151,21 @@ const getAddress = (row: (string | undefined)[]): string | null => {
   if (row[4].includes("TBD")) return "TBD"
 
   return row[4]?.split("\n")?.[1] || null
+}
+
+const getPlaceId = async (
+  row: (string | undefined)[],
+): Promise<string | null> => {
+  const link = getLink(row)
+
+  if (isURL(link) && isLumaPage(link)) {
+    const id = new URL(link).pathname.split("/")[1]
+    const lumaInfo = await getLumaInfo(id)
+
+    return lumaInfo.event?.geo_address_info?.place_id || null
+  }
+
+  return null
 }
 
 const getEntry = (row: (string | undefined)[]): string | null => {

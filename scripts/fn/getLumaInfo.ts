@@ -1,10 +1,12 @@
-export const getLumaInfo = async (id: string) => {
+import { memoize } from "@fxts/core"
+
+export const getLumaInfo = memoize(async (id: string) => {
   const json = await fetch(`https://api.lu.ma/url?url=${id}`).then<R>((r) =>
     r.json(),
   )
 
   return json.data
-}
+})
 
 export interface R {
   kind: string

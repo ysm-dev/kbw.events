@@ -5,9 +5,13 @@ import { toCID } from "utils/toCID"
 export const saveImage = async (url?: string | null) => {
   if (!isURL(url)) return null
 
-  const cid = toCID(url)
+  const { origin, pathname } = new URL(url)
 
-  const res = await fetch(url)
+  const uri = new URL(pathname, origin).toString()
+
+  const cid = toCID(uri)
+
+  const res = await fetch(uri)
   const buffer = await res.arrayBuffer()
 
   const data = new Uint8Array(buffer)
