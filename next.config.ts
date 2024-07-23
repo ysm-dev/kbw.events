@@ -5,6 +5,15 @@ const config: NextConfig = {
   compiler: {
     // removeConsole: true,
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "raw.githubusercontent.com",
+      },
+    ],
+    formats: ["image/avif", "image/webp"],
+  },
 }
 
 export default config
