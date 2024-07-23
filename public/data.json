@@ -223,6 +223,22 @@
     "capacity": "150",
     "email": "kevin.kim8475@klaytn.foundation"
   },
+  "Golden Wave": {
+    "image": null,
+    "title": "Golden Wave",
+    "host": "Wavebridge",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "15:00",
+    "endTime": "19:00",
+    "type": "Conference, Networking",
+    "location": "TBD",
+    "address": "TBD",
+    "entry": "$200",
+    "link": "TBD",
+    "capacity": "300 - 500",
+    "email": "contact@gryps.xyz"
+  },
   "Family office & Investors Summit, Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicdclfkfcyxfutcb2gxbuk76b3zpqbqwcakhgl4rihebkkmmm4f4u.png",
     "title": "Family office & Investors Summit, Seoul",
