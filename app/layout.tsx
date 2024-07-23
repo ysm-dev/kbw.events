@@ -1,4 +1,5 @@
 import { Header } from "app/_components/Header"
+import { Main } from "app/_components/Main"
 import "app/globals.css"
 
 import { Providers } from "components/Providers"
@@ -45,7 +46,7 @@ export default function RootLayout({ children }: Props) {
       <body className="antialiased">
         <Providers>
           <Header />
-          {children}
+          <Main>{children}</Main>
         </Providers>
       </body>
     </html>
