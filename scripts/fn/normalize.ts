@@ -1,13 +1,28 @@
-import { entries, indexBy, map, pipe, toArray } from "@fxts/core"
+import { join } from "node:path"
+import {
+  concurrent,
+  entries,
+  indexBy,
+  map,
+  pipe,
+  toArray,
+  toAsync,
+} from "@fxts/core"
 import { format } from "date-fns"
 import { parse } from "date-format-parse"
+import ogs from "open-graph-scraper"
+import { getLumaInfo } from "scripts/fn/getLumaInfo"
+import { isLumaPage } from "utils/isLumaPage"
+import { isURL } from "utils/isURL"
 
-export const normalize = (data: (string | undefined)[][]) => {
+export const normalize = async (data: (string | undefined)[][]) => {
   const a = [data[4], data[5], ...data.slice(7)]
 
-  const r = pipe(
+  const r = await pipe(
     a,
+    toAsync,
     map(norm),
+    concurrent(20),
     toArray,
     indexBy((i) => i.title),
   )
@@ -17,9 +32,10 @@ export const normalize = (data: (string | undefined)[][]) => {
   return r
 }
 
-const norm = (
+const norm = async (
   row: (string | undefined)[],
-): { [key in string]: string | null } => {
+): Promise<{ [key in string]: string | null }> => {
+  const image = await getImage(row)
   const title = getTitle(row)
   const host = getHost(row)
   const type = getType(row)
@@ -34,7 +50,10 @@ const norm = (
   const startTime = getStartTime(row)
   const endTime = getEndTime(row)
 
+  console.log(image)
+
   const r = {
+    image,
     title,
     host,
     startDate,
@@ -56,6 +75,36 @@ const norm = (
     map(([k, v]) => [k, v?.replaceAll("\r", "") ?? null]),
     Object.fromEntries,
   )
+}
+
+const getImage = async (
+  row: (string | undefined)[],
+): Promise<string | null> => {
+  const link = getLink(row)
+
+  if (isURL(link)) {
+    if (isLumaPage(link)) {
+      const id = new URL(link).pathname.split("/")[1]
+      const { event } = await getLumaInfo(id)
+      return event.cover_url || null
+    }
+
+    const r = await ogs({ url: link }).catch(() => null)
+
+    if (!r) {
+      return null
+    }
+
+    const url = r.result.ogImage?.[0].url
+
+    if (url && !url.startsWith("http")) {
+      return new URL(url, link).toString()
+    }
+
+    return url || null
+  }
+
+  return null
 }
 
 const getTitle = (row: (string | undefined)[]): string => {
