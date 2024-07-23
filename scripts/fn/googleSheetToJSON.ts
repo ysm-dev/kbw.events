@@ -25,7 +25,7 @@ export const googleSheetToJSON = async (sheetId: string) => {
 
   const rows = sheet.data[0]
     .rowData!.map((row) =>
-      row.values?.slice(0, col).map((value) => value.formattedValue),
+      row.values?.slice(0, col).map((value) => value.formattedValue?.trim()),
     )
     .filter((row) => row?.some((cell) => cell))
 
