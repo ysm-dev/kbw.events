@@ -50,8 +50,6 @@ const norm = async (
   const startTime = getStartTime(row)
   const endTime = getEndTime(row)
 
-  console.log(image)
-
   const r = {
     image,
     title,
@@ -96,6 +94,8 @@ const getImage = async (
     }
 
     const url = r.result.ogImage?.[0].url
+
+    console.log({ link, url })
 
     if (url && !url.startsWith("http")) {
       return new URL(url, link).toString()
@@ -172,6 +172,7 @@ const getEmail = (row: (string | undefined)[]): string | null => {
   return (
     row[8]
       .replaceAll("\n", ",")
+      .replaceAll("mailto:", "")
       .split(",")
       .filter((e) => e.includes("@"))?.[0] || null
   )

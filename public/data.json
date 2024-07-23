@@ -1,6 +1,6 @@
 {
   "Korea Blockchain Week Main Conference: IMPACT": {
-    "image": null,
+    "image": "https://main.d1cf0myt43epiy.amplifyapp.com/opengraph-image.png?f426f734a34c5792",
     "title": "Korea Blockchain Week Main Conference: IMPACT",
     "host": "FACTBLOCK + Hashed",
     "startDate": "2024-09-03",
@@ -10,8 +10,8 @@
     "type": "Main Conference",
     "location": "Grand Walkerhill",
     "address": "177 Walkerhill-ro, Gwangjin-gu, Seoul",
-    "entry": "Get Ticket",
-    "link": "Full Conference Tickets on Sale Now",
+    "entry": "https://tickets.koreablockchainweek.com/",
+    "link": "https://tickets.koreablockchainweek.com/",
     "capacity": null,
     "email": "info@koreablockchainweek.com"
   },
@@ -59,7 +59,7 @@
     "location": "Dreamplus Gangnam",
     "address": "B1, 311 Gangnam-daero, Seocho-gu, Seoul, Republic of Korea",
     "entry": "TBD",
-    "link": "https://hackathon.xrplkorea.org",
+    "link": "https://hackathon.xrplkorea.org/",
     "capacity": "TBD",
     "email": "TBD"
   },
@@ -351,18 +351,18 @@
     "capacity": "50",
     "email": "jjk91525@gmail.com"
   },
-  "MAL Night ": {
+  "Exio.ventures Night": {
     "image": "https://contents.sixshop.com/uploadedFiles/91680/default/image_1646684896184.jpg",
-    "title": "MAL Night ",
-    "host": "MAL",
+    "title": "Exio.ventures Night",
+    "host": "Exio.ventures",
     "startDate": "2024-09-02",
     "endDate": "2024-09-03",
     "startTime": "19:00",
     "endTime": "22:00",
-    "type": "TBD",
-    "location": "TBD",
-    "address": "TBD",
-    "entry": "Free Entry",
+    "type": "Networking Dinner",
+    "location": "AMD Tower",
+    "address": null,
+    "entry": "Invitation Only",
     "link": "https://www.meta-airline.tours/",
     "capacity": "50",
     "email": "mal@meta-airline.tours"
@@ -667,7 +667,7 @@
     "location": "AMC Tower",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul, Republic of Korea, 06135",
     "entry": "Free Entry",
-    "link": "https://iceteasoftware.io",
+    "link": "https://iceteasoftware.io/",
     "capacity": "150",
     "email": "Grace@iceteasoftware.com"
   },
