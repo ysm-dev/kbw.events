@@ -13,5 +13,5 @@ export const saveImage = async (url?: string | null) => {
   const data = new Uint8Array(buffer)
   await writeFile(`public/imgs/${cid}.png`, data)
 
-  return `https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/${cid}`
+  return `https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/${cid}.png`
 }
