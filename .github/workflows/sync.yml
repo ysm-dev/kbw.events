@@ -2,7 +2,7 @@ name: Sync
 
 on:
   schedule:
-    # every 1 hours
+    # every 1 hour
     - cron: "0 * * * *"
 
   workflow_dispatch:
@@ -17,6 +17,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@master
+        with:
+          ref: 2024
       - uses: oven-sh/setup-bun@main
         with:
           bun-version: latest
