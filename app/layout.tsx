@@ -3,6 +3,7 @@ import { Main } from "app/_components/Main"
 import "app/globals.css"
 
 import { Providers } from "components/Providers"
+import { Toaster } from "components/ui/sonner"
 import { HOST } from "constants/urls"
 import { GeistMono } from "geist/font/mono"
 import { GeistSans } from "geist/font/sans"
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: Props) {
         <Providers>
           <Header />
           <Main>{children}</Main>
+          <Toaster />
         </Providers>
       </body>
     </html>

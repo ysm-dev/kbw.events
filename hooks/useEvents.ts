@@ -1,18 +1,35 @@
+import { indexBy, map, pipe, values } from "@fxts/core"
+import { useQuery, useSuspenseQuery } from "@tanstack/react-query"
+import { slugify } from "utils/slugify"
+
 export const getEvents = async () => {
   const data = await fetch(
     "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/data.json",
   ).then<R>((r) => r.json())
 
-  return data
+  return pipe(
+    data,
+    values,
+    map((v) => ({ ...v, slug: slugify(v.title) })),
+    indexBy((e) => e.slug),
+  )
+}
+
+export const useEvents = () => {
+  return useSuspenseQuery({
+    queryKey: ["events"],
+    queryFn: getEvents,
+  })
 }
 
 type R = {
   [key in string]: Event
 }
 
-type Event = {
+export type Event = {
   image: string | null
   title: string
+  slug: string
   host: string | null
   startDate: string | null
   endDate: string | null
