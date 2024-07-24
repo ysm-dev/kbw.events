@@ -237,6 +237,23 @@
     "capacity": "150",
     "email": "kevin.kim8475@klaytn.foundation"
   },
+  "Web3 x AI summit": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifoenjez4hwxco4osy3zvy3kqbs4qeirhe67vxhckynfrmceb3sfe.png",
+    "title": "Web3 x AI summit",
+    "host": "AI Network",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "12:00",
+    "endTime": "18:00",
+    "type": "Conference, Networking",
+    "location": "Uncommon Gallery",
+    "address": "B1, 516, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/s2euirlf",
+    "capacity": "200",
+    "email": "bskim@comcom.ai"
+  },
   "Golden Wave": {
     "image": null,
     "title": "Golden Wave",
@@ -270,6 +287,23 @@
     "link": "https://lu.ma/dh3h0pjy",
     "capacity": "300",
     "email": "mananas@me.com"
+  },
+  "Payy presents: zk wine tasting @ korea blockchain week": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiayb6yzrx36vshrz57t2ae2w3etq7s2paorfz6p7oficiwqfwkfuu.png",
+    "title": "Payy presents: zk wine tasting @ korea blockchain week",
+    "host": "Payy",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "17:00",
+    "endTime": "20:00",
+    "type": "Happy hour",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pn80z994",
+    "capacity": null,
+    "email": "spencer@polybaselabs.com"
   },
   "Futureverse Vibe": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih7nylk3xkugj66f2zir6q5nvmfajp5eqpwz3rhw7ttajugs3cjq4.png",
@@ -461,7 +495,7 @@
   "Sunset Garden: A Night of Institutional Custody and Crypto Magic": {
     "image": null,
     "title": "Sunset Garden: A Night of Institutional Custody and Crypto Magic",
-    "host": "BDACS & BDX",
+    "host": "BDACS",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "18:00",
