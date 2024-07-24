@@ -425,7 +425,7 @@
     "email": "jjk91525@gmail.com"
   },
   "Exio.ventures Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiccjchdkxavibfiswmjn5ishodjb65d2xbqsas74loeg2l2otsyia.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigyehbts7a4vdpbinepmobi7fyepufzsytfhfjvzd3fktghc47ali.png",
     "title": "Exio.ventures Night",
     "host": "Exio.ventures",
     "startDate": "2024-09-02",
@@ -433,11 +433,11 @@
     "startTime": "19:00",
     "endTime": "22:00",
     "type": "Networking Dinner",
-    "location": "The AMD Tower",
+    "location": "The AMC Tower",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ_XhYRVGjfDURtiH5joH_vnc",
     "entry": "Invitation Only",
-    "link": "https://www.meta-airline.tours/",
+    "link": "https://lu.ma/7v4jsp9e",
     "capacity": "50",
     "email": "mal@meta-airline.tours"
   },
@@ -474,6 +474,23 @@
     "link": "TBD",
     "capacity": "150",
     "email": "kevin.kim8475@klaytn.foundation"
+  },
+  "Presto Labs Happy Hour": {
+    "image": null,
+    "title": "Presto Labs Happy Hour",
+    "host": "Presto Labs",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-04",
+    "startTime": "00:00",
+    "endTime": "23:59",
+    "type": "TBD",
+    "location": "Pizza Hill",
+    "address": "177 Walkerhill-ro, Gwangjin District, Seoul",
+    "placeId": null,
+    "entry": "TBD",
+    "link": "TBD",
+    "capacity": null,
+    "email": null
   },
   "Games: Portal to Web3": {
     "image": null,
@@ -590,23 +607,6 @@
     "address": "639 Achasan-ro, Gwangjin District, Seoul",
     "placeId": null,
     "entry": "Free Entry",
-    "link": "TBD",
-    "capacity": null,
-    "email": null
-  },
-  "Presto Labs Happy Hour": {
-    "image": null,
-    "title": "Presto Labs Happy Hour",
-    "host": "Presto Labs",
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-04",
-    "startTime": "00:00",
-    "endTime": "23:59",
-    "type": "TBD",
-    "location": "Pizza Hill",
-    "address": "177 Walkerhill-ro, Gwangjin District, Seoul",
-    "placeId": null,
-    "entry": "TBD",
     "link": "TBD",
     "capacity": null,
     "email": null
@@ -850,7 +850,7 @@
     "email": "jeff@despread.io"
   },
   "13Desk Meet Up": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicxwnh3gv5aduftpban6pkfa2zfuopybgkdscwc7f4pptxfvnvj5u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgh4pwqxla2ncgvadfblwj6x6qf4rsefesg4tdd7i7j7hzpbmfzm.png",
     "title": "13Desk Meet Up",
     "host": null,
     "startDate": "2024-09-05",
