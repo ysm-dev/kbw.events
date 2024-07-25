@@ -101,23 +101,6 @@
     "capacity": null,
     "email": "yoonlee@tiger-research.com"
   },
-  "L3 Night by Orbs": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihaldyogkiwgk4udxd37h7nmn35jbz4skgllyd5f6v7wik3be6rqq.png",
-    "title": "L3 Night by Orbs",
-    "host": "Orbs",
-    "startDate": "2024-09-01",
-    "endDate": "2024-09-01",
-    "startTime": "19:00",
-    "endTime": "22:00",
-    "type": "Networking Event, Party",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
-    "entry": "Free Entry",
-    "link": "https://lu.ma/1vvoin6h",
-    "capacity": null,
-    "email": "orbskorea@orbs.com"
-  },
   "Eric Spivak": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigl7q2ipq2kumzevbuhq2pnyuncldtjlexhglmw6t2kibvcpycx5e.png",
     "title": "Eric Spivak",
@@ -168,6 +151,23 @@
     "link": "https://frkd.io/gaming",
     "capacity": "1000",
     "email": "hello@frkd.io"
+  },
+  "DeSci Seoul 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihyhzrznoszaflewdpbssam67x6yp67mfefw6u4d5v4ttsio6bzxa.png",
+    "title": "DeSci Seoul 2024",
+    "host": "Hippocrat & ResearchHub",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "10:00",
+    "endTime": "17:00",
+    "type": "Conference, Workshop, Networking Event",
+    "location": "Dreamplus Gangnam",
+    "address": "311 Gangnam-daero, Seocho-gu, Seoul",
+    "placeId": "ChIJbXdTk0-hfDURvFywX9aAskg",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/73ak22pr",
+    "capacity": "150",
+    "email": "desciseoul@gmail.com"
   },
   "Hack Seasons Conference Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia2iwvbimoh6ixqmf7to2esetb257up4fuuwotmtguw7nbhm4xsfa.png",
@@ -287,6 +287,23 @@
     "link": "https://lu.ma/dh3h0pjy",
     "capacity": "300",
     "email": "mananas@me.com"
+  },
+  "Layers Night": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihaldyogkiwgk4udxd37h7nmn35jbz4skgllyd5f6v7wik3be6rqq.png",
+    "title": "Layers Night",
+    "host": "Orbs",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "15:00",
+    "endTime": "22:00",
+    "type": "Networking Event, Party",
+    "location": "JBK ConventionHall",
+    "address": "619 Bongeunsa-ro, Samsung 1dong Gangnam District, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/1vvoin6h",
+    "capacity": "250",
+    "email": "orbskorea@orbs.com"
   },
   "Payy presents: zk wine tasting @ korea blockchain week": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiayb6yzrx36vshrz57t2ae2w3etq7s2paorfz6p7oficiwqfwkfuu.png",
@@ -933,6 +950,23 @@
     "link": "https://aptosfoundation.org/events/aptos-experience",
     "capacity": "TBD",
     "email": "gm@gosupernova.xyz"
+  },
+  "Websea gamefi night": {
+    "image": null,
+    "title": "Websea gamefi night",
+    "host": "Websea",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-06",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "type": "Conference",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": null,
+    "link": null,
+    "capacity": null,
+    "email": null
   },
   "Future+ Codes of Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihty2u76trvddouiavpvkaplzsj2kqndrqdhyotgj6752mbsa5a6a.png",
