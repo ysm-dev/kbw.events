@@ -1,9 +1,13 @@
 import { memoize } from "@fxts/core"
 
 export const getLumaInfo = memoize(async (id: string) => {
-  const json = await fetch(`https://api.lu.ma/url?url=${id}`).then<R>((r) =>
-    r.json(),
-  )
+  const res = await fetch(`https://api.lu.ma/url?url=${id}`)
+
+  if (!res.ok) {
+    return null
+  }
+
+  const json: R = await res.json()
 
   return json.data
 })

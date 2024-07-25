@@ -323,7 +323,7 @@
     "email": "spencer@polybaselabs.com"
   },
   "Futureverse Vibe": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih7nylk3xkugj66f2zir6q5nvmfajp5eqpwz3rhw7ttajugs3cjq4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaxlfrsrns4z33sm3cuxyhsbevszmgbctz2c6b6nz7zyg6dra6u5y.png",
     "title": "Futureverse Vibe",
     "host": "Catalyze Research / Futureverse",
     "startDate": "2024-09-02",
@@ -442,7 +442,7 @@
     "email": "jjk91525@gmail.com"
   },
   "Exio.ventures Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigyehbts7a4vdpbinepmobi7fyepufzsytfhfjvzd3fktghc47ali.png",
+    "image": null,
     "title": "Exio.ventures Night",
     "host": "Exio.ventures",
     "startDate": "2024-09-02",
@@ -452,7 +452,7 @@
     "type": "Networking Dinner",
     "location": "The AMC Tower",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": "ChIJ_XhYRVGjfDURtiH5joH_vnc",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/7v4jsp9e",
     "capacity": "50",
@@ -526,6 +526,23 @@
     "capacity": "200",
     "email": "team@skygg.xyz"
   },
+  "KBW Hash Hour with Halborn": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreier2lkjp7pwvnck2nyvdkvbnfpf37oowfutgh6pmxwc2a42vtkdee.png",
+    "title": "KBW Hash Hour with Halborn",
+    "host": "Halborn",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "type": "Hash Hour",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/6tbzk7h6",
+    "capacity": null,
+    "email": "ayessa.lopez@halborn.com"
+  },
   "Sunset Garden: A Night of Institutional Custody and Crypto Magic": {
     "image": null,
     "title": "Sunset Garden: A Night of Institutional Custody and Crypto Magic",
@@ -559,6 +576,23 @@
     "link": "TBD",
     "capacity": "250",
     "email": "kevin.kim8475@klaytn.foundation"
+  },
+  "The Mile-High Dinner with Somnia": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvchdbh6yxzsujywv63iivjfiljtlfu3xqsmlg66liexztjuh26e.png",
+    "title": "The Mile-High Dinner with Somnia",
+    "host": "Somnia",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:30",
+    "endTime": "21:30",
+    "type": "VVIP Networking",
+    "location": "177 Walkerhill-ro, Gwangjin-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJd5mhp7C6fDUR5VfmFvwRV7o",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/44ospwk9",
+    "capacity": "150",
+    "email": "amr@virtualsociety.foundation"
   },
   "KOL Night by Fablo": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifnxchywedp56yabw77dtfkhadj6ykabnt64mgdukt3r5ot7qf4eu.png",
@@ -831,6 +865,23 @@
     "link": "TBD",
     "capacity": "TBD",
     "email": "contact@epochsummit.com"
+  },
+  "KBW Coffee Meetup with Halborn": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidgwpbd2nucoyeew3q4rpq2yvuab5qye2wr34mozkhwmnnqtgls7u.png",
+    "title": "KBW Coffee Meetup with Halborn",
+    "host": "Halborn",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "type": "Meetup",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/7bl20h4e",
+    "capacity": null,
+    "email": "ayessa.lopez@halborn.com"
   },
   "Blackwing: Trading Memes on Leverage": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibok55s7ruazmqrumbb32hb2qlgqalmdhf75fqlct56b3qcy3k7cq.png",

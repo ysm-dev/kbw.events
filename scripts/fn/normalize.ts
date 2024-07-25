@@ -86,7 +86,13 @@ const getImage = async (
   if (isURL(link)) {
     if (isLumaPage(link)) {
       const id = new URL(link).pathname.split("/")[1]
-      const { event } = await getLumaInfo(id)
+      const luma = await getLumaInfo(id)
+
+      if (!luma) {
+        return null
+      }
+
+      const event = luma.event
 
       if (isURL(event.cover_url)) {
         return await saveImage(event.cover_url)
@@ -160,9 +166,13 @@ const getPlaceId = async (
 
   if (isURL(link) && isLumaPage(link)) {
     const id = new URL(link).pathname.split("/")[1]
-    const lumaInfo = await getLumaInfo(id)
+    const luma = await getLumaInfo(id)
 
-    return lumaInfo.event?.geo_address_info?.place_id || null
+    if (!luma) {
+      return null
+    }
+
+    return luma.event?.geo_address_info?.place_id || null
   }
 
   return null
