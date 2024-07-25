@@ -1,11 +1,24 @@
+"use client"
+
+import { useWindowScroll } from "@uidotdev/usehooks"
 import { Button } from "components/ui/button"
 import { Tooltip, TooltipContent, TooltipTrigger } from "components/ui/tooltip"
+import { useSavedEvents } from "hooks/useSavedEvents"
+import { cn } from "lib/utils"
 import { Bookmark, Calendar, Info, Plus, Sun } from "lucide-react"
 import Link from "next/link"
 
 export const Header = () => {
+  const { saved } = useSavedEvents()
+  const [{ y }] = useWindowScroll()
+
   return (
-    <header className="fixed z-50 flex h-[var(--header-height)] w-full items-center px-2 backdrop-blur-lg">
+    <header
+      className={cn(
+        "fixed z-50 flex h-[var(--header-height)] w-full items-center px-2 backdrop-blur-lg",
+        y && y > 16 && "border-b",
+      )}
+    >
       <Tooltip delayDuration={0}>
         <TooltipTrigger asChild>
           <Button size="icon" variant="ghost" asChild>
@@ -24,7 +37,12 @@ export const Header = () => {
           <Button size="icon" variant="ghost" className="relative" asChild>
             <Link href="/saved">
               <Bookmark className="size-4 opacity-50" />
-              <div className="absolute top-0 right-0 m-2 size-[9px] rounded-full bg-gradient-to-r from-red-400 to-red-500 shadow-sm" />
+              <div
+                className={cn(
+                  "absolute top-0 right-0 m-2 size-2 rounded-full bg-gradient-to-r from-red-400 to-red-500 shadow-sm transition-all",
+                  saved.length === 0 && "opacity-0",
+                )}
+              />
             </Link>
           </Button>
         </TooltipTrigger>
@@ -33,7 +51,7 @@ export const Header = () => {
         </TooltipContent>
       </Tooltip>
 
-      <Tooltip delayDuration={0}>
+      {/* <Tooltip delayDuration={0}>
         <TooltipTrigger asChild>
           <Button size="icon" variant="ghost" asChild>
             <Link href="/about">
@@ -42,11 +60,11 @@ export const Header = () => {
           </Button>
         </TooltipTrigger>
         <TooltipContent className="bg-foreground">About</TooltipContent>
-      </Tooltip>
+      </Tooltip> */}
 
       <div className="grow" />
 
-      <Tooltip delayDuration={0}>
+      {/* <Tooltip delayDuration={0}>
         <TooltipTrigger asChild>
           <Button size="icon" variant="ghost">
             <Sun className="size-4 opacity-70" />
@@ -55,7 +73,7 @@ export const Header = () => {
         <TooltipContent className="bg-foreground" collisionPadding={8}>
           Toggle Appearance
         </TooltipContent>
-      </Tooltip>
+      </Tooltip> */}
 
       <Tooltip delayDuration={0}>
         <TooltipTrigger asChild>

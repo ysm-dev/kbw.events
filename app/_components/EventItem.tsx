@@ -3,6 +3,7 @@
 import { Image } from "components/Image"
 import { Button } from "components/ui/button"
 import { Toggle } from "components/ui/toggle"
+import { format, parse } from "date-fns"
 import type { Event } from "hooks/useEvents"
 import { useSavedEvents } from "hooks/useSavedEvents"
 import { Bookmark, Info, MapPin, Share, Ticket, User } from "lucide-react"
@@ -21,7 +22,7 @@ export const EventItem = ({ event: e }: Props) => {
         <time className="text-sm opacity-50">
           {e.startTime === "00:00"
             ? `All Day`
-            : `${e.startTime} - ${e.endTime}`}
+            : `${format(parse(e.startTime!, "HH:mm", new Date()), "h:mm a")}`}
         </time>
         <h2 className="my-1 text-balance font-medium text-lg leading-tight">
           {e.title}
@@ -101,9 +102,7 @@ export const EventItem = ({ event: e }: Props) => {
             data-state={isSaved(e.slug) ? "on" : "off"}
             onPressedChange={() => {
               toggleEvent(e.slug)
-              toast.success(
-                !isSaved(e.slug) ? `Saved ${e.title}` : `Removed ${e.title}`,
-              )
+              toast.success(!isSaved(e.slug) ? `Saved` : `Removed`)
             }}
           >
             <Bookmark className="size-4 group-data-[state=on]:fill-foreground" />
