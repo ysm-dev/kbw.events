@@ -136,7 +136,7 @@
     "email": "contact@x-phere.com"
   },
   "FORKED Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia2txrg5ld6d6s2nyx2pysvfjrep6w62afnku2vvzf466gpgbn63u.png",
+    "image": null,
     "title": "FORKED Gaming",
     "host": "CREZEE",
     "startDate": "2024-09-02",
@@ -493,7 +493,7 @@
     "email": "kevin.kim8475@klaytn.foundation"
   },
   "Institutional Happy Hour": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic5fphmfsssa6mmelubz356jhufrxngbomwe64hbx23rscrby5tnu.png",
     "title": "Institutional Happy Hour",
     "host": "Presto, Galaxy, Spartan",
     "startDate": "2024-09-03",
@@ -505,7 +505,7 @@
     "address": null,
     "placeId": null,
     "entry": "Invitation Only",
-    "link": "TBD",
+    "link": "https://lu.ma/trg8a9n0",
     "capacity": "160",
     "email": "loganlim@prestolabs.io"
   },
@@ -869,7 +869,7 @@
   "13Desk Meet Up": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgh4pwqxla2ncgvadfblwj6x6qf4rsefesg4tdd7i7j7hzpbmfzm.png",
     "title": "13Desk Meet Up",
-    "host": null,
+    "host": "13Desk",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "18:00",
@@ -963,10 +963,10 @@
     "location": "TBD",
     "address": "TBD",
     "placeId": null,
-    "entry": null,
-    "link": null,
-    "capacity": null,
-    "email": null
+    "entry": "Invitation Only",
+    "link": "TBD",
+    "capacity": "150",
+    "email": "start2002great@gmail.com"
   },
   "Future+ Codes of Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihty2u76trvddouiavpvkaplzsj2kqndrqdhyotgj6752mbsa5a6a.png",
