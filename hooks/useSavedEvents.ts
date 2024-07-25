@@ -1,4 +1,4 @@
-import { useLocalStorage } from "@uidotdev/usehooks"
+import { useLocalStorage } from "foxact/use-local-storage"
 
 export const useSavedEvents = () => {
   const [saved, setSaved] = useLocalStorage<string[]>("saved", [])
