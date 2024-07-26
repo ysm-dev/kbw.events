@@ -1069,5 +1069,22 @@
     "link": "TBD",
     "capacity": "TBD",
     "email": null
+  },
+  "FuturaCanvas #0": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "title": "FuturaCanvas #0",
+    "host": "FuturaCanvas",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-07",
+    "startTime": "13:00",
+    "endTime": "20:00",
+    "type": "Conference, Art Showcase, Networking Party, Art Tour",
+    "location": "CAVEHOUSE, Itaewon",
+    "address": "36, Itaewon-ro 27na-gil, Yongsan-gu, Seoul",
+    "placeId": null,
+    "entry": "Full: ₩122,400 ($87) / EARLY BIRD 1Day: ₩48,000 ($34)",
+    "link": "https://futuracanvas.com/",
+    "capacity": "500",
+    "email": "info@futuracanvas.com"
   }
 }
