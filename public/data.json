@@ -170,7 +170,7 @@
     "email": "desciseoul@gmail.com"
   },
   "Hack Seasons Conference Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia2iwvbimoh6ixqmf7to2esetb257up4fuuwotmtguw7nbhm4xsfa.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihwdhiveluypyy737ydm2qux65v3kixkv2lctttmzweagd767tmeq.png",
     "title": "Hack Seasons Conference Seoul",
     "host": "Mpost",
     "startDate": "2024-09-02",
@@ -458,17 +458,17 @@
     "capacity": "50",
     "email": "mal@meta-airline.tours"
   },
-  "KBW Builders' Brunch by Caladan x Magna": {
+  "KBW Builders' Brunch by Caladan x Magna x Monad": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6kzp7kytxc5zjisb5su3oa5xzcqwfussc2cgpgiaaqacku5xute.png",
-    "title": "KBW Builders' Brunch by Caladan x Magna",
-    "host": "Caladan x Magna",
+    "title": "KBW Builders' Brunch by Caladan x Magna x Monad",
+    "host": "Caladan x Magna x Monad",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "10:00",
     "endTime": "13:00",
     "type": "Networking Event",
-    "location": "TBD",
-    "address": "TBD",
+    "location": "Seocho District, Seoul",
+    "address": null,
     "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/kbwbrunch",
