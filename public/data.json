@@ -1020,7 +1020,7 @@
     "email": "zac@encryptx.io"
   },
   "Art Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "Art Night",
     "host": "FuturaCanvas #0 x Gallery STAN x Super Soul Seoul",
     "startDate": "2024-09-05",
@@ -1122,7 +1122,7 @@
     "email": null
   },
   "FuturaCanvas #0": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "FuturaCanvas #0",
     "host": "FuturaCanvas",
     "startDate": "2024-09-05",
@@ -1139,7 +1139,7 @@
     "email": "info@futuracanvas.com"
   },
   "FuturaCanvas Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "FuturaCanvas Night",
     "host": "FuturaCanvas",
     "startDate": "2024-09-06",
