@@ -1138,6 +1138,23 @@
     "capacity": "500",
     "email": "info@futuracanvas.com"
   },
+  "Liquidity Summit": {
+    "image": null,
+    "title": "Liquidity Summit",
+    "host": "Mitosis x Google Cloud",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "14:00",
+    "endTime": "19:00",
+    "type": "Conference, Networking",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry(Pre-register)",
+    "link": "TBD",
+    "capacity": "300",
+    "email": "luke@mitosis.org"
+  },
   "FuturaCanvas Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
     "title": "FuturaCanvas Night",
@@ -1154,5 +1171,22 @@
     "link": "https://futuracanvas.com/",
     "capacity": "500",
     "email": "info@futuracanvas.com"
+  },
+  "Polkadot Mixer": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "title": "Polkadot Mixer",
+    "host": "Zain khan",
+    "startDate": "2024-09-12",
+    "endDate": "2024-09-13",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://futuracanvas.com/",
+    "capacity": "60",
+    "email": null
   }
 }
