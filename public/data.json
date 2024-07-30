@@ -325,7 +325,7 @@
   "Futureverse Vibe": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaxlfrsrns4z33sm3cuxyhsbevszmgbctz2c6b6nz7zyg6dra6u5y.png",
     "title": "Futureverse Vibe",
-    "host": "Catalyze Research / Futureverse",
+    "host": "Catalyze Research / Futureverse / Pundi X",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "17:00",
@@ -764,6 +764,23 @@
     "capacity": "700",
     "email": "jb@memecore.org"
   },
+  "Uniting Societies @KBW": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidna7nt35h47mpibrh5wmjugafmmm4juoz5qzfb3cchf5raekrhai.png",
+    "title": "Uniting Societies @KBW",
+    "host": "Somnia",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "type": "Networking Event",
+    "location": "1F 70-266, Sinpyeong-dong, Gumi, Gyeongsangbuk-do",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/i4nkzjgj",
+    "capacity": "150",
+    "email": "amr@virtualsociety.foundation"
+  },
   "Navigating Investment in Web3: Tech, Narrative, or FOMO?": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicha7ivkgrw77cg5bdtzmnmvqv3hkf452zj5k25f3zykqcetz3fma.png",
     "title": "Navigating Investment in Web3: Tech, Narrative, or FOMO?",
@@ -916,6 +933,23 @@
     "link": "https://lu.ma/event/manage/evt-gqZsseNu37uCcXi",
     "capacity": null,
     "email": "billy_kim@fliquid.io"
+  },
+  "KBW2024 Sunrise Run 🏃‍♀️ with SuperWalk & Planetarium Labs": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4vdsgrgfkdtewqj435ornsm6sx6j55j3delaqwz63qmgpwmfcyq.png",
+    "title": "KBW2024 Sunrise Run 🏃‍♀️ with SuperWalk & Planetarium Labs",
+    "host": "SuperWalk & Planetarium Labs",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "type": "Running & Networking Event",
+    "location": "Hangang Moonlight Market",
+    "address": "40, Sinbanpo-ro 11-gil, Seocho-gu, Seoul",
+    "placeId": "ChIJB50dkbqhfDURbFoFTXPC6ao",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/exx7gpnw",
+    "capacity": "30",
+    "email": "hakyong@planetariumhq.com"
   },
   "A41 Epoch": {
     "image": null,
