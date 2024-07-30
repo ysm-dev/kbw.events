@@ -1019,22 +1019,22 @@
     "capacity": "150",
     "email": "info@sevenlinelabs.com"
   },
-  "Supernova Soju Tasting & Disco": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibdynbmtmiuxdfilddzt63kpm74uxghbsrexsuilm33ijyzgwfylm.png",
-    "title": "Supernova Soju Tasting & Disco",
-    "host": "Supernova 🪩",
+  "Supernova Cocktails + Disco": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wlb4kh75lekitfsqetwmplrqw2zlr3f33ja6klkvv2nezqwbga.png",
+    "title": "Supernova Cocktails + Disco",
+    "host": "Supernova",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "19:00",
     "endTime": "00:00",
-    "type": "Party",
-    "location": "Hotel Anteroom",
-    "address": "153 Dosan-daero, Gangnam District, Seoul",
+    "type": "Party, Networking",
+    "location": "Secret Rooftop Location",
+    "address": null,
     "placeId": null,
     "entry": "Invitation Only",
-    "link": "https://gosupernova.xyz",
-    "capacity": "150",
-    "email": null
+    "link": "https://lu.ma/ertun3gh",
+    "capacity": "100",
+    "email": "gm@gosupernova.xyz"
   },
   "Fragmetric X Backpack Rendezvous Powered by Presto": {
     "image": null,
