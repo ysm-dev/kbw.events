@@ -390,6 +390,23 @@
     "capacity": null,
     "email": "info@geda.gg"
   },
+  "DePIN DAY + Afterparty @ KBW": {
+    "image": null,
+    "title": "DePIN DAY + Afterparty @ KBW",
+    "host": "DePHY Network + MissWProject + Madlads",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "02:00",
+    "type": "Networking + Party Event",
+    "location": "Weple Art Gallery",
+    "address": "7, Wonhyo-ro, Yongsan-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "TBD",
+    "capacity": "350",
+    "email": null
+  },
   "Private Dinner with Tigers": {
     "image": null,
     "title": "Private Dinner with Tigers",
@@ -798,6 +815,23 @@
     "capacity": "150",
     "email": "amr@virtualsociety.foundation"
   },
+  "Trading Meme Coins on Leverage by Blackwing.fi": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibok55s7ruazmqrumbb32hb2qlgqalmdhf75fqlct56b3qcy3k7cq.png",
+    "title": "Trading Meme Coins on Leverage by Blackwing.fi",
+    "host": "Blackwing",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/kks6p7b6",
+    "capacity": null,
+    "email": "autumn@ferumlabs.com"
+  },
   "Navigating Investment in Web3: Tech, Narrative, or FOMO?": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicha7ivkgrw77cg5bdtzmnmvqv3hkf452zj5k25f3zykqcetz3fma.png",
     "title": "Navigating Investment in Web3: Tech, Narrative, or FOMO?",
@@ -865,6 +899,23 @@
     "link": "https://lu.ma/4wq05ej9",
     "capacity": "500",
     "email": "hannahds@marblex.net"
+  },
+  "Orbiter Layer2 Influence night": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifgffunqkcuqubng2hnkowuuz6ferqrmdhi3a4qqd4uo4zafd5xqq.png",
+    "title": "Orbiter Layer2 Influence night",
+    "host": "Orbiter Finance",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "19:00",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": "ChIJzzlcLQGifDURm_JbQKHsEX4",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/ic99ftgg",
+    "capacity": "150",
+    "email": "marilynquan1121@gmail.com"
   },
   "Meme Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigkmnjy5llwxfnazeq2wv4ufjbegiany6pl7ri5o4e45wxhzjtcwm.png",
