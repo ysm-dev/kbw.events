@@ -322,6 +322,23 @@
     "capacity": null,
     "email": "spencer@polybaselabs.com"
   },
+  "Ready Player Seoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihdzhrah23xcooitnuejzydxcadz5z2wogckiezybbz2d6hbbojba.png",
+    "title": "Ready Player Seoul",
+    "host": "Iskra X YGG",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "17:00",
+    "endTime": "22:00",
+    "type": "Gaming Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": "ChIJi0HgxsKhfDUR689D6abDh78",
+    "entry": null,
+    "link": "https://lu.ma/ac6ya4au",
+    "capacity": null,
+    "email": "jiji.chung@iskra.world"
+  },
   "Futureverse Vibe": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaxlfrsrns4z33sm3cuxyhsbevszmgbctz2c6b6nz7zyg6dra6u5y.png",
     "title": "Futureverse Vibe",
@@ -527,7 +544,7 @@
     "email": "TBD"
   },
   "KBW Builders' Brunch by Caladan x Magna x Monad": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie7oc7zucimro5ghhinmdhfebxonwkjl7etymvtiy3vggjzdtsvme.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvioictuhn4zludrezzc4oius4nzae42bxtapoix2t6zea4wvzra.png",
     "title": "KBW Builders' Brunch by Caladan x Magna x Monad",
     "host": "Caladan x Magna x Monad",
     "startDate": "2024-09-03",
