@@ -22,7 +22,9 @@ export const EventItem = ({ event: e }: Props) => {
         <time className="text-sm opacity-50">
           {e.startTime === "00:00"
             ? `All Day`
-            : `${format(parse(e.startTime!, "HH:mm", new Date()), "h:mm a")}`}
+            : e.startTime === "TBD"
+              ? `TBD`
+              : `${format(parse(e.startTime!, "HH:mm", new Date()), "h:mm a")}`}
         </time>
         <h2 className="my-1 text-balance font-medium text-lg leading-tight">
           {e.title}

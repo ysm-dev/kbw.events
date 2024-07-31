@@ -1,5 +1,6 @@
-import { Header } from "app/_components/Header"
-import { Main } from "app/_components/Main"
+import { Footer } from "app/components/Footer"
+import { Header } from "app/components/Header"
+import { Main } from "app/components/Main"
 import "app/globals.css"
 
 import { Providers } from "components/Providers"
@@ -48,6 +49,7 @@ export default function RootLayout({ children }: Props) {
         <Providers>
           <Header />
           <Main>{children}</Main>
+          <Footer />
           <Toaster />
         </Providers>
       </body>

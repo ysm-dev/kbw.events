@@ -11,7 +11,7 @@ import {
   values,
 } from "@fxts/core"
 import { IconCalendarSad } from "@tabler/icons-react"
-import { EventDateGroup } from "app/_components/EventDateGroup"
+import { EventDateGroup } from "app/components/EventDateGroup"
 import { Button } from "components/ui/button"
 import { useEvents } from "hooks/useEvents"
 import { useSavedEvents } from "hooks/useSavedEvents"

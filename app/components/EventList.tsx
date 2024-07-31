@@ -10,7 +10,7 @@ import {
   toArray,
   values,
 } from "@fxts/core"
-import { EventDateGroup } from "app/_components/EventDateGroup"
+import { EventDateGroup } from "app/components/EventDateGroup"
 import { useEvents } from "hooks/useEvents"
 
 export const EventList = () => {

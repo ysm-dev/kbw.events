@@ -11,7 +11,7 @@ import {
   values,
 } from "@fxts/core"
 import { useIntersectionObserver } from "@uidotdev/usehooks"
-import { EventItem } from "app/_components/EventItem"
+import { EventItem } from "app/components/EventItem"
 import { format, parse } from "date-fns"
 import type { Event } from "hooks/useEvents"
 import { cn } from "lib/utils"
