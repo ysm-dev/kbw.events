@@ -153,7 +153,7 @@
     "email": "contact@x-phere.com"
   },
   "FORKED Gaming": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
     "title": "FORKED Gaming",
     "host": "CREZEE",
     "startDate": "2024-09-02",
@@ -1392,6 +1392,23 @@
     "link": "https://futuracanvas.com/",
     "capacity": "500",
     "email": "info@futuracanvas.com"
+  },
+  "NEAR HZN AI Alpha Hackathon": {
+    "image": null,
+    "title": "NEAR HZN AI Alpha Hackathon",
+    "host": "NEAR & BeWater",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-07",
+    "startTime": "11:00",
+    "endTime": "16:00",
+    "type": "Hackathon",
+    "location": "AMC Tower",
+    "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://tbd.tbd/",
+    "capacity": "50",
+    "email": "rich0577@proton.me"
   },
   "Polkadot Mixer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
