@@ -730,22 +730,22 @@
     "capacity": "200",
     "email": "info@koreablockchainweek.com"
   },
-  "WEB3 Gaming Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifwy5ywhtarjaqkdjp7gcp3u2tdil7pmuaapvmbst7ka5xpzftw7a.png",
-    "title": "WEB3 Gaming Night",
+  "Gaming Connect": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibld64f2m5sf2ycw2erw5hpfge6o3s6tch6en35ke637vsammulvm.png",
+    "title": "Gaming Connect",
     "host": "Miracle Play",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
-    "startTime": "19:00",
+    "startTime": "18:30",
     "endTime": "22:00",
     "type": "Networking Event, Party",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
+    "location": "b1f, 263-10 Hannam-dong, Yongsan District, Seoul",
+    "address": null,
+    "placeId": "Ej1iMWYsIDI2My0xMCBIYW5uYW0tZG9uZywgWW9uZ3NhbiBEaXN0cmljdCwgU2VvdWwsIFNvdXRoIEtvcmVhIh8aHQoWChQKEgnZQMtkuqN8NREsP1ovDx8ZdhIDYjFm",
     "entry": "Invitation Only",
-    "link": "https://miracleplay.gg/",
+    "link": "https://lu.ma/z1cm1kb0",
     "capacity": "100",
-    "email": "info@sevenlinelabs.com"
+    "email": "aiden@sevenlinelabs.com"
   },
   "TON @Korea Blockchian Week": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicige4btkvbnqpc6kpxfvhy2d6bgbob7k2qeoewisgageuh6uuh7y.png",
@@ -1201,7 +1201,7 @@
     "location": "L7 Gangnam",
     "address": "415 Teheran-ro, Gangnam District, Seoul",
     "placeId": null,
-    "entry": "Free Entry",
+    "entry": "Invitation Only",
     "link": "https://lu.ma/h4s1dsvn",
     "capacity": "200",
     "email": "yura@nibiru.org"
