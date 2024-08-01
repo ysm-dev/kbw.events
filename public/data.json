@@ -255,7 +255,7 @@
     "email": "kevin.kim8475@klaytn.foundation"
   },
   "Web3 x AI summit": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieacw4pzfc5a2tnad5wrbpn7g77okvjyz2e2kfe5etxlujolxu4be.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicwtoh3cwrcpwqo2riojtx52arjbo5l4jmurw45fzhjagpa3astca.png",
     "title": "Web3 x AI summit",
     "host": "AI Network",
     "startDate": "2024-09-02",
@@ -306,7 +306,7 @@
     "email": "mananas@me.com"
   },
   "Layers Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigkseigeqb6al5hvwdwdcbbhpqamzmuacitx7plp5hewbdir6wrqq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihdbzmwa4q5hmrnxm25w7m6ovdzoa7uphsu5cnwogdojicgyg3qaq.png",
     "title": "Layers Night",
     "host": "Orbs",
     "startDate": "2024-09-02",
@@ -1156,21 +1156,21 @@
     "email": "contact@knightfury.io"
   },
   "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid7x26x3sqrdb4cev46j52tav5r7chff4xzuohdwldooxbmi7lgb4.png",
     "title": "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)",
     "host": "Bloomingbit",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
-    "startTime": "10:00",
-    "endTime": "18:00",
-    "type": null,
-    "location": null,
-    "address": null,
-    "placeId": null,
-    "entry": null,
-    "link": null,
-    "capacity": null,
-    "email": null
+    "startTime": "15:30",
+    "endTime": "20:00",
+    "type": "Networking Event, Conference",
+    "location": "VOCO Seoul Gangnam",
+    "address": "​144 Dosan daero, Gangnam-gu, Seoul",
+    "placeId": "ChIJjRb8DuyjfDUR8I9kgSd9LDA",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/156h19mg",
+    "capacity": "300",
+    "email": "cryptosupport@bloomingbit.io"
   },
   "Blackwing: Trading Memes on Leverage": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibok55s7ruazmqrumbb32hb2qlgqalmdhf75fqlct56b3qcy3k7cq.png",
