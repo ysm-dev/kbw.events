@@ -866,6 +866,23 @@
     "capacity": "150",
     "email": "a.gupta@supraoracles.com"
   },
+  "XRPL Zone Seoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
+    "title": "XRPL Zone Seoul",
+    "host": "Ripple",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "11:00",
+    "endTime": "15:45",
+    "type": "Networking Event",
+    "location": "Y173",
+    "address": "3 Yeongmujang 17-gil, Seongdong-su, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://events.xrplresources.org/xrpl-zone-seoul?utm_medium=KBWsideevent",
+    "capacity": "300",
+    "email": "events@ripple.com"
+  },
   "Korea Meme Day with Uniswap": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigkmnjy5llwxfnazeq2wv4ufjbegiany6pl7ri5o4e45wxhzjtcwm.png",
     "title": "Korea Meme Day with Uniswap",
