@@ -35,10 +35,7 @@ export const generateMetadata = async (): Promise<Metadata> => {
 
 export default function RootLayout({ children }: Props) {
   return (
-    <html
-      lang="en"
-      className={cn("dark", GeistMono.variable, GeistSans.variable)}
-    >
+    <html lang="en" className={cn(GeistMono.variable, GeistSans.variable)}>
       <head>
         <meta
           name="viewport"

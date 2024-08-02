@@ -1,15 +1,6 @@
 "use client"
 
-import {
-  entries,
-  filter,
-  groupBy,
-  map,
-  pipe,
-  sortBy,
-  toArray,
-  values,
-} from "@fxts/core"
+import { map, pipe, sortBy, toArray } from "@fxts/core"
 import { useIntersectionObserver } from "@uidotdev/usehooks"
 import { EventItem } from "app/components/EventItem"
 import { format, parse } from "date-fns"

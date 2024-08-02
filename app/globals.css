@@ -72,10 +72,9 @@
     --header-height: 3.5rem;
   }
 
-  :has(#home) a[href="/"]>svg,
-  :has(#about) a[href="/about"]>svg,
-  :has(#saved) a[href="/saved"]>svg {
-    @apply !opacity-100;
+  :has(#home) header a[href="/"],
+  :has(#about) header a[href="/about"],
+  :has(#saved) header a[href="/saved"] {
+    @apply opacity-100;
   }
-
 }
