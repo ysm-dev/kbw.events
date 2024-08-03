@@ -97,13 +97,13 @@ export const EventItem = ({ event: e }: Props) => {
           <Button
             size="icon"
             variant="ghost"
-            className="size-6 opacity-70 hover:opacity-100"
+            className="size-6 opacity-50 hover:opacity-100"
           >
             <Share className="size-4" />
           </Button>
           <Button
             variant="ghost"
-            className="opacity-70 hover:bg-transparent hover:opacity-100"
+            className="opacity-50 hover:bg-transparent hover:opacity-100"
             asChild
           >
             <Toggle
@@ -113,7 +113,6 @@ export const EventItem = ({ event: e }: Props) => {
                 toggleEvent(e.slug)
                 toast.success(!isSaved(e.slug) ? `Saved` : `Removed`)
               }}
-              // asChild
             >
               <Bookmark className="size-4 group-data-[state=on]:fill-foreground" />
             </Toggle>

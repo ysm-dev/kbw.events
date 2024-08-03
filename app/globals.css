@@ -74,7 +74,7 @@
 
   :has(#home) header a[href="/"],
   :has(#about) header a[href="/about"],
-  :has(#saved) header a[href="/saved"] {
+  :has(#saved) header a[href="/saved"]>svg {
     @apply opacity-100;
   }
 }
