@@ -74,6 +74,9 @@ export default {
           to: { height: "0" },
         },
       },
+      transitionProperty: {
+        border: "border",
+      },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",

@@ -17,8 +17,11 @@ export const EventItem = ({ event: e }: Props) => {
   const { isSaved, toggleEvent } = useSavedEvents()
 
   return (
-    <article key={e.title} className="flex gap-4 rounded-xl border p-2">
-      <div className="flex flex-1 flex-col overflow-hidden">
+    <article
+      key={e.title}
+      className="flex cursor-default gap-2 rounded-xl border bg-secondary/50 p-3 transition hover:border-accent-foreground/50"
+    >
+      <div className="flex flex-1 flex-col">
         <time className="text-sm opacity-50">
           {e.startTime === "00:00"
             ? `All Day`
@@ -41,7 +44,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.type && e.type !== "TBD" && (
           <div className="flex h-6 items-center gap-1.5">
             <Info className="aspect-square size-3.5" />
-            <span className="flex-1 truncate font-mono text-sm opacity-50">
+            <span className="line-clamp-1 flex-1 text-sm opacity-50">
               {e.type}
             </span>
           </div>
@@ -62,7 +65,7 @@ export const EventItem = ({ event: e }: Props) => {
               rel="noreferrer noopener"
             >
               <MapPin className="aspect-square size-3.5" />
-              <span className="truncate text-sm opacity-50">{e.location}</span>
+              <span className="text-sm opacity-50">{e.location}</span>
             </a>
           </Button>
         ) : (
@@ -74,7 +77,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.entry && e.entry !== "TBD" && (
           <div className="flex h-6 items-center gap-1.5">
             <Ticket className="aspect-square size-3.5" />
-            <span className="flex-1 truncate font-mono text-sm opacity-50">
+            <span className="line-clamp-1 flex-1 text-sm opacity-50">
               {e.entry}
             </span>
           </div>

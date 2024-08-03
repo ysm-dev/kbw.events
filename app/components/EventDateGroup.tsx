@@ -21,13 +21,14 @@ export const EventDateGroup = ({ date, events }: Props) => {
   const isPinned = !entry ? false : entry.intersectionRatio < 1
 
   return (
-    <div key={date}>
+    <div key={date} className="flex flex-col gap-2 sm:flex-row">
       <time
         ref={ref}
         className={cn(
-          "sticky top-16 flex w-fit gap-2 rounded-full p-1 px-2.5 text-base",
+          "sticky top-16 flex h-fit w-fit flex-row gap-2 rounded-full border p-1 px-2.5 text-base transition-all duration-300 ease-linear sm:min-w-28 sm:flex-col sm:gap-0 sm:p-0",
           isPinned &&
-            "z-40 bg-background/65 shadow-md outline outline-border backdrop-blur-lg",
+            "z-40 border-border bg-secondary/50 shadow-md backdrop-blur-lg sm:border-transparent sm:bg-transparent",
+          !isPinned && "border-transparent",
         )}
       >
         <span>{format(parse(date, "yyyy-MM-dd", new Date()), "MMM d")}</span>
@@ -35,7 +36,7 @@ export const EventDateGroup = ({ date, events }: Props) => {
           {format(parse(date, "yyyy-MM-dd", new Date()), "EEEE")}
         </span>
       </time>
-      <div className="mt-4 flex flex-col gap-4">
+      <div className="flex flex-1 flex-col gap-4">
         {pipe(
           events,
           sortBy((e) => e.startTime),

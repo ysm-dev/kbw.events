@@ -10,6 +10,7 @@ export const ThemeProvider = ({ children, ...props }: Props) => {
       defaultTheme="system"
       enableColorScheme
       enableSystem
+      disableTransitionOnChange
       {...props}
     >
       {children}
