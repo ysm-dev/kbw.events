@@ -1,5 +1,5 @@
 import { indexBy, map, pipe, values } from "@fxts/core"
-import { useQuery, useSuspenseQuery } from "@tanstack/react-query"
+import { useSuspenseQuery } from "@tanstack/react-query"
 import { slugify } from "utils/slugify"
 
 export const getEvents = async () => {
@@ -10,8 +10,8 @@ export const getEvents = async () => {
   return pipe(
     data,
     values,
-    map((v) => ({ ...v, slug: slugify(v.title) })),
-    indexBy((e) => e.slug),
+    map((v) => ({ ...v, id: slugify(v.title) })),
+    indexBy((e) => e.id),
   )
 }
 
@@ -29,7 +29,7 @@ type R = {
 export type Event = {
   image: string | null
   title: string
-  slug: string
+  id: string
   host: string | null
   startDate: string | null
   endDate: string | null

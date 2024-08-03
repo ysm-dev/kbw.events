@@ -26,7 +26,7 @@ export default function Page() {
   const savedEvents = pipe(
     events,
     values,
-    filter((e) => saved.includes(e.slug)),
+    filter((e) => saved.includes(e.id)),
     toArray,
   )
 
@@ -52,7 +52,7 @@ export default function Page() {
           </Button>
         </section>
       ) : (
-        <section className="flex flex-col gap-4 py-4">
+        <section className="flex flex-col gap-4 py-8">
           {pipe(
             savedEvents,
             filter((e) => e.startDate),

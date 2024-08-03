@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a website where you can view and bookmark the Official Side Event List for Korea Blockchain Week (KBW) 2024.
+This is a website where you can view and bookmark the [Official Side Event List for Korea Blockchain Week (KBW) 2024](https://docs.google.com/spreadsheets/d/1k1xAFaLQ5nYnWVDPPvrme-iVUzfSgHJLyt5fGng7KZc/edit?gid=0#gid=0).
 
 ## Why did you build this?
 

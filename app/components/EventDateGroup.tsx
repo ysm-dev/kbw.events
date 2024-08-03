@@ -27,7 +27,7 @@ export const EventDateGroup = ({ date, events }: Props) => {
         className={cn(
           "sticky top-16 flex h-fit w-fit flex-row gap-2 rounded-full border p-1 px-2.5 text-base transition-all duration-300 ease-linear sm:min-w-28 sm:flex-col sm:gap-0 sm:p-0",
           isPinned &&
-            "z-40 border-border bg-secondary/50 shadow-md backdrop-blur-lg sm:border-transparent sm:bg-transparent",
+            "z-40 border-border bg-secondary/50 shadow-md backdrop-blur-lg sm:border-transparent sm:bg-transparent sm:shadow-none",
           !isPinned && "border-transparent",
         )}
       >
@@ -40,7 +40,7 @@ export const EventDateGroup = ({ date, events }: Props) => {
         {pipe(
           events,
           sortBy((e) => e.startTime),
-          map((e) => <EventItem key={e.slug} event={e} />),
+          map((e) => <EventItem key={e.id} event={e} />),
           toArray,
         )}
       </div>

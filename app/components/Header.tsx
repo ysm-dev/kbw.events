@@ -1,6 +1,7 @@
 "use client"
 
 import { useWindowScroll } from "@uidotdev/usehooks"
+import { Search } from "app/components/Search"
 import { Button } from "components/ui/button"
 import { Tooltip, TooltipContent, TooltipTrigger } from "components/ui/tooltip"
 import { useSavedEvents } from "hooks/useSavedEvents"
@@ -72,6 +73,8 @@ export const Header = () => {
         </Tooltip>
 
         <div className="grow" />
+
+        <Search />
 
         <Tooltip>
           <TooltipTrigger asChild>
