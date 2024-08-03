@@ -549,8 +549,8 @@
     "host": "B-Harvest",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
-    "startTime": "07:00",
-    "endTime": "08:00",
+    "startTime": "07:30",
+    "endTime": "08:30",
     "type": "Running",
     "location": "Sebit Island",
     "address": "Some sevit 2085-14, Olympic-daero, Seoul",
@@ -558,7 +558,7 @@
     "entry": "Free Entry",
     "link": "https://lu.ma/7bl52wb7",
     "capacity": "50",
-    "email": "TBD"
+    "email": "jeongho.yeo@bharvest.io"
   },
   "KBW Builders' Brunch by Caladan x Magna x Monad": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvioictuhn4zludrezzc4oius4nzae42bxtapoix2t6zea4wvzra.png",
