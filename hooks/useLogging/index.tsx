@@ -54,7 +54,7 @@ export const sendLog = async (log?: string) => {
 
 export function useLogging(parmas?: Params) {
   const path = usePathname()
-  const { enable = isLocal() } = parmas || {}
+  const { enable = !isLocal() } = parmas || {}
 
   useEffect(() => {
     if (isServer() || !enable) {
