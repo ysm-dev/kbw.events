@@ -5,7 +5,6 @@ import { isProd } from "utils/isProd"
 export const getBaseURL = () => {
   if (isProd()) {
     return `https://${HOST}`
-  } else if (isLocal()) {
-    return `http://localhost:9090`
   }
+  return `http://localhost:9090`
 }

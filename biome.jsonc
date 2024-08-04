@@ -40,6 +40,9 @@
       },
       "security": {
         "noDangerouslySetInnerHtml": "warn"
+      },
+      "a11y": {
+        "useAnchorContent": "off"
       }
     }
   },

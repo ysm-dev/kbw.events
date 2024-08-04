@@ -1,5 +1,7 @@
 "use client"
 
+import { AddToCalButton } from "app/components/AddToCalButton"
+import { ics } from "calendar-link"
 import { Image } from "components/Image"
 import { Button } from "components/ui/button"
 import { Toggle } from "components/ui/toggle"
@@ -7,7 +9,15 @@ import { format, parse } from "date-fns"
 import type { Event } from "hooks/useEvents"
 import { useSavedEvents } from "hooks/useSavedEvents"
 import { highlight } from "hooks/useSearch"
-import { Bookmark, Info, MapPin, Share, Ticket, User } from "lucide-react"
+import {
+  Bookmark,
+  CalendarPlus,
+  Info,
+  MapPin,
+  Share,
+  Ticket,
+  User,
+} from "lucide-react"
 import { useQueryState } from "nuqs"
 import { toast } from "sonner"
 
@@ -20,11 +30,10 @@ export const EventItem = ({ event: e }: Props) => {
 
   const [q] = useQueryState("q")
 
+  const hasLink = e.link !== "TBD" && e.link
+
   return (
-    <article
-      key={e.title}
-      className="flex cursor-default gap-2 rounded-xl border bg-secondary/50 p-3 transition hover:border-accent-foreground/50"
-    >
+    <section className="relative m-0 flex cursor-default select-none gap-2 rounded-xl border bg-secondary/50 p-3 transition hover:border-accent-foreground/50">
       <div className="flex flex-1 flex-col overflow-hidden">
         <time className="text-sm opacity-50 sm:text-base">
           {e.startTime === "00:00"
@@ -56,7 +65,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.location && e.location !== "TBD" ? (
           <Button
             variant="link"
-            className="h-6 w-full justify-start gap-1.5 self-start px-0 py-0 text-foreground hover:no-underline sm:gap-2"
+            className="z-10 h-6 w-full justify-start gap-1.5 self-start px-0 py-0 text-foreground hover:no-underline sm:gap-2"
             asChild
           >
             <a
@@ -102,14 +111,15 @@ export const EventItem = ({ event: e }: Props) => {
       <div className="flex flex-col gap-2 sm:gap-4">
         <div className="flex">
           <div className="grow" />
-          <Button
+          <AddToCalButton event={e} />
+          {/* <Button
             size="icon"
             variant="ghost"
             className="size-6 opacity-50 hover:opacity-100 sm:size-8"
-          >
+            >
             <Share className="size-4 sm:size-5" />
-          </Button>
-          <Button variant="ghost" className="hover:bg-transparent" asChild>
+            </Button> */}
+          <Button variant="ghost" className="z-10 hover:bg-transparent" asChild>
             <Toggle
               className="group size-6 p-0 sm:size-8"
               data-state={isSaved(e.id) ? "on" : "off"}
@@ -132,6 +142,19 @@ export const EventItem = ({ event: e }: Props) => {
           />
         )}
       </div>
-    </article>
+
+      <a
+        href={hasLink ? e.link! : undefined}
+        target={hasLink ? "_blank" : "_self"}
+        className="absolute h-full w-full"
+        rel="noopener noreferrer"
+        onClick={() => {
+          if (!hasLink) {
+            // Link is not provided yet
+            toast.error("Link is not provided yet")
+          }
+        }}
+      />
+    </section>
   )
 }

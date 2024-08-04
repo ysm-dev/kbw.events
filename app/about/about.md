@@ -8,7 +8,7 @@ This is a website where you can view and bookmark the [Official Side Event List 
 
 I've been attending KBW for the past few years, and each time there are over 100 Side Events, with the number growing year by year.
 
-While the KBW organizers distribute this [Side Event List Google Sheet](https://docs.google.com/spreadsheets/d/1k1xAFaLQ5nYnWVDPPvrme-iVUzfSgHJLyt5fGng7KZc/edit?gid=0#gid=0) annually, it's challenging to get a quick overview of the events. Moreover, since it's a public sheet, it's not convenient to bookmark events you're personally interested in. It's also time-consuming to manually add these events to your calendar.
+While the KBW organizers distribute [Side Event List Google Sheet](https://docs.google.com/spreadsheets/d/1k1xAFaLQ5nYnWVDPPvrme-iVUzfSgHJLyt5fGng7KZc/edit?gid=0#gid=0) annually, it's challenging to get a quick overview of the events. Moreover, since it's a public sheet, it's not convenient to bookmark events you're personally interested in. It's also time-consuming to manually add these events to your calendar.
 
 That's why I created this website.
 

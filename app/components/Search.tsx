@@ -6,19 +6,55 @@ import { Input } from "components/ui/input"
 import { Tooltip, TooltipContent, TooltipTrigger } from "components/ui/tooltip"
 import { cn } from "lib/utils"
 import { Search as SearchIcon, X } from "lucide-react"
-import { usePathname, useRouter } from "next/navigation"
+import { useRouter } from "next/navigation"
 import { useQueryState } from "nuqs"
+import { Suspense } from "react"
+import { useHotkeys } from "react-hotkeys-hook"
 
 export const Search = () => {
+  return (
+    <Suspense fallback={<Pending />}>
+      <Resolved />
+    </Suspense>
+  )
+}
+
+const Pending = () => {
+  return (
+    <Button
+      size="icon"
+      variant="ghost"
+      className="opacity-50 hover:opacity-100"
+    >
+      <SearchIcon className="aspect-square size-4" />
+    </Button>
+  )
+}
+
+const Resolved = () => {
   const [on, toggle] = useToggle()
   const [q, setQ] = useQueryState("q")
   const { push } = useRouter()
-  const pathname = usePathname()
-  const isHome = pathname === "/"
+
+  useHotkeys("ctrl+k", () => {
+    toggle(true)
+  })
+  useHotkeys("meta+k", () => {
+    toggle(true)
+  })
+  useHotkeys(
+    "meta+f",
+    () => {
+      toggle(true)
+    },
+    {
+      preventDefault: true,
+    },
+  )
 
   return (
     <Tooltip>
-      <TooltipTrigger asChild className={cn(!isHome && "hidden")}>
+      <TooltipTrigger asChild>
         {!on ? (
           <Button
             size="icon"

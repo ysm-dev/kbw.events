@@ -11,26 +11,27 @@ import { GeistSans } from "geist/font/sans"
 import { cn } from "lib/utils"
 import type { Metadata } from "next"
 import type { ReactNode } from "react"
+import { getBaseURL } from "utils/getBaseURL"
 
 type Props = {
   children: ReactNode
 }
 
-export const generateMetadata = async (): Promise<Metadata> => {
-  const title = "KBW Events"
-  const description = ""
+const title = "KBW 2024 Side Events"
+const description = ""
 
-  return {
+export const metadata: Metadata = {
+  title,
+  description,
+  openGraph: {
     title,
     description,
-    openGraph: {
-      title,
-      description,
-      type: "website",
-      url: `https://${HOST}`,
-      siteName: title,
-    },
-  }
+    type: "website",
+    url: `https://${HOST}`,
+    siteName: title,
+    images: "/og",
+  },
+  metadataBase: new URL(getBaseURL()),
 }
 
 export default function RootLayout({ children }: Props) {

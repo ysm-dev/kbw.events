@@ -46,8 +46,8 @@ export default function Page() {
             variant="secondary"
           >
             <Link href="/">
-              <Compass className="size-5" />
-              Discover Events
+              <Compass className="size-4" />
+              Discover
             </Link>
           </Button>
         </section>

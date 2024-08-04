@@ -9,12 +9,16 @@ import { cn } from "lib/utils"
 import { Bookmark, Compass, Info, Moon, Plus, Sun } from "lucide-react"
 import { useTheme } from "next-themes"
 import Link from "next/link"
+import { usePathname } from "next/navigation"
 
 export const Header = () => {
   const { saved } = useSavedEvents()
   const [{ y }] = useWindowScroll()
 
   const { setTheme, resolvedTheme } = useTheme()
+
+  const pathname = usePathname()
+  const isHome = pathname === "/"
 
   return (
     <header
@@ -28,7 +32,7 @@ export const Header = () => {
           <TooltipTrigger asChild>
             <Button size="icon" variant="ghost" asChild>
               <Link href="/" className="opacity-50 hover:opacity-100">
-                <Compass className="size-4" />
+                <Compass className="size-4" aria-label="Discover" />
               </Link>
             </Button>
           </TooltipTrigger>
@@ -74,7 +78,7 @@ export const Header = () => {
 
         <div className="grow" />
 
-        <Search />
+        {isHome && <Search />}
 
         <Tooltip>
           <TooltipTrigger asChild>
