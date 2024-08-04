@@ -2,9 +2,8 @@ const { withContentCollections } = require("@content-collections/next")
 
 /** @type {import('next').NextConfig} */
 const config = {
-  reactStrictMode: true,
   compiler: {
-    // removeConsole: true,
+    removeConsole: true,
   },
   images: {
     remotePatterns: [
