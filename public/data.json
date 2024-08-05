@@ -187,7 +187,7 @@
     "email": "ronald.yung@arpanetwork.io"
   },
   "FORKED Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
+    "image": null,
     "title": "FORKED Gaming",
     "host": "CREZEE",
     "startDate": "2024-09-02",
@@ -748,7 +748,7 @@
     "email": "jason.cho@bdacs.co.kr"
   },
   "S Rank : Leveling Anime & Collector Culture": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibflg64jvnl5gdepklaod7wm2xmpktkti5cwdungd7iclohtnxwa4.png",
     "title": "S Rank : Leveling Anime & Collector Culture",
     "host": "Otherworld x San FranTokyo x Anime Foundation",
     "startDate": "2024-09-03",
@@ -758,9 +758,9 @@
     "type": "Networking",
     "location": "Chungdam Nine",
     "address": "1F & B2, 634, Samseong-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJK1PyCW6kfDURScH5xRkpxbI",
     "entry": "Invitation Only",
-    "link": "TBD",
+    "link": "https://lu.ma/qe8p023r",
     "capacity": "150~200",
     "email": "official@otherworld.network"
   },
