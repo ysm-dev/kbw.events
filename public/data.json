@@ -67,23 +67,6 @@
     "capacity": "TBD",
     "email": "TBD"
   },
-  "Chris Dixon Book Concert - Read Write Own": {
-    "image": null,
-    "title": "Chris Dixon Book Concert - Read Write Own",
-    "host": "FACTBLOCK",
-    "startDate": "2024-09-01",
-    "endDate": "2024-09-01",
-    "startTime": "00:00",
-    "endTime": "23:59",
-    "type": "TBD",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
-    "entry": "TBD",
-    "link": "TBD",
-    "capacity": "TBD",
-    "email": "TBD"
-  },
   "Namsan Hike with Tigers": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigrqbvaffdkn7qcju5osovelv2o54pq4zfhn6r3i7ak5tuacypage.png",
     "title": "Namsan Hike with Tigers",
@@ -1053,6 +1036,23 @@
     "capacity": "450",
     "email": "events@sui.io"
   },
+  "BUN Up the Night": {
+    "image": null,
+    "title": "BUN Up the Night",
+    "host": null,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "20:00",
+    "endTime": "03:00",
+    "type": "Party",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": null,
+    "link": "TBD",
+    "capacity": "500",
+    "email": "contact@bunetwork.org"
+  },
   "Sahara AI Connect Party 2024": {
     "image": null,
     "title": "Sahara AI Connect Party 2024",
@@ -1409,23 +1409,6 @@
     "link": "https://www.futureplus.xyz",
     "capacity": null,
     "email": "info@futureplus.xyz"
-  },
-  "Meet Chris Dixon": {
-    "image": null,
-    "title": "Meet Chris Dixon",
-    "host": null,
-    "startDate": null,
-    "endDate": null,
-    "startTime": "00:00",
-    "endTime": "23:59",
-    "type": "Etc...",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
-    "entry": "TBD",
-    "link": "TBD",
-    "capacity": null,
-    "email": null
   },
   "SCAN 2024(Secure Crypto-Asset Network)": {
     "image": null,
