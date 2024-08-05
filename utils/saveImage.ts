@@ -5,11 +5,13 @@ import { toCID } from "utils/toCID"
 export const saveImage = async (url?: string | null) => {
   if (!isURL(url)) return null
 
-  const ext = url.split(".").pop()
-
   const { origin, pathname } = new URL(url)
 
   const uri = new URL(pathname, origin).toString()
+
+  let ext = uri.split(".").pop()
+
+  ext = ext === "png" ? `.png` : ext === "svg" ? `.svg` : `.png`
 
   const cid = toCID(uri)
 
@@ -17,7 +19,10 @@ export const saveImage = async (url?: string | null) => {
   const buffer = await res.arrayBuffer()
 
   const data = new Uint8Array(buffer)
-  await writeFile(`public/imgs/${cid}.${ext}`, data)
 
-  return `https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/${cid}.${ext}`
+  const filename = `public/imgs/${cid}${ext}`
+
+  await writeFile(filename, data)
+
+  return `https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/${filename}`
 }
