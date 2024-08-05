@@ -1,10 +1,16 @@
 import { indexBy, map, pipe, values } from "@fxts/core"
 import { useSuspenseQuery } from "@tanstack/react-query"
+import ms from "ms"
 import { slugify } from "utils/slugify"
 
 export const getEvents = async () => {
   const data = await fetch(
     "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/data.json",
+    {
+      next: {
+        revalidate: ms("1h"),
+      },
+    },
   ).then<R>((r) => r.json())
 
   return pipe(
