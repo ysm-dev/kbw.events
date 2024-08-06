@@ -9,7 +9,7 @@ import type { ComponentProps } from "react"
 type Props = {} & Omit<ComponentProps<typeof QueryClientProvider>, "client">
 
 export const QueryProvider = ({ children, ...props }: Props) => {
-  useLogging({ enable: true })
+  useLogging()
   const client = getQueryClient()
 
   return (
