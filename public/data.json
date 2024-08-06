@@ -901,7 +901,7 @@
     "email": "contact@her-dao.xyz"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -1501,8 +1501,8 @@
     "host": "Aptos",
     "startDate": "2024-09-05",
     "endDate": "2024-09-06",
-    "startTime": "18:00",
-    "endTime": "20:00",
+    "startTime": "10:00",
+    "endTime": "18:00",
     "type": "Meetup",
     "location": "TBD",
     "address": "TBD",
