@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -459,7 +459,7 @@
     "email": "info@geda.gg"
   },
   "DePIN DAY + Afterparty @ KBW": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsezjioiangrbd2i6lctnrb3ld4zmlbnkfqmthrqjz6dva4632gm.png",
     "title": "DePIN DAY + Afterparty @ KBW",
     "host": "DePHY Network + MissWProject + Madlads",
     "startDate": "2024-09-02",
@@ -469,9 +469,9 @@
     "type": "Networking + Party Event",
     "location": "Weple Art Gallery",
     "address": "7, Wonhyo-ro, Yongsan-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJd6Vbpq2YfDUR76EnulVUMFg",
     "entry": "Free Entry",
-    "link": "TBD",
+    "link": "https://lu.ma/depinday",
     "capacity": "350",
     "email": null
   },
@@ -901,7 +901,7 @@
     "email": "contact@her-dao.xyz"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -1289,7 +1289,7 @@
     "entry": "Private Only",
     "link": "https://lu.ma/31nrt8tv",
     "capacity": "100",
-    "email": "TBD"
+    "email": "jeojeongho.yeo@bharvest.io"
   },
   "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid7x26x3sqrdb4cev46j52tav5r7chff4xzuohdwldooxbmi7lgb4.png",
