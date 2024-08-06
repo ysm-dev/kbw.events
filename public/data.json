@@ -799,7 +799,7 @@
     "email": "kinsa@sonic.game"
   },
   "KOL Night by Fablo": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifnxchywedp56yabw77dtfkhadj6ykabnt64mgdukt3r5ot7qf4eu.png",
+    "image": null,
     "title": "KOL Night by Fablo",
     "host": "FACTBLOCK",
     "startDate": "2024-09-03",
@@ -811,7 +811,7 @@
     "address": "TBD",
     "placeId": null,
     "entry": "Invitation Only",
-    "link": "https://lu.ma/lr53xdf2",
+    "link": "TBD",
     "capacity": "200",
     "email": "info@koreablockchainweek.com"
   },
