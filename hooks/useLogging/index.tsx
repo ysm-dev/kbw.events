@@ -63,6 +63,8 @@ export function useLogging(parmas?: Params) {
 
     config.enabled = true
 
+    const path = location.href.replace(location.origin, "")
+
     sendLog(path === "/" ? undefined : path)
   }, [path])
 
