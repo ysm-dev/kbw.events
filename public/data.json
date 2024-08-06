@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -850,21 +850,21 @@
     "email": "gemma.shin@mantle.xyz"
   },
   "Cafe GM": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiax5zi4ux5yylguqslch72rb55qyyaznzxvgwvno2kdr2n6gt732u.png",
     "title": "Cafe GM",
-    "host": "Creditcoin",
+    "host": "Creditcoin x Wintermute x GSR",
     "startDate": "2024-09-03",
     "endDate": "2024-09-04",
-    "startTime": "00:00",
-    "endTime": "23:59",
-    "type": "TBD",
+    "startTime": "11:00",
+    "endTime": "21:00",
+    "type": "Networking Event, Panel Discussion",
     "location": "Le Vin Forêt",
     "address": "639 Achasan-ro, Gwangjin District, Seoul",
-    "placeId": null,
-    "entry": "Free Entry",
-    "link": "TBD",
-    "capacity": null,
-    "email": null
+    "placeId": "ChIJv7TBrEy7fDURYd_XHoAadK0",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/buvlbq47",
+    "capacity": "300",
+    "email": "marketing@gluwa.com"
   },
   "Blockchainers 2024": {
     "image": null,
@@ -979,7 +979,7 @@
     "type": "Networking Event",
     "location": "1F 70-266, Sinpyeong-dong, Gumi, Gyeongsangbuk-do",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJX_oCt9bGZTURNEmJ6jSWMYA",
     "entry": "Free Entry",
     "link": "https://lu.ma/i4nkzjgj",
     "capacity": "150",
