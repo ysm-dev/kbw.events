@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -340,7 +340,7 @@
     "email": "mananas@me.com"
   },
   "Layers Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreickx6tsdmd4tqt3gdburducprwsntert6nnbjwjxpkhg6ok5mbnii.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicouzrzqaijnevdbzn44bdlvoqprmwme4ocu334y3kntcs6i2olda.png",
     "title": "Layers Night",
     "host": "Orbs",
     "startDate": "2024-09-02",
@@ -901,7 +901,7 @@
     "email": "contact@her-dao.xyz"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -927,7 +927,7 @@
     "endTime": "15:00",
     "type": "Conference, Networking",
     "location": "Hashed Office",
-    "address": "374 Gangnam-daero, Gangnam District, Seoul, South Korea",
+    "address": "14 Teheran-ro 4-gil, Yeoksam-dong, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/322z99da",
