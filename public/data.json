@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -952,7 +952,7 @@
     "email": "jb@memecore.org"
   },
   "Uniting Societies @KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicltuq6ejlovc3rpryl33ww2hzlhnlrc7rh2nxy74kzicvfspul6y.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibutvvpdhqjub7z4qfpamgg6xmty5lurwtcfntry6rko4rlebmui4.png",
     "title": "Uniting Societies @KBW",
     "host": "Somnia",
     "startDate": "2024-09-04",
@@ -962,7 +962,7 @@
     "type": "Networking Event",
     "location": "1F 70-266, Sinpyeong-dong, Gumi, Gyeongsangbuk-do",
     "address": null,
-    "placeId": "ChIJX_oCt9bGZTURNEmJ6jSWMYA",
+    "placeId": "ChIJf8VST7G6fDURQFP2o4XAYJw",
     "entry": "Free Entry",
     "link": "https://lu.ma/i4nkzjgj",
     "capacity": "150",
