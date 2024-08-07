@@ -342,7 +342,7 @@
   "Layers Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicouzrzqaijnevdbzn44bdlvoqprmwme4ocu334y3kntcs6i2olda.png",
     "title": "Layers Night",
-    "host": "Orbs",
+    "host": "ORBS + MOVEMENT + CREDITCOIN + ODOS",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "15:00",
@@ -712,23 +712,6 @@
     "link": "TBD",
     "capacity": "250",
     "email": "kevin.kim8475@klaytn.foundation"
-  },
-  "The Mile-High Dinner with Somnia": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigkqycsngnmhs63ffs4uvdpxb4xsh67uabzwzjjwbqffxp6xojugu.png",
-    "title": "The Mile-High Dinner with Somnia",
-    "host": "Somnia",
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-03",
-    "startTime": "18:30",
-    "endTime": "21:30",
-    "type": "VVIP Networking",
-    "location": "177 Walkerhill-ro, Gwangjin-gu, Seoul",
-    "address": null,
-    "placeId": "ChIJd5mhp7C6fDUR5VfmFvwRV7o",
-    "entry": "Invitation Only",
-    "link": "https://lu.ma/44ospwk9",
-    "capacity": "150",
-    "email": "amr@virtualsociety.foundation"
   },
   "Sunset Garden: A Night of Institutional Custody and Crypto Magic": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarfzhi5bg57fbxxjutqjqcdm25csij7txykpjj4uvevtx4bqvnp4.png",
