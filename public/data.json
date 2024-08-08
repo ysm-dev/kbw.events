@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -697,7 +697,7 @@
     "email": "loganlim@prestolabs.io"
   },
   "Games: Portal to Web3": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiatcpiez6iw53mhvhzhqmzuvthy6b4tf2kbd7jfsi4jpuhthezx6u.png",
     "title": "Games: Portal to Web3",
     "host": "SKYGG X YGG",
     "startDate": "2024-09-03",
@@ -707,9 +707,9 @@
     "type": "Gaming/eSports, Networking Event",
     "location": "Portal PC",
     "address": "B2, 62, Seocho-daero 77-gil, Seocho-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJi0HgxsKhfDUR689D6abDh78",
     "entry": "Free Entry",
-    "link": "TBD",
+    "link": "https://lu.ma/lfxrqwo3",
     "capacity": "200",
     "email": "team@skygg.xyz"
   },
@@ -985,6 +985,23 @@
     "capacity": "150",
     "email": "a.gupta@supraoracles.com"
   },
+  "BTCON Seoul 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicfyf3hmwek3bju4cfyyrvkearkucxo3ut32gkasxbacavlpni7ya.png",
+    "title": "BTCON Seoul 2024",
+    "host": "D Asset, Bitcoin Startup Lab, L2IV",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "09:00",
+    "endTime": "22:00",
+    "type": "CONFERENCE, Hackathon, Networking",
+    "location": "Sevit Islands",
+    "address": "2085-14, Olympic-daero, Seocho-gu, Seoul",
+    "placeId": "ChIJLzszLIChfDURhVOQTkJ62oA",
+    "entry": "USD200, KRW200,000",
+    "link": "https://lu.ma/8e3ynu77?tk=XnpbjH",
+    "capacity": "TBD",
+    "email": "btcon@digitalasset.works"
+  },
   "XRPL Zone Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
     "title": "XRPL Zone Seoul",
@@ -1255,7 +1272,7 @@
     "entry": "Invitation Only",
     "link": "TBD",
     "capacity": "300",
-    "email": "jeehyeon@aegis.ventures"
+    "email": "contact@aegis.ventures"
   },
   "Speed dating with the best Vietnamese dev": {
     "image": null,
@@ -1630,23 +1647,6 @@
     "link": "https://www.futureplus.xyz",
     "capacity": null,
     "email": "info@futureplus.xyz"
-  },
-  "SCAN 2024(Secure Crypto-Asset Network)": {
-    "image": null,
-    "title": "SCAN 2024(Secure Crypto-Asset Network)",
-    "host": "D Asset",
-    "startDate": "2024-09-05",
-    "endDate": "2024-09-06",
-    "startTime": "10:00",
-    "endTime": "18:00",
-    "type": "Conference, Networking",
-    "location": "Hotel Naru",
-    "address": "8 Mapo-daero, Mapo-gu, Seoul",
-    "placeId": null,
-    "entry": "Free Entry",
-    "link": "TBD",
-    "capacity": "TBD",
-    "email": null
   },
   "FuturaCanvas #0": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
