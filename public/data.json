@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -84,6 +84,23 @@
     "capacity": "TBD",
     "email": "TBD"
   },
+  "Speed Sprint Session with Factomind": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreichjyj55udtlyluiit22xj3dnvucuuzm67qeiumyilj3yw5kfh5vm.png",
+    "title": "Speed Sprint Session with Factomind",
+    "host": "Factomind",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "type": "Sport",
+    "location": "Daechi Reservoir Sports Park",
+    "address": "20-30 Yeoksam-ro 107-gil, Daechi-dong, Gangnam District, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/stxmdx0w",
+    "capacity": "20",
+    "email": "justin@factomind.io"
+  },
   "Namsan Hike with Tigers": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigrqbvaffdkn7qcju5osovelv2o54pq4zfhn6r3i7ak5tuacypage.png",
     "title": "Namsan Hike with Tigers",
@@ -101,6 +118,23 @@
     "capacity": null,
     "email": "yoonlee@tiger-research.com"
   },
+  "XBlockchain Seoul Meetup - The Future of Pundi X": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibaxtfkialr3fuitzqyqfo4j3ub5csac3vsydkyn3yzaygj4g5kve.png",
+    "title": "XBlockchain Seoul Meetup - The Future of Pundi X",
+    "host": "Pundi X",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "type": "Conference, Meetup",
+    "location": "7F, 8258 Building, 376, Gangnam-daero, Gangnam-gu, Seoul",
+    "address": null,
+    "placeId": "EkM3ZiA4MjU4IGJ1aWxkaW5nLCAzNzYgR2FuZ25hbS1kYWVybywgR2FuZ25hbS1ndSwgU2VvdWwsIFNvdXRoIEtvcmVhIiwaKgoWChQKEglRmTQOWqF8NRF8EnhsgxLvbxIQN2YgODI1OCBidWlsZGluZw",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/jv5ucu1x",
+    "capacity": "30",
+    "email": "minsoo@pundix.com"
+  },
   "Mina Dev Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvp2ticptxg4n4fvrsnyv7fove5of3s43gxdtt77hhuxixguusxi.png",
     "title": "Mina Dev Seoul",
@@ -117,6 +151,23 @@
     "link": "https://lu.ma/brwcjr6c",
     "capacity": "50",
     "email": "logan.kang.dcm@minaprotocol"
+  },
+  "Exclusive Founders & Investors Networking Drinking Event": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibccldhga2oz74dvzzrnaqomiupqjsuwcsmk5ikmbvaq5xwtl43pa.png",
+    "title": "Exclusive Founders & Investors Networking Drinking Event",
+    "host": "TokenMinds",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free and Invitation only once accepted after review",
+    "link": "https://lu.ma/g66myv3w",
+    "capacity": "50",
+    "email": "leonando@tokenminds.co"
   },
   "Eric Spivak": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigl7q2ipq2kumzevbuhq2pnyuncldtjlexhglmw6t2kibvcpycx5e.png",
@@ -185,6 +236,23 @@
     "link": "https://app.moongate.id/e/korea-nightopia-official-kbw-opening-party",
     "capacity": "2000",
     "email": "ronald.yung@arpanetwork.io"
+  },
+  "Early Bird Run with Factomind #1": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6t7qqrahwnuxdcvbswfsuhykag6km5zjtqlkoiqslxmrfwszkdi.png",
+    "title": "Early Bird Run with Factomind #1",
+    "host": "Factomind",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "type": "Sport",
+    "location": "Hangang Park Stadium Track",
+    "address": "386 Apgujeong-dong, Gangnam District, Seoul",
+    "placeId": "ChIJc1w24ZWjfDURii5rjul_u_s",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/n52qqvei",
+    "capacity": "30",
+    "email": "justin@factomind.io"
   },
   "Ethena Roadmap Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvyjk3i4i7qyoqikf6tl5r5xpzkqt2gufmz6oniwefxulj2wpwcm.png",
@@ -781,6 +849,23 @@
     "capacity": "200",
     "email": "marketing@stakingcircle.com"
   },
+  "Solana Korea Blockchain Week Mixer": {
+    "image": null,
+    "title": "Solana Korea Blockchain Week Mixer",
+    "host": "Solana Foundation",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Networking",
+    "location": "Seongsu Area, Disclosure to Approved Participants Only",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "TBD",
+    "capacity": "100",
+    "email": "korea@solana.org"
+  },
   "Kaia Square Lounge 2024 Networking Night #2": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
     "title": "Kaia Square Lounge 2024 Networking Night #2",
@@ -883,6 +968,23 @@
     "capacity": "400",
     "email": "lucy@ton.org"
   },
+  "Texas Hold'em Poker with Factomind": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia5zsn77n7decfwifhcbhyehxljw232lv75vbr4yp3dushkmcxwke.png",
+    "title": "Texas Hold'em Poker with Factomind",
+    "host": "Factomind",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "20:30",
+    "endTime": "00:30",
+    "type": "Sport",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/k3r0ro9p",
+    "capacity": "40",
+    "email": "justin@factomind.io"
+  },
   "GMNT Korea! (After Party)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihtdqibs3huojmoyxdebdr6tdcjhedqhaaabib7gsrousompy44ja.png",
     "title": "GMNT Korea! (After Party)",
@@ -952,7 +1054,7 @@
     "email": "contact@her-dao.xyz"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -999,7 +1101,7 @@
     "placeId": "ChIJLzszLIChfDURhVOQTkJ62oA",
     "entry": "USD200, KRW200,000",
     "link": "https://lu.ma/8e3ynu77?tk=XnpbjH",
-    "capacity": "TBD",
+    "capacity": "500",
     "email": "btcon@digitalasset.works"
   },
   "XRPL Zone Seoul": {
@@ -1035,6 +1137,23 @@
     "link": "https://lu.ma/j8umhm54",
     "capacity": "700",
     "email": "jb@memecore.org"
+  },
+  "BrAIniacs Unite!": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaaz4arjfaapkeeiphlm6chj6vlya4om7mnapafiafaa7p4w4wge4.png",
+    "title": "BrAIniacs Unite!",
+    "host": "INF CryptoLab & Spectral Labs",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "13:00",
+    "endTime": "18:00",
+    "type": "AI Event w/ Panel Discussions & Networking",
+    "location": "Monaco Space",
+    "address": "397 Seocho-daero, Seocho-gu, Seoul",
+    "placeId": null,
+    "entry": "Private",
+    "link": "https://lu.ma/6lvcks21",
+    "capacity": "100",
+    "email": "infcryptolab@gmail.com"
   },
   "Uniting Societies @KBW": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibutvvpdhqjub7z4qfpamgg6xmty5lurwtcfntry6rko4rlebmui4.png",
@@ -1342,6 +1461,23 @@
     "capacity": "TBD",
     "email": "contact@epochsummit.com"
   },
+  "CrossFit Hangover Busters with Factomind": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigqg4aotrtgrg36mmyu5q7j732mthn57qmdrmkfpw4ngu773syvxq.png",
+    "title": "CrossFit Hangover Busters with Factomind",
+    "host": "Factomind",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "type": "Sport",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/kj2wpe9d",
+    "capacity": "20",
+    "email": "justin@factomind.io"
+  },
   "KBW Coffee Meetup with Halborn": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidgwpbd2nucoyeew3q4rpq2yvuab5qye2wr34mozkhwmnnqtgls7u.png",
     "title": "KBW Coffee Meetup with Halborn",
@@ -1375,6 +1511,23 @@
     "link": "https://lu.ma/f3b4dgoo",
     "capacity": "500",
     "email": "contact@knightfury.io"
+  },
+  "Bitcoin Brunch @ KBW with Halborn": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiewrvqah4664suybsm56cojoer4o66dsmlruu4u6vsonmrtybks44.png",
+    "title": "Bitcoin Brunch @ KBW with Halborn",
+    "host": "Halborn",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "type": "Networking",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/mpjfku8y",
+    "capacity": null,
+    "email": "ayessa.lopez@halborn.com"
   },
   "Monad Tech Seminar in KBW (Dev Only)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih2d2in356gwn375n64oolqxa3wgrabuqh2rtsmgl6tbt3w6t2mqm.png",
@@ -1529,6 +1682,23 @@
     "capacity": "100",
     "email": "gm@gosupernova.xyz"
   },
+  "HANGANG DIVE": {
+    "image": null,
+    "title": "HANGANG DIVE",
+    "host": "HG Ventures, IOST, K300 Ventures",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "Networking Event, Party",
+    "location": "People The Terrace",
+    "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "TBD",
+    "capacity": "200",
+    "email": "contact@hgventures.io"
+  },
   "MKGA After Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiab2uw24ic22g3456ygxnvwww5d4qgvam6ecrqeggqxcawrcoqxum.png",
     "title": "MKGA After Party",
@@ -1664,6 +1834,23 @@
     "link": "https://futuracanvas.com/",
     "capacity": "500",
     "email": "info@futuracanvas.com"
+  },
+  "Early Bird Run with Factomind #2": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigze3grmadtwxnjittoxccohhfabooerhobehh47xjrut34cquwc4.png",
+    "title": "Early Bird Run with Factomind #2",
+    "host": "Factomind",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "type": "Sport",
+    "location": "Jamsil Hangang Park Basketball Court",
+    "address": "1-1 Jamsil-dong, Songpa District, Seoul",
+    "placeId": "ChIJcUfk1JqlfDURQyPMM_tJgAw",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/lyo6rr49",
+    "capacity": "30",
+    "email": "justin@factomind.io"
   },
   "Solana Spectrum in Korea": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigvucatc6zaz6yhvaqei7q5jaajtaizcekqzfzihthsjlthyvgqje.png",
