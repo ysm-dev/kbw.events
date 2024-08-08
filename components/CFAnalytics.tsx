@@ -3,6 +3,7 @@ import { isProd } from "utils/isProd"
 
 export function CFAnalytics() {
   return isProd() ? (
+    // a
     <Script
       src="https://static.cloudflareinsights.com/beacon.min.js"
       data-cf-beacon={JSON.stringify({
