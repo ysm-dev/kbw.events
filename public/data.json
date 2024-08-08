@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1099,7 +1099,7 @@
     "location": "Sevit Islands",
     "address": "2085-14, Olympic-daero, Seocho-gu, Seoul",
     "placeId": "ChIJLzszLIChfDURhVOQTkJ62oA",
-    "entry": "USD200, KRW200,000",
+    "entry": "USD149.99 / KRW200,000",
     "link": "https://lu.ma/8e3ynu77?tk=XnpbjH",
     "capacity": "500",
     "email": "btcon@digitalasset.works"
@@ -1132,7 +1132,7 @@
     "type": "Panel Discussion",
     "location": "Some Solvit",
     "address": "2085-14 Olympic-daero, Seocho District, Seoul",
-    "placeId": "ChIJoVjcG4GhfDURm9Byxw2-jrI",
+    "placeId": "ChIJRecMWN6hfDURMfaYD6gJEsA",
     "entry": "Free Entry",
     "link": "https://lu.ma/j8umhm54",
     "capacity": "700",
