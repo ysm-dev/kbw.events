@@ -459,7 +459,7 @@
     "email": "jake@icpkor.com"
   },
   "Kaia Square Lounge 2024 Networking Night #1": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
     "title": "Kaia Square Lounge 2024 Networking Night #1",
     "host": "Kaia DLT Foundation",
     "startDate": "2024-09-02",
@@ -469,9 +469,9 @@
     "type": "Networking Event",
     "location": "Peaches D8ne",
     "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
     "entry": "Invitation Only",
-    "link": "https://lu.ma/tvk8wwmp",
+    "link": "https://lu.ma/ksl2024networking",
     "capacity": "250",
     "email": "kevin.kim8475@klaytn.foundation"
   },
@@ -663,7 +663,7 @@
     "email": "ian@caladan.xyz"
   },
   "Kaia Square Lounge 2024 Day #2": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicy3arv2pe3aizbadn34ihpts6d2u3cvtd33jsuvd63jbqrw322tm.png",
     "title": "Kaia Square Lounge 2024 Day #2",
     "host": "Kaia DLT Foundation",
     "startDate": "2024-09-03",
@@ -673,9 +673,9 @@
     "type": "Conference, Panel Discussions",
     "location": "Peaches D8ne",
     "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
     "entry": "Free Entry(Booth Tour) / Invitation Only(Conference)",
-    "link": "https://lu.ma/vxxwe99i",
+    "link": "https://lu.ma/ksl2024",
     "capacity": "150",
     "email": "kevin.kim8475@klaytn.foundation"
   },
@@ -782,7 +782,7 @@
     "email": "marketing@stakingcircle.com"
   },
   "Kaia Square Lounge 2024 Networking Night #2": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
     "title": "Kaia Square Lounge 2024 Networking Night #2",
     "host": "Kaia DLT Foundation",
     "startDate": "2024-09-03",
@@ -792,9 +792,9 @@
     "type": "Networking Event",
     "location": "Peaches D8ne",
     "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
     "entry": "Invitation Only",
-    "link": "https://lu.ma/tvk8wwmp",
+    "link": "https://lu.ma/ksl2024networking",
     "capacity": "250",
     "email": "kevin.kim8475@klaytn.foundation"
   },
