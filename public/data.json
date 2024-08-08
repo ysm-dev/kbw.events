@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -458,6 +458,23 @@
     "capacity": null,
     "email": "info@geda.gg"
   },
+  "Helika Executive Game Night Event": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifcex4ynmgt4jaxz25qpbaywocp7rcjvp5ajgjcxzqdam35q44q3u.png",
+    "title": "Helika Executive Game Night Event",
+    "host": "Helika",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free, Invitation Only",
+    "link": "https://lu.ma/yqhy7lzw",
+    "capacity": null,
+    "email": "mike@helika.io"
+  },
   "DePIN DAY + Afterparty @ KBW": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsezjioiangrbd2i6lctnrb3ld4zmlbnkfqmthrqjz6dva4632gm.png",
     "title": "DePIN DAY + Afterparty @ KBW",
@@ -473,7 +490,7 @@
     "entry": "Free Entry",
     "link": "https://lu.ma/depinday",
     "capacity": "350",
-    "email": null
+    "email": "darren@dephy.io"
   },
   "Private Dinner with Tigers": {
     "image": null,
@@ -884,7 +901,7 @@
     "email": "contact@her-dao.xyz"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
