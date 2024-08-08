@@ -289,7 +289,7 @@
     "email": "info@geda.gg"
   },
   "Kaia Square Lounge 2024 Day #1": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicy3arv2pe3aizbadn34ihpts6d2u3cvtd33jsuvd63jbqrw322tm.png",
     "title": "Kaia Square Lounge 2024 Day #1",
     "host": "Kaia DLT Foundation",
     "startDate": "2024-09-02",
@@ -299,11 +299,11 @@
     "type": "Conference, Panel Discussions",
     "location": "Peaches D8ne",
     "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
     "entry": "Free Entry(Booth Tour) / Invitation Only(Conference)",
-    "link": "https://lu.ma/vxxwe99i",
+    "link": "https://lu.ma/ksl2024",
     "capacity": "150",
-    "email": "kevin.kim8475@klaytn.foundation"
+    "email": "kevin.kim@kaia.io"
   },
   "Web3 x AI summit": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicwtoh3cwrcpwqo2riojtx52arjbo5l4jmurw45fzhjagpa3astca.png",
@@ -473,7 +473,7 @@
     "entry": "Invitation Only",
     "link": "https://lu.ma/ksl2024networking",
     "capacity": "250",
-    "email": "kevin.kim8475@klaytn.foundation"
+    "email": "kevin.kim@kaia.io"
   },
   "WEB3 FIESTA - W3G KOREA NIGHT EDITION": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiacyjopphr7rna5y46ren5ujxdttbkrxxypbcvdouok6hgveturfy.png",
@@ -677,7 +677,7 @@
     "entry": "Free Entry(Booth Tour) / Invitation Only(Conference)",
     "link": "https://lu.ma/ksl2024",
     "capacity": "150",
-    "email": "kevin.kim8475@klaytn.foundation"
+    "email": "kevin.kim@kaia.io"
   },
   "Institutional Happy Hour": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic5fphmfsssa6mmelubz356jhufrxngbomwe64hbx23rscrby5tnu.png",
@@ -796,7 +796,7 @@
     "entry": "Invitation Only",
     "link": "https://lu.ma/ksl2024networking",
     "capacity": "250",
-    "email": "kevin.kim8475@klaytn.foundation"
+    "email": "kevin.kim@kaia.io"
   },
   "S Rank : Leveling Anime & Collector Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibflg64jvnl5gdepklaod7wm2xmpktkti5cwdungd7iclohtnxwa4.png",
