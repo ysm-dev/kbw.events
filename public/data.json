@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -525,6 +525,23 @@
     "link": "https://lu.ma/nz146xpp",
     "capacity": "150",
     "email": "contact@catalyze-research.com"
+  },
+  "Crypto Legal Symposium": {
+    "image": null,
+    "title": "Crypto Legal Symposium",
+    "host": "Hashed Open Dialogue for Law(HODL) & Hashed Open Research(HOR)",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Conference, Networking",
+    "location": "Hashed",
+    "address": "20th Floor, K-Square Gangnam 2, 374 Gangnam-daero, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "On Approval",
+    "link": "TBD",
+    "capacity": "75",
+    "email": "shasank@hashed.com"
   },
   "ICP Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiehx2ewsoey2itaiarofywywu44kjag7yfyl45e7k6zxeqqfum7ie.png",
@@ -1161,7 +1178,7 @@
     "host": "INF CryptoLab & Spectral Labs",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
-    "startTime": "13:00",
+    "startTime": "14:00",
     "endTime": "18:00",
     "type": "AI Event w/ Panel Discussions & Networking",
     "location": "Monaco Space",
@@ -1173,7 +1190,7 @@
     "email": "infcryptolab@gmail.com"
   },
   "Uniting Societies @KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibutvvpdhqjub7z4qfpamgg6xmty5lurwtcfntry6rko4rlebmui4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihklvtmh6alpc7o3erho6dow5b6putaoq4v3hhbw5jxgqgrup5lg4.png",
     "title": "Uniting Societies @KBW",
     "host": "Somnia",
     "startDate": "2024-09-04",
@@ -1563,6 +1580,23 @@
     "capacity": "100",
     "email": "jeongho.yeo@bharvest.io"
   },
+  "2024 Web3 & AI Application Challenge Competition - Korea Edition": {
+    "image": null,
+    "title": "2024 Web3 & AI Application Challenge Competition - Korea Edition",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "15:30",
+    "endTime": "18:30",
+    "type": null,
+    "location": null,
+    "address": null,
+    "placeId": null,
+    "entry": null,
+    "link": null,
+    "capacity": null,
+    "email": null
+  },
   "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid7x26x3sqrdb4cev46j52tav5r7chff4xzuohdwldooxbmi7lgb4.png",
     "title": "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)",
@@ -1596,6 +1630,23 @@
     "link": "https://lu.ma/kks6p7b6",
     "capacity": "50",
     "email": "zo@ferumlabs.com"
+  },
+  "Diversity-in-tech": {
+    "image": null,
+    "title": "Diversity-in-tech",
+    "host": "Hashed Open Dialogue for Law (HODL)",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Conference, Networking",
+    "location": "Hashed",
+    "address": "3rd Floor, Mirim Tower, 14 Teheran-ro 4-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "On Approval",
+    "link": "TBD",
+    "capacity": "75",
+    "email": "shasank@hashed.com"
   },
   "TON Community Summit KBW 2024": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreievq5edox5lannmazhadz2mqvgl77bsbhy7arynlqrspkois6fffe.png",
@@ -1734,7 +1785,7 @@
     "email": "contact@knightfury.io"
   },
   "Fragmetric X Backpack Rendezvous Powered by Presto": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihn3uhkz2ip25qorgjou77o4iovlowtqmtulaabb4n4koxlwnr4om.png",
     "title": "Fragmetric X Backpack Rendezvous Powered by Presto",
     "host": "Fragmetric, Backpack, Presto",
     "startDate": "2024-09-05",
@@ -1744,9 +1795,9 @@
     "type": "Party",
     "location": "Avécque",
     "address": "823, Cheongdam, Gangnam District, Seoul",
-    "placeId": null,
+    "placeId": "ChIJLa2wIcijfDUR0oCbGSc9kxE",
     "entry": "Free Entry",
-    "link": "TBD",
+    "link": "https://lu.ma/qpeqnpln",
     "capacity": "200",
     "email": "zac@encryptx.io"
   },
@@ -1872,7 +1923,7 @@
   "Solana Spectrum in Korea": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigvucatc6zaz6yhvaqei7q5jaajtaizcekqzfzihthsjlthyvgqje.png",
     "title": "Solana Spectrum in Korea",
-    "host": "Fragmetric, Jito, Presto",
+    "host": "Fragmetric, Jito, Presto, Solana Foundation",
     "startDate": "2024-09-06",
     "endDate": "2024-09-06",
     "startTime": "13:00",
