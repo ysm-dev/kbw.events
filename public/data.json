@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -457,6 +457,23 @@
     "link": "https://lu.ma/1vvoin6h",
     "capacity": "250",
     "email": "orbskorea@orbs.com"
+  },
+  "Telegram Trends Beta Launch": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifjbc2gt64dk5dguz22gb3h6cbwhgnfpxqb3gb46pelqvqrv7awfu.png",
+    "title": "Telegram Trends Beta Launch",
+    "host": "Telegram Trends",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "16:00",
+    "endTime": "20:00",
+    "type": "Beta version launch for early adopters",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": "ChIJ4af2bIGhfDURpXqDsfrPuOE",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/gdsggrdv",
+    "capacity": "250",
+    "email": "khushali@wallethunter.xyz"
   },
   "Payy presents: zk wine tasting @ korea blockchain week": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiayb6yzrx36vshrz57t2ae2w3etq7s2paorfz6p7oficiwqfwkfuu.png",
@@ -1529,9 +1546,9 @@
     "capacity": null,
     "email": "ayessa.lopez@halborn.com"
   },
-  "Monad Tech Seminar in KBW (Dev Only)": {
+  "[Monad 101] in Korea - A Tech Guide for Developers": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih2d2in356gwn375n64oolqxa3wgrabuqh2rtsmgl6tbt3w6t2mqm.png",
-    "title": "Monad Tech Seminar in KBW (Dev Only)",
+    "title": "[Monad 101] in Korea - A Tech Guide for Developers",
     "host": "Monad, B-Harvest",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
@@ -1921,7 +1938,7 @@
     "email": "info@futuracanvas.com"
   },
   "NEAR HZN AI Alpha Hackathon": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigwgenyput6ua5crmz2k374ausgwci42p4lhnwefbyljgqmwivgiy.png",
     "title": "NEAR HZN AI Alpha Hackathon",
     "host": "NEAR & BeWater",
     "startDate": "2024-09-06",
@@ -1931,10 +1948,10 @@
     "type": "Hackathon",
     "location": "AMC Tower",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJk3QI2_mjfDUR6AYVE1RRJqI",
     "entry": "Invitation Only",
-    "link": "https://tbd.tbd/",
-    "capacity": "50",
+    "link": "https://lu.ma/eb7w3abx",
+    "capacity": "40",
     "email": "rich0577@proton.me"
   },
   "Polkadot Mixer": {
