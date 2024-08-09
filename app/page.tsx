@@ -1,7 +1,6 @@
 import { EventList } from "app/components/EventList"
 
 export const runtime = "edge"
-export const revalidate = 180
 
 export default function Page() {
   return (

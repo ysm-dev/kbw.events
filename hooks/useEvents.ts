@@ -8,7 +8,7 @@ export const getEvents = async () => {
     "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/data.json",
     {
       next: {
-        revalidate: ms("1h"),
+        revalidate: ms("1h") / 1000,
       },
     },
   ).then<R>((r) => r.json())
