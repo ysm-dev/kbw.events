@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1241,7 +1241,7 @@
     "email": "autumn@ferumlabs.com"
   },
   "Navigating Investment in Web3: Tech, Narrative, or FOMO?": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig4zjsxtugua4d6x76bp7cqnz7qmj436unwi4wnoqllw3u7sfygcm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarkjzkwaixhu4gloz5dajvzkhgg654h6nhka5qguly23gqxkdu3e.png",
     "title": "Navigating Investment in Web3: Tech, Narrative, or FOMO?",
     "host": "DFG & Jsquare & Ticker Capital",
     "startDate": "2024-09-04",
@@ -1581,21 +1581,21 @@
     "email": "jeongho.yeo@bharvest.io"
   },
   "2024 Web3 & AI Application Challenge Competition - Korea Edition": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiba7sur3dqwaraimpbjnt6vvwexbssh5rgjgrk2yyaitf45sgdhru.png",
     "title": "2024 Web3 & AI Application Challenge Competition - Korea Edition",
-    "host": null,
+    "host": "AON",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "15:30",
     "endTime": "18:30",
-    "type": null,
-    "location": null,
-    "address": null,
-    "placeId": null,
-    "entry": null,
-    "link": null,
-    "capacity": null,
-    "email": null
+    "type": "Pitching Challenge Competition",
+    "location": "Lbank Korea office",
+    "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": "ChIJk3QI2_mjfDUR6AYVE1RRJqI",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pq9dizyr",
+    "capacity": "200",
+    "email": "TBD"
   },
   "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid7x26x3sqrdb4cev46j52tav5r7chff4xzuohdwldooxbmi7lgb4.png",
@@ -1665,22 +1665,22 @@
     "capacity": "400",
     "email": "riversh0215@gmail.com"
   },
-  "13Desk Meet Up": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgh4pwqxla2ncgvadfblwj6x6qf4rsefesg4tdd7i7j7hzpbmfzm.png",
-    "title": "13Desk Meet Up",
-    "host": "13Desk",
+  "K-RWA Night": {
+    "image": null,
+    "title": "K-RWA Night",
+    "host": "Shinhan Securities",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "18:00",
-    "endTime": "23:00",
+    "endTime": "22:00",
     "type": "Networking Event",
-    "location": "AMC Tower",
-    "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "location": "Alttap Itaewon",
+    "address": "9, Itaewon-ro 19-gil, Yongsan-gu, Seoul",
     "placeId": null,
-    "entry": "Free Entry",
-    "link": "https://lu.ma/xwh16vcg",
-    "capacity": "200",
-    "email": "ask@13desk.news"
+    "entry": "Free Entry (Approval Required)",
+    "link": "TBD",
+    "capacity": "70",
+    "email": "shic.block@gmail.com"
   },
   "Esports Night Out": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreignlrb6mez5nnozrbabmo376f25h7gh4ft6nmwa3jvp2fk7pprbmu.png",
@@ -1698,6 +1698,23 @@
     "link": "https://lu.ma/jdaetjix",
     "capacity": "150",
     "email": "aiden@sevenlinelabs.com"
+  },
+  "13Desk Meet Up": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgh4pwqxla2ncgvadfblwj6x6qf4rsefesg4tdd7i7j7hzpbmfzm.png",
+    "title": "13Desk Meet Up",
+    "host": "13Desk",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "AMC Tower",
+    "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/xwh16vcg",
+    "capacity": "200",
+    "email": "ask@13desk.news"
   },
   "K Meme Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig7tfeskac6xujucfl6ef2shporzch3dp5gazi7qtsqtfvfrs2lva.png",
