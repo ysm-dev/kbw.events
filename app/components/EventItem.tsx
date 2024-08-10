@@ -7,6 +7,7 @@ import { Button } from "components/ui/button"
 import { Toggle } from "components/ui/toggle"
 import { format, parse } from "date-fns"
 import type { Event } from "hooks/useEvents"
+import { getUA } from "hooks/useLogging/useUA"
 import { useSavedEvents } from "hooks/useSavedEvents"
 import { highlight } from "hooks/useSearch"
 import {
@@ -70,7 +71,7 @@ export const EventItem = ({ event: e }: Props) => {
           >
             <a
               href={
-                e.placeId
+                e.placeId && getUA().type === "desktop"
                   ? `https://www.google.com/maps/place/?q=place_id:${e.placeId}`
                   : `https://www.google.com/maps/search/?api=1&query=${e.location}, ${e.address}`
               }

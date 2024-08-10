@@ -32,8 +32,8 @@ const Pending = () => {
 }
 
 const Resolved = () => {
-  const [on, toggle] = useToggle()
   const [q, setQ] = useQueryState("q")
+  const [on, toggle] = useToggle(!!q)
   const { push } = useRouter()
 
   useHotkeys("ctrl+k", () => {
