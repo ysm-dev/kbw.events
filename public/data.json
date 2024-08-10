@@ -1359,6 +1359,23 @@
     "capacity": "150",
     "email": "events@dwf-labs.com"
   },
+  "OG Party in Seoul": {
+    "image": null,
+    "title": "OG Party in Seoul",
+    "host": "Gotbit",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "Networking Event, Party",
+    "location": "L7 Floating Bar",
+    "address": "10th floor, 415 Teheran-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "TBD",
+    "link": "TBD",
+    "capacity": "200",
+    "email": "marketing@gotbit.io"
+  },
   "Meme Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiae4w34dtju62wxcc4deyt7ypr6ishefzhxui2575iawttiqenet4.png",
     "title": "Meme Pheromone EDM Party",
@@ -1954,21 +1971,21 @@
     "capacity": "150",
     "email": "sonic@encryptx.io"
   },
-  "Liquidity Summit": {
-    "image": null,
-    "title": "Liquidity Summit",
+  "Liquidity Summit 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihqrltuggs5fbaojfmp7omedce2dvjekydnscmiwu5oi7lwotqx4i.png",
+    "title": "Liquidity Summit 2024",
     "host": "Mitosis x Google Cloud",
     "startDate": "2024-09-06",
     "endDate": "2024-09-06",
     "startTime": "14:00",
     "endTime": "19:00",
     "type": "Conference, Networking",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
+    "location": "Peaches. D8NE",
+    "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
+    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
     "entry": "Free Entry(Pre-register)",
-    "link": "TBD",
-    "capacity": "300",
+    "link": "https://lu.ma/nnxgtgxs",
+    "capacity": "200",
     "email": "luke@mitosis.org"
   },
   "Seoulana Summer": {
