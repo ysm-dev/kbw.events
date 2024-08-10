@@ -951,20 +951,20 @@
     "capacity": "100",
     "email": "aiden@sevenlinelabs.com"
   },
-  "Solana Gaming Dinner": {
-    "image": null,
-    "title": "Solana Gaming Dinner",
-    "host": null,
+  "Solana Gaming Exclusive Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibyp77w56lcmyjctlazceqbgfdt5bsv2pfhnlalsegnoiyicbf2za.png",
+    "title": "Solana Gaming Exclusive Dinner",
+    "host": "Sonic & GameShift",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
-    "startTime": "19:00",
-    "endTime": "22:00",
+    "startTime": "18:30",
+    "endTime": "23:00",
     "type": "Networking Event",
     "location": "ClubD CheongDam",
     "address": "439, Dosan-daero, Gangnam-gu, Seoul,",
     "placeId": null,
-    "entry": "Free Entry",
-    "link": "TBD",
+    "entry": "By Invitation & Application Only",
+    "link": "https://lu.ma/xqco5mwf",
     "capacity": "50",
     "email": "kinsa@sonic.game"
   },
@@ -1972,21 +1972,21 @@
     "email": "luke@mitosis.org"
   },
   "Seoulana Summer": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihdzhrah23xcooitnuejzydxcadz5z2wogckiezybbz2d6hbbojba.png",
     "title": "Seoulana Summer",
-    "host": "Sonic, Jito, Solana Foundation",
+    "host": "Solana Labs, Sonic, Jito, Solayer, and OKX Wallet",
     "startDate": "2024-09-06",
     "endDate": "2024-09-06",
     "startTime": "19:00",
-    "endTime": "23:00",
+    "endTime": "23:30",
     "type": "Networking Event",
     "location": "ClubD CheongDam",
     "address": "439, Dosan-daero, Gangnam-gu, Seoul,",
     "placeId": null,
     "entry": "Free Entry",
-    "link": "TBD",
+    "link": "https://lu.ma/0agdo9bt",
     "capacity": "150",
-    "email": "kinsa@sonic.game"
+    "email": "devonmojito@gmail.com"
   },
   "FuturaCanvas Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
