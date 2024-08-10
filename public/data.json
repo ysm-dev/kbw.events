@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -272,7 +272,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
+    "image": null,
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -2038,6 +2038,23 @@
     "link": "https://lu.ma/eb7w3abx",
     "capacity": "40",
     "email": "rich0577@proton.me"
+  },
+  "Crypto Art Seoul 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicdudici223xif5cmcwierhpdcjyn4z4iaflxzcatkzzf4ls2ujje.png",
+    "title": "Crypto Art Seoul 2024",
+    "host": "Aeon Studio",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-07",
+    "startTime": "16:00",
+    "endTime": "19:30",
+    "type": "Conference, Exhibition, Networking Event",
+    "location": "Uncommon Gallery",
+    "address": "516, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Registers Only",
+    "link": "https://lu.ma/i7c99oul",
+    "capacity": "150",
+    "email": "info@cryptoartseoul.com"
   },
   "Polkadot Mixer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
