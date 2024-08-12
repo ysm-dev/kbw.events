@@ -94,7 +94,7 @@ const getImage = async (
 
       const event = luma.event
 
-      if (isURL(event.cover_url)) {
+      if (isURL(event?.cover_url)) {
         return await saveImage(event.cover_url)
       }
 
