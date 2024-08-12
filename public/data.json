@@ -215,8 +215,8 @@
     "location": "Dragon City",
     "address": "34, 20-gil 95 Cheongpa-ro, Yongsan-gu, Seoul",
     "placeId": null,
-    "entry": "VIP Free Entry, $60",
-    "link": "TBD",
+    "entry": "$22",
+    "link": "https://sky.blockchain-exp.com/)",
     "capacity": "500",
     "email": "contact@x-phere.com"
   },
@@ -1086,6 +1086,23 @@
     "link": "TBD",
     "capacity": "250",
     "email": "contact@her-dao.xyz"
+  },
+  "DNA House": {
+    "image": null,
+    "title": "DNA House",
+    "host": "DNA",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-05",
+    "startTime": "11:00",
+    "endTime": "23:59",
+    "type": "Networking Event",
+    "location": "Belair Lounge",
+    "address": "30, Seolleung-ro 152-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/DNAFund",
+    "capacity": "200",
+    "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
