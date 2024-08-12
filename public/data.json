@@ -1088,7 +1088,7 @@
     "email": "contact@her-dao.xyz"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -1409,23 +1409,6 @@
     "link": "https://go.sui.io/readysuiplay",
     "capacity": "450",
     "email": "events@sui.io"
-  },
-  "BUN Up the Night": {
-    "image": null,
-    "title": "BUN Up the Night",
-    "host": "BURRITO Wallet",
-    "startDate": "2024-09-04",
-    "endDate": "2024-09-04",
-    "startTime": "20:00",
-    "endTime": "03:00",
-    "type": "Party",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
-    "entry": "TBD",
-    "link": "TBD",
-    "capacity": "500",
-    "email": "contact@bunetwork.org"
   },
   "Sahara AI Connect Party 2024": {
     "image": null,
