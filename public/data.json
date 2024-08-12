@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -272,7 +272,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -1172,9 +1172,9 @@
     "capacity": "300",
     "email": "events@ripple.com"
   },
-  "Korea Meme Day with Uniswap": {
+  "MemeCore & OKX Pheromone Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicbubs6yrmyytj6grjlbrj3nab6ypiv7q3wsrulkqavgkcsoo3tzi.png",
-    "title": "Korea Meme Day with Uniswap",
+    "title": "MemeCore & OKX Pheromone Day",
     "host": "MemeCore",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
@@ -1274,9 +1274,9 @@
     "capacity": "120",
     "email": "cherry@ticker.capital"
   },
-  "Pheromone VIP Yachts Club": {
+  "MemeCore & OKX Pheromone VIP Yachts Club": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic4w2zoqbfbuqtb6iqacarl4co6vc4uxf37yfdfj7rrihmrxoaidq.png",
-    "title": "Pheromone VIP Yachts Club",
+    "title": "MemeCore & OKX Pheromone VIP Yachts Club",
     "host": "MemeCore",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
@@ -1393,9 +1393,9 @@
     "capacity": "200",
     "email": "marketing@gotbit.io"
   },
-  "Meme Pheromone EDM Party": {
+  "MemeCore & OKX Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiae4w34dtju62wxcc4deyt7ypr6ishefzhxui2575iawttiqenet4.png",
-    "title": "Meme Pheromone EDM Party",
+    "title": "MemeCore & OKX Pheromone EDM Party",
     "host": "MemeCore",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
