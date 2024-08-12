@@ -900,6 +900,23 @@
     "capacity": "100",
     "email": "korea@solana.org"
   },
+  "BURRITO WALLET & X LAYER NIGHT": {
+    "image": null,
+    "title": "BURRITO WALLET & X LAYER NIGHT",
+    "host": null,
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": null,
+    "location": null,
+    "address": null,
+    "placeId": null,
+    "entry": null,
+    "link": null,
+    "capacity": null,
+    "email": null
+  },
   "Kaia Square Lounge 2024 Networking Night #2": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
     "title": "Kaia Square Lounge 2024 Networking Night #2",
@@ -1156,7 +1173,7 @@
     "email": "btcon@digitalasset.works"
   },
   "XRPL Zone Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
+    "image": null,
     "title": "XRPL Zone Seoul",
     "host": "Ripple",
     "startDate": "2024-09-04",
@@ -1173,7 +1190,7 @@
     "email": "events@ripple.com"
   },
   "MemeCore & OKX Pheromone Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicbubs6yrmyytj6grjlbrj3nab6ypiv7q3wsrulkqavgkcsoo3tzi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigdc47ahqhxt2l7nhe5auqt46slmzgsuyh2rn6wdckl3vhzzltm24.png",
     "title": "MemeCore & OKX Pheromone Day",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -1385,8 +1402,8 @@
     "startTime": "19:00",
     "endTime": "00:00",
     "type": "Networking Event, Party",
-    "location": "L7 Floating Bar",
-    "address": "10th floor, 415 Teheran-ro, Gangnam-gu, Seoul",
+    "location": "People The Terrace",
+    "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "TBD",
     "link": "TBD",
@@ -1793,8 +1810,8 @@
     "startTime": "19:00",
     "endTime": "00:00",
     "type": "Networking Event, Party",
-    "location": "People The Terrace",
-    "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
+    "location": "TBD",
+    "address": "TBD",
     "placeId": null,
     "entry": "Invitation Only",
     "link": "TBD",
