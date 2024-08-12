@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -867,7 +867,7 @@
     "email": "jason.cho@bdacs.co.kr"
   },
   "Kimchi and Bitcoin: BTCfi Bash in Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihrwb3tfzwrudsvjynmqjzpc44u5pax76fi3srrql4is5wvf7jkey.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig45kjum34etylbo6vibirx6yrmphpqthcbtmsfdln44h7iizr7zu.png",
     "title": "Kimchi and Bitcoin: BTCfi Bash in Seoul",
     "host": "Staking Circle",
     "startDate": "2024-09-03",
@@ -2008,7 +2008,7 @@
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihdzhrah23xcooitnuejzydxcadz5z2wogckiezybbz2d6hbbojba.png",
     "title": "Seoulana Summer",
-    "host": "Solana Labs, Sonic, Jito, Solayer, and OKX Wallet",
+    "host": "Solana Foundation, Sonic, Jito, Solayer, and OKX Wallet",
     "startDate": "2024-09-06",
     "endDate": "2024-09-06",
     "startTime": "19:00",
