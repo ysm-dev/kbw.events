@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -118,6 +118,23 @@
     "capacity": null,
     "email": "yoonlee@tiger-research.com"
   },
+  "OLYMPUS | Founders & Builders Brunch": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifxzcg3fcfm725ezaghmvpezg473drzlt2t5qs7ppobhxbunuliqa.png",
+    "title": "OLYMPUS | Founders & Builders Brunch",
+    "host": "ICP HUB Korea",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "type": "Brunch",
+    "location": "People the Terrace",
+    "address": "Dosan-daero 81-gil-13, Gangnam-gu, Seoul",
+    "placeId": "ChIJdczTGA-lfDURTFTsmmlI1OM",
+    "entry": "Private",
+    "link": "https://lu.ma/buildersbrunchkbw",
+    "capacity": "30",
+    "email": "jake@icpkor.com"
+  },
   "XBlockchain Seoul Meetup - The Future of Pundi X": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibaxtfkialr3fuitzqyqfo4j3ub5csac3vsydkyn3yzaygj4g5kve.png",
     "title": "XBlockchain Seoul Meetup - The Future of Pundi X",
@@ -134,6 +151,23 @@
     "link": "https://lu.ma/jv5ucu1x",
     "capacity": "30",
     "email": "minsoo@pundix.com"
+  },
+  "Chain Fusion Day": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic7uqgivtb7b67arpl26gbhmvu7zdgbfmnuuivxszqgltmvnevb3m.png",
+    "title": "Chain Fusion Day",
+    "host": "ICP HUB Korea, ZTQ Games, Nebula3 GameFi",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "type": "Unconference",
+    "location": "People the Terrace",
+    "address": "Dosan-daero 81-gil-13, Gangnam-gu, Seoul",
+    "placeId": "ChIJdczTGA-lfDURTFTsmmlI1OM",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/chainfusionkbw",
+    "capacity": "100",
+    "email": "jake@icpkor.com"
   },
   "Mina Dev Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvp2ticptxg4n4fvrsnyv7fove5of3s43gxdtt77hhuxixguusxi.png",
@@ -202,6 +236,23 @@
     "link": "https://lu.ma/gpndfwov",
     "capacity": "400",
     "email": "birchnut@adventuregold.org"
+  },
+  "Rooftop Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicuzxsped2gegalat4erftjzrxz5i4aivzqfhjwi6lrqtdr72ksmu.png",
+    "title": "Rooftop Party",
+    "host": "ICP HUB Korea, GamerHash AI, CoinEasy",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "type": "Networking Event, Party",
+    "location": "People the Terrace",
+    "address": "Dosan-daero 81-gil-13, Gangnam-gu, Seoul",
+    "placeId": "ChIJdczTGA-lfDURTFTsmmlI1OM",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/rooftoppartykbw",
+    "capacity": "200",
+    "email": "jake@icpkor.com"
   },
   "Blockchain Pool Party": {
     "image": null,
@@ -406,6 +457,23 @@
     "link": "https://starkpass.com/events/0b5480eb-496f-4492-8bea-1e44badf6842",
     "capacity": "200",
     "email": "giwook@doorlabs.io"
+  },
+  "DeAI Day": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicrxw3yiqv6h6pyk75vbdhsbeimkmr2ykpu2qlq2jlt5kve4r2wtq.png",
+    "title": "DeAI Day",
+    "host": "ICP HUB Korea, Exabits",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "type": "Unconference",
+    "location": "People the Terrace",
+    "address": "Dosan-daero 81-gil-13, Gangnam-gu, Seoul",
+    "placeId": "ChIJdczTGA-lfDURTFTsmmlI1OM",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/deaikbw",
+    "capacity": "100",
+    "email": "jake@icpkor.com"
   },
   "Golden Wave": {
     "image": null,
@@ -1733,6 +1801,23 @@
     "capacity": "150",
     "email": "aiden@sevenlinelabs.com"
   },
+  "CRYPTO NIGHT in Seoul Forest": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6u6beis5sansxyab5wtftpxxun4buc6creturwtxzew2h6z7try.png",
+    "title": "CRYPTO NIGHT in Seoul Forest",
+    "host": "TokenPost",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Casual networking with party",
+    "location": "Seoul Forest Park",
+    "address": "273 Ttukseom-ro, Seongdong-gu, Seoul",
+    "placeId": "ChIJK_b0UX2jfDURmkYPvmWYm90",
+    "entry": "Free + VIP (Invitation Only)",
+    "link": "https://lu.ma/m80ny7yk",
+    "capacity": "1000",
+    "email": "info@tokenpost.kr"
+  },
   "13Desk Meet Up": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgh4pwqxla2ncgvadfblwj6x6qf4rsefesg4tdd7i7j7hzpbmfzm.png",
     "title": "13Desk Meet Up",
@@ -1783,6 +1868,23 @@
     "link": "https://lu.ma/h4s1dsvn",
     "capacity": "200",
     "email": "yura@nibiru.org"
+  },
+  "Success Begins with Support: Ankaa Accelerator Kick-Off": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifaoudwrti4risjuhjxegdtww7vboufokrrf3saflnsqxa2uexbhe.png",
+    "title": "Success Begins with Support: Ankaa Accelerator Kick-Off",
+    "host": "Ankaa Labs, Aptos, OKX Ventures, Alcove community",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "23:59",
+    "type": "Networking Event, Party",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": "ChIJzzlcLQGifDURm_JbQKHsEX4",
+    "entry": "Free (Registration required)",
+    "link": "https://lu.ma/ep7yr2x2",
+    "capacity": "150",
+    "email": "vanessaaalian@gmail.com"
   },
   "Supernova Cocktails + Disco": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wlb4kh75lekitfsqetwmplrqw2zlr3f33ja6klkvv2nezqwbga.png",
