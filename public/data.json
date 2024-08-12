@@ -680,7 +680,7 @@
     "email": "mike@helika.io"
   },
   "DePIN DAY + Afterparty @ KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsezjioiangrbd2i6lctnrb3ld4zmlbnkfqmthrqjz6dva4632gm.png",
+    "image": null,
     "title": "DePIN DAY + Afterparty @ KBW",
     "host": "DePHY Network + MissWProject + Madlads",
     "startDate": "2024-09-02",
@@ -690,7 +690,7 @@
     "type": "Networking + Party Event",
     "location": "Weple Art Gallery",
     "address": "7, Wonhyo-ro, Yongsan-gu, Seoul",
-    "placeId": "ChIJd6Vbpq2YfDUR76EnulVUMFg",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/depinday",
     "capacity": "350",
@@ -1190,7 +1190,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
