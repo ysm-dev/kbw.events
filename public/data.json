@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1224,7 +1224,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -1494,23 +1494,6 @@
     "link": "https://lu.ma/n6q2rqkn",
     "capacity": "150",
     "email": "events@dwf-labs.com"
-  },
-  "OG Party in Seoul": {
-    "image": null,
-    "title": "OG Party in Seoul",
-    "host": "Gotbit",
-    "startDate": "2024-09-04",
-    "endDate": "2024-09-04",
-    "startTime": "19:00",
-    "endTime": "00:00",
-    "type": "Networking Event, Party",
-    "location": "People The Terrace",
-    "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
-    "placeId": null,
-    "entry": "TBD",
-    "link": "TBD",
-    "capacity": "200",
-    "email": "marketing@gotbit.io"
   },
   "MemeCore & OKX Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiae4w34dtju62wxcc4deyt7ypr6ishefzhxui2575iawttiqenet4.png",
@@ -1970,6 +1953,23 @@
     "link": "TBD",
     "capacity": "200",
     "email": "contact@hgventures.io"
+  },
+  "OG Party in Seoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3g6xgl76lv4hhzni73cfh6pcy3dnru2orpprib4yl73uqf5d2wy.png",
+    "title": "OG Party in Seoul",
+    "host": "Gotbit",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "Networking Event, Party",
+    "location": "People The Terrace",
+    "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJVxLRrXukfDURHh6aVnEgWbs",
+    "entry": "Free-Invite Only",
+    "link": "https://lu.ma/OGpartySeoul",
+    "capacity": "200",
+    "email": "marketing@gotbit.io"
   },
   "MKGA After Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiab2uw24ic22g3456ygxnvwww5d4qgvam6ecrqeggqxcawrcoqxum.png",
