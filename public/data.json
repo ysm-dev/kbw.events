@@ -985,6 +985,23 @@
     "capacity": "50",
     "email": "gemma.shin@mantle.xyz"
   },
+  "Injective Seoul Night": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigyz4qzx5n4y6moaqpmx5uduum5nwr6ptu2tvhkhoteag5gzf4xc4.png",
+    "title": "Injective Seoul Night",
+    "host": "Injective Foundation",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "29Pub #5, Germany Orthodox",
+    "address": "2nd Fl. 10 Gangnam-daero 65-gil, Seocho-gu, Seoul",
+    "placeId": "Ej4ybmQgZmwsIDEwIEdhbmduYW0tZGFlcm8gNjUtZ2lsLCBTZW9jaG8tZ3UsIFNlb3VsLCBTb3V0aCBLb3JlYSIiGiAKFgoUChIJNVZ4JFmhfDURgjhT2Ychv30SBjJuZCBmbA",
+    "entry": "Approval Required",
+    "link": "https://lu.ma/injseoulnight",
+    "capacity": "150",
+    "email": "contact@injectivelabs.org"
+  },
   "Sunset Garden: A Night of Institutional Custody and Crypto Magic": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarfzhi5bg57fbxxjutqjqcdm25csij7txykpjj4uvevtx4bqvnp4.png",
     "title": "Sunset Garden: A Night of Institutional Custody and Crypto Magic",
@@ -1070,40 +1087,6 @@
     "capacity": "200",
     "email": "mike@prometeus.io"
   },
-  "BURRITO WALLET & X LAYER NIGHT": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieklfw7uderapb6ny24r3f2tjkxdxaoksbdjdtadygmywwkrybrcq.png",
-    "title": "BURRITO WALLET & X LAYER NIGHT",
-    "host": null,
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-03",
-    "startTime": "19:00",
-    "endTime": "00:00",
-    "type": "Party",
-    "location": "Kemistry",
-    "address": "Eonjuro 94gil 5, Gangnamgu, Seoul",
-    "placeId": "EjRTb3V0aCBLb3JlYSwg7ISc7Jq4IOqwleuCqOq1rCDslrjso7zroZw5NOq4uCA1IDIg7Li1IiEaHwoWChQKEgnJvOyzB6R8NRFr3mV7C_EkJxIFMiDsuLU",
-    "entry": "Free Entry",
-    "link": "https://lu.ma/5ddts18b",
-    "capacity": "200",
-    "email": "partner@burritowallet.com"
-  },
-  "Kaia Square Lounge 2024 Networking Night #2": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
-    "title": "Kaia Square Lounge 2024 Networking Night #2",
-    "host": "Kaia DLT Foundation",
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-03",
-    "startTime": "19:00",
-    "endTime": "00:00",
-    "type": "Networking Event",
-    "location": "Peaches D8ne",
-    "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
-    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
-    "entry": "Invitation Only",
-    "link": "https://lu.ma/ksl2024networking",
-    "capacity": "250",
-    "email": "kevin.kim@kaia.io"
-  },
   "S Rank : Leveling Anime & Collector Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibflg64jvnl5gdepklaod7wm2xmpktkti5cwdungd7iclohtnxwa4.png",
     "title": "S Rank : Leveling Anime & Collector Culture",
@@ -1188,6 +1171,40 @@
     "link": "https://lu.ma/TONKBW",
     "capacity": "400",
     "email": "lucy@ton.org"
+  },
+  "BURRITO WALLET & X LAYER NIGHT": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieklfw7uderapb6ny24r3f2tjkxdxaoksbdjdtadygmywwkrybrcq.png",
+    "title": "BURRITO WALLET & X LAYER NIGHT",
+    "host": null,
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "Party",
+    "location": "Kemistry",
+    "address": "Eonjuro 94gil 5, Gangnamgu, Seoul",
+    "placeId": "EjRTb3V0aCBLb3JlYSwg7ISc7Jq4IOqwleuCqOq1rCDslrjso7zroZw5NOq4uCA1IDIg7Li1IiEaHwoWChQKEgnJvOyzB6R8NRFr3mV7C_EkJxIFMiDsuLU",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/5ddts18b",
+    "capacity": "200",
+    "email": "partner@burritowallet.com"
+  },
+  "Kaia Square Lounge 2024 Networking Night #2": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
+    "title": "Kaia Square Lounge 2024 Networking Night #2",
+    "host": "Kaia DLT Foundation",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "Networking Event",
+    "location": "Peaches D8ne",
+    "address": "9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
+    "placeId": "ChIJAX8H_C-lfDUR8ZsrkG7xf3Y",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/ksl2024networking",
+    "capacity": "250",
+    "email": "kevin.kim@kaia.io"
   },
   "Texas Hold'em Poker with Factomind": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia5zsn77n7decfwifhcbhyehxljw232lv75vbr4yp3dushkmcxwke.png",
@@ -1360,7 +1377,7 @@
     "email": "events@ripple.com"
   },
   "MemeCore & OKX Pheromone Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiapfowpqixhyh7b4euqxebla2sfxmvpvo4unovmwoc7vccza6fv34.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiadgvqpqfapi3i46dyhno6drsivw3nh4ss5dogadxpvvlfz4c4ft4.png",
     "title": "MemeCore & OKX Pheromone Day",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -1462,7 +1479,7 @@
     "email": "cherry@ticker.capital"
   },
   "MemeCore & OKX Pheromone VIP Yachts Club": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia242nk55oxzdbbwedpe4kk6ia2ixd6vnzn4ibgfmq2ezsrjzsnhm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidzh7i2qoz5nkky3jomxb4tsblnipesp734qeesaz3tvbqrmjxzqq.png",
     "title": "MemeCore & OKX Pheromone VIP Yachts Club",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -1494,6 +1511,23 @@
     "link": "https://lu.ma/amnzpts3",
     "capacity": null,
     "email": "contact@mondy.builders"
+  },
+  "Injective Partner Dinner @KBW": {
+    "image": null,
+    "title": "Injective Partner Dinner @KBW",
+    "host": "Injective Foundation",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Private Dinner",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "TBD",
+    "capacity": "TBD",
+    "email": "contact@injectivelabs.org"
   },
   "Pudgy x Skale K-BBQ Night": {
     "image": null,
@@ -1766,6 +1800,23 @@
     "link": "https://lu.ma/f3b4dgoo",
     "capacity": "500",
     "email": "contact@knightfury.io"
+  },
+  "Astar Evolution: New Stage": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidllxph54hbkw5qrsehqxsp5y3juoig5t5sifvwz56uggfhzlnksq.png",
+    "title": "Astar Evolution: New Stage",
+    "host": "Astar Network&Startale",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "10:30",
+    "endTime": "14:00",
+    "type": "Meet up, Sessions",
+    "location": "Hashed Lounge",
+    "address": "20F, 374 Gangnam-daero, Gangnam District, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/b6rvfzmr",
+    "capacity": "200",
+    "email": "cody.muro@startale.com"
   },
   "Bitcoin Brunch @ KBW with Halborn": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiewrvqah4664suybsm56cojoer4o66dsmlruu4u6vsonmrtybks44.png",
@@ -2108,7 +2159,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihrtncq6low4ho5s7u7hjwjeaaujr6nlqoto46wyhntdfj2frs2fi.png",
+    "image": null,
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
@@ -2120,7 +2171,7 @@
     "address": "B1-B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Invitation Only",
-    "link": "https://lu.ma/rnyvk9ix",
+    "link": "TBD",
     "capacity": "300",
     "email": "contact@aegis.ventures"
   },
