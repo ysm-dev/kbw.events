@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1887,7 +1887,7 @@
     "email": "cryptosupport@bloomingbit.io"
   },
   "Dev Stop: KBW 2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiboe7mwob2eoszifzgwcyrko4x6wrm55wka4tkrocl7jrcv4p6zhm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidjb4vdwyhkjazbwdjpkv3jpuv5dzdddq6nx7nftdfiioz2q3hbwq.png",
     "title": "Dev Stop: KBW 2024",
     "host": "Polygon Labs & Circle",
     "startDate": "2024-09-05",
