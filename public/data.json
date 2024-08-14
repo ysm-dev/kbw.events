@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -952,7 +952,7 @@
     "email": "cherry@ticker.capital"
   },
   "KBW Hash Hour with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidw36zrhc4zhvqmkojk2hczzvoe2b5gamj7nyst3rp56rwdjnrnma.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibsi7ut2nmh52anzqmacq45u24z6buwlhigsuh3ynjdmtkkkoueze.png",
     "title": "KBW Hash Hour with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-03",
@@ -1309,7 +1309,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -1768,7 +1768,7 @@
     "email": "justin@factomind.io"
   },
   "KBW Coffee Meetup with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidgwpbd2nucoyeew3q4rpq2yvuab5qye2wr34mozkhwmnnqtgls7u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig7ia5t7wz7enw4okom2g6su7difblncm3vwrd5suruuhpatdtn5e.png",
     "title": "KBW Coffee Meetup with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-05",
@@ -1778,7 +1778,7 @@
     "type": "Meetup",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJOaa5-7O6fDUR3G48vbHqlNA",
     "entry": "Free Entry",
     "link": "https://lu.ma/7bl20h4e",
     "capacity": null,
@@ -1819,7 +1819,7 @@
     "email": "cody.muro@startale.com"
   },
   "Bitcoin Brunch @ KBW with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiewrvqah4664suybsm56cojoer4o66dsmlruu4u6vsonmrtybks44.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigly7gwktomlbvkubws7y3lhbhxb52deeyvsp7svvggahzv25itlu.png",
     "title": "Bitcoin Brunch @ KBW with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-05",
@@ -1829,7 +1829,7 @@
     "type": "Networking",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJOaa5-7O6fDUR3G48vbHqlNA",
     "entry": "Free Entry",
     "link": "https://lu.ma/mpjfku8y",
     "capacity": null,
