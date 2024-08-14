@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -952,7 +952,7 @@
     "email": "cherry@ticker.capital"
   },
   "KBW Hash Hour with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreier2lkjp7pwvnck2nyvdkvbnfpf37oowfutgh6pmxwc2a42vtkdee.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidw36zrhc4zhvqmkojk2hczzvoe2b5gamj7nyst3rp56rwdjnrnma.png",
     "title": "KBW Hash Hour with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-03",
@@ -962,7 +962,7 @@
     "type": "Hash Hour",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJ1SQnb3ikfDURcbiz6NFB5h0",
     "entry": "Free Entry",
     "link": "https://lu.ma/6tbzk7h6",
     "capacity": null,
