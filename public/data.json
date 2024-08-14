@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -408,7 +408,7 @@
     "email": "rime@fractl.ca"
   },
   "W3G KOREA": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiatvhwglvzd5l5urr6xi46viwuynbprom5jj4purtw2o3coeormaa.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihnjlb422cgrpxkawknid46kzmuy7top45aqp4bobcntarnwoxhbm.png",
     "title": "W3G KOREA",
     "host": "Geda & Pomerium",
     "startDate": "2024-09-02",
