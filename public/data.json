@@ -1665,9 +1665,9 @@
     "capacity": "300",
     "email": "bitna@delabs.gg"
   },
-  "Sahara AI Connect Party 2024": {
+  "Sahara AI Connect Party 2024 (with. Kwon Eun Bi, Dynamic Duo, Sole)": {
     "image": null,
-    "title": "Sahara AI Connect Party 2024",
+    "title": "Sahara AI Connect Party 2024 (with. Kwon Eun Bi, Dynamic Duo, Sole)",
     "host": "Sahara AI X Aegis Ventures",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
@@ -2159,7 +2159,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibg2wrhufgkkg6zik7epu2yu4ytj4ffyuf3j2dpvf5hd5lgypu5ie.png",
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
@@ -2171,7 +2171,7 @@
     "address": "B1-B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Invitation Only",
-    "link": "TBD",
+    "link": "https://lu.ma/rnyvk9ix",
     "capacity": "300",
     "email": "contact@aegis.ventures"
   },
@@ -2346,7 +2346,7 @@
     "email": "luke@mitosis.org"
   },
   "DepinSeoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjidcsbquextdb23ecp7m3tcedbmc5bes5rcn7emomhdnfpbx7be.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexbwucz5d352gnzns5wugrv24gioecusztd3rkm2lflrthvd7dje.png",
     "title": "DepinSeoul",
     "host": "Mondy builders",
     "startDate": "2024-09-06",
