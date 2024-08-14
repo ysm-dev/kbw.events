@@ -203,6 +203,23 @@
     "capacity": "50",
     "email": "leonando@tokenminds.co"
   },
+  "Cats & Dogs Bounce Opening Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiapznhxhlj2p6li72c7teuqyut2r4cu5fuxwhaclmrvxdwmmc32zu.png",
+    "title": "Cats & Dogs Bounce Opening Party",
+    "host": "Hashkey / Catizen / Block Patch",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "18:00",
+    "endTime": "01:00",
+    "type": "Networking Party",
+    "location": "D-Bridge",
+    "address": "B1 & B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJC6dFCYmjfDUR7liZx3lvb_o",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/exbor8n4",
+    "capacity": "200",
+    "email": "cs@blockpatch.kr"
+  },
   "Eric Spivak": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigl7q2ipq2kumzevbuhq2pnyuncldtjlexhglmw6t2kibvcpycx5e.png",
     "title": "Eric Spivak",
@@ -628,6 +645,23 @@
     "capacity": "800",
     "email": "jake@icpkor.com"
   },
+  "Big Time Crypto by Lumoz & Exilist : KBW in Mind": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibqi7ke6u65woynikirqzoxxppnl2odivilgrgpszrsvswqvycgvq.png",
+    "title": "Big Time Crypto by Lumoz & Exilist : KBW in Mind",
+    "host": "Lumoz, Exilist",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "00:00",
+    "type": "BTC Ecosystem Party, Networking Event",
+    "location": "36, Itaewon-ro 27na-gil, Yongsan-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJc8CRM7GjfDURThmcZKlVVR8",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/377vcogq?tk=WUkg0b",
+    "capacity": "200",
+    "email": "lily@exilist.io"
+  },
   "Kaia Square Lounge 2024 Networking Night #1": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
     "title": "Kaia Square Lounge 2024 Networking Night #1",
@@ -883,6 +917,40 @@
     "capacity": "200",
     "email": "team@skygg.xyz"
   },
+  "Play Forward: The Next Chapter of Web3 Gaming": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibpjuye6y5idgzaxd3y4za6pcqhf6xunuulhfrwkxjfy7aolzl3oy.png",
+    "title": "Play Forward: The Next Chapter of Web3 Gaming",
+    "host": "​Planetarium Labs | Animoca Brands | Ronin Network",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "type": "Conference & Networking Event",
+    "location": "AMORIS HALL",
+    "address": "508, Nonhyeon-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Approved Guests only",
+    "link": "https://lu.ma/tg95eher",
+    "capacity": "200+",
+    "email": "andy@planetariumhq.com"
+  },
+  "Builder Nights Seoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidw2rs4gqh6dfpwb6xysynmuzrm5nkipamaiyldmnv46bz322z25e.png",
+    "title": "Builder Nights Seoul",
+    "host": "MetaMask, Linea, Ticker Capital, AiGO and CLS ventures",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "Register to see address",
+    "address": null,
+    "placeId": null,
+    "entry": "Free, Invitation Only",
+    "link": "https://lu.ma/dhrp1j3u",
+    "capacity": "300",
+    "email": "cherry@ticker.capital"
+  },
   "KBW Hash Hour with Halborn": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreier2lkjp7pwvnck2nyvdkvbnfpf37oowfutgh6pmxwc2a42vtkdee.png",
     "title": "KBW Hash Hour with Halborn",
@@ -1003,7 +1071,7 @@
     "email": "mike@prometeus.io"
   },
   "BURRITO WALLET & X LAYER NIGHT": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidxkvfv2ucn2qn7tp34gtlyfp7ewqqufy3diplgyjbt5ynyk6g4u4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieklfw7uderapb6ny24r3f2tjkxdxaoksbdjdtadygmywwkrybrcq.png",
     "title": "BURRITO WALLET & X LAYER NIGHT",
     "host": null,
     "startDate": "2024-09-03",
@@ -1292,7 +1360,7 @@
     "email": "events@ripple.com"
   },
   "MemeCore & OKX Pheromone Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigdc47ahqhxt2l7nhe5auqt46slmzgsuyh2rn6wdckl3vhzzltm24.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiapfowpqixhyh7b4euqxebla2sfxmvpvo4unovmwoc7vccza6fv34.png",
     "title": "MemeCore & OKX Pheromone Day",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -1394,7 +1462,7 @@
     "email": "cherry@ticker.capital"
   },
   "MemeCore & OKX Pheromone VIP Yachts Club": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic4w2zoqbfbuqtb6iqacarl4co6vc4uxf37yfdfj7rrihmrxoaidq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia242nk55oxzdbbwedpe4kk6ia2ixd6vnzn4ibgfmq2ezsrjzsnhm.png",
     "title": "MemeCore & OKX Pheromone VIP Yachts Club",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -1409,6 +1477,23 @@
     "link": "https://lu.ma/qziuc76k",
     "capacity": "700",
     "email": "jb@memecore.org"
+  },
+  "zkHouse": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidm3yeh3tz2sepu4cgyiypm2vtl5tr4rqmguhgl4hat2gcq74rr2e.png",
+    "title": "zkHouse",
+    "host": "Mondy builders",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "168-24 Cheongam-dong, Yongsan District, Seoul",
+    "address": null,
+    "placeId": "ChIJd6Vbpq2YfDURaKDLPnGv4NA",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/amnzpts3",
+    "capacity": null,
+    "email": "contact@mondy.builders"
   },
   "Pudgy x Skale K-BBQ Night": {
     "image": null,
@@ -1519,7 +1604,7 @@
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "20:00",
-    "endTime": "23:59",
+    "endTime": "23:30",
     "type": "Party",
     "location": "SJ Kunsthalle",
     "address": "97-22 Nonhyeon-dong, Gangnam District, Seoul",
@@ -1528,6 +1613,23 @@
     "link": "https://go.sui.io/readysuiplay",
     "capacity": "450",
     "email": "events@sui.io"
+  },
+  "Web3 Gaming Night Out": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidkiirnemcn4qlohgbzuwkr4da7yv4ipql3ab2yr2zkgh74bzhroi.png",
+    "title": "Web3 Gaming Night Out",
+    "host": "Delabs Games, Pixelmon, Revolving Games",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "20:00",
+    "endTime": "00:00",
+    "type": "Party",
+    "location": "Six Night",
+    "address": "13, Eonju-ro 174-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJPwyVstmjfDUR7GsiWZDVHgo",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/hq46llyy",
+    "capacity": "300",
+    "email": "bitna@delabs.gg"
   },
   "Sahara AI Connect Party 2024": {
     "image": null,
@@ -1836,7 +1938,7 @@
     "email": "aiden@sevenlinelabs.com"
   },
   "CRYPTO NIGHT in Seoul Forest": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6u6beis5sansxyab5wtftpxxun4buc6creturwtxzew2h6z7try.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie7i3qa6vt3aollqgylxq2uxgvhh3vn5eojsawftu4wbczmlwizdi.png",
     "title": "CRYPTO NIGHT in Seoul Forest",
     "host": "TokenPost",
     "startDate": "2024-09-05",
@@ -1920,6 +2022,23 @@
     "capacity": "150",
     "email": "vanessaaalian@gmail.com"
   },
+  "R3al World X LECCA VC Networking Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiby6hvlebbeqsxzvarnaf4z3apdrhtgov7jzx7h4wjnolggzg56ym.png",
+    "title": "R3al World X LECCA VC Networking Party",
+    "host": "IoTeX x LECCA Ventures",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "23:59",
+    "type": "Networking, Party",
+    "location": "Cociety, Seoul Forest",
+    "address": "82-20, Wangsimni-ro, Seongdong-gu, Seoul",
+    "placeId": "ChIJjSY7EHalfDURaj3RdsYa3fo",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/bmgznp98",
+    "capacity": "500",
+    "email": "nate@leccaventures.com"
+  },
   "Supernova Cocktails + Disco": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wlb4kh75lekitfsqetwmplrqw2zlr3f33ja6klkvv2nezqwbga.png",
     "title": "Supernova Cocktails + Disco",
@@ -1987,6 +2106,23 @@
     "link": "https://lu.ma/y4aiekoe",
     "capacity": "150",
     "email": "contact@knightfury.io"
+  },
+  "Web3 Wave 2024 - VC's Night": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihrtncq6low4ho5s7u7hjwjeaaujr6nlqoto46wyhntdfj2frs2fi.png",
+    "title": "Web3 Wave 2024 - VC's Night",
+    "host": "Aegis Ventures, Flow Traders, Spartan Group",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "D.Bridge",
+    "address": "B1-B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/rnyvk9ix",
+    "capacity": "300",
+    "email": "contact@aegis.ventures"
   },
   "Fragmetric X Backpack Rendezvous Powered by Presto": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihephmsz3kgv3gngy22mjdb3hwyhmhwobssnid6iio22lff4bqtma.png",
@@ -2158,6 +2294,23 @@
     "capacity": "200",
     "email": "luke@mitosis.org"
   },
+  "DepinSeoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjidcsbquextdb23ecp7m3tcedbmc5bes5rcn7emomhdnfpbx7be.png",
+    "title": "DepinSeoul",
+    "host": "Mondy builders",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "Dreamplus Gangnam",
+    "address": "311, Gangnam-daero, Seocho-gu, Seoul",
+    "placeId": "ChIJbXdTk0-hfDURvFywX9aAskg",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/i3q9c9sg",
+    "capacity": null,
+    "email": "contact@mondy.builders"
+  },
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihdzhrah23xcooitnuejzydxcadz5z2wogckiezybbz2d6hbbojba.png",
     "title": "Seoulana Summer",
@@ -2174,6 +2327,23 @@
     "link": "https://lu.ma/0agdo9bt",
     "capacity": "150",
     "email": "devonmojito@gmail.com"
+  },
+  "DARK MODE: Story House After Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiczkzxqq2ts75jvvc6slnxbbon5rndhzxslizbtfx73jkb2xetqza.png",
+    "title": "DARK MODE: Story House After Party",
+    "host": "Ritual",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "20:00",
+    "endTime": "00:00",
+    "type": "Party",
+    "location": "Shared with Registration",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/darkmode",
+    "capacity": "250",
+    "email": "community@ritual.net"
   },
   "FuturaCanvas Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
