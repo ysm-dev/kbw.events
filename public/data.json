@@ -510,9 +510,9 @@
     "email": "jake@icpkor.com"
   },
   "Golden Wave": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif4d3don46bkbxbm2upq4slkmfhovgslkxbm5uwg3dui645ffpybu.png",
     "title": "Golden Wave",
-    "host": "Wavebridge",
+    "host": "Wavebridge X Hashkey Global X Fireblocks",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "15:00",
@@ -521,10 +521,10 @@
     "location": "TBD",
     "address": "TBD",
     "placeId": null,
-    "entry": "$200",
-    "link": "TBD",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/pe3m7yn7",
     "capacity": "300 - 500",
-    "email": "contact@gryps.xyz"
+    "email": "contact@wavebridge.com"
   },
   "Family office & Investors Summit, Seoul": {
     "image": null,
