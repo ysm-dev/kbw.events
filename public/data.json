@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -255,7 +255,7 @@
     "email": "birchnut@adventuregold.org"
   },
   "Rooftop Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreignpdssv43vm7zqt2btootkcebblsfporyhv5wys3r6bumxs2qq3y.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreighk4rcuogvdkj5z2hgsi7ak3ojaxz5eg4lqhlxlauqeuvnl52p54.png",
     "title": "Rooftop Party",
     "host": "ICP HUB Korea, GamerHash AI, CoinEasy",
     "startDate": "2024-09-01",
