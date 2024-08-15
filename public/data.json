@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -373,6 +373,23 @@
     "capacity": "150",
     "email": "desciseoul@gmail.com"
   },
+  "PIP Seoul (Programmable IP Summit)": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiekl6nru2imdd276vt2cu6vsgv5bhzcglh3mzo23vdyzrykam4lua.png",
+    "title": "PIP Seoul (Programmable IP Summit)",
+    "host": "Story, Polychain, Factblock, Hashed",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "type": "Conference",
+    "location": "Layer57",
+    "address": "57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
+    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pipseoul",
+    "capacity": "120",
+    "email": "events@storyprotocol.xyz"
+  },
   "Hack Seasons Conference Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieczz3rovnbrcz6ug6er2xy2iv2g6wfkus7m2kxcupekorku5mola.png",
     "title": "Hack Seasons Conference Seoul",
@@ -661,6 +678,23 @@
     "link": "https://lu.ma/377vcogq?tk=WUkg0b",
     "capacity": "200",
     "email": "lily@exilist.io"
+  },
+  "Surreal World Assets: A PIP Seoul Afterparty by MANTRA": {
+    "image": null,
+    "title": "Surreal World Assets: A PIP Seoul Afterparty by MANTRA",
+    "host": "MANTRA",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "00:00",
+    "type": "Party",
+    "location": "Layer57",
+    "address": "57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
+    "placeId": null,
+    "entry": null,
+    "link": null,
+    "capacity": null,
+    "email": null
   },
   "Kaia Square Lounge 2024 Networking Night #1": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
@@ -1818,6 +1852,23 @@
     "capacity": "200",
     "email": "cody.muro@startale.com"
   },
+  "Korea Web3 Frontier: A Leadership Brunch": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifn5hptkb2p7x6gecoufhiinctijdo2gpp5jojtf35xug5vsbf6sy.png",
+    "title": "Korea Web3 Frontier: A Leadership Brunch",
+    "host": "GSR x Monad x Xangle x Samsung NEXT",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "11:00",
+    "endTime": "14:30",
+    "type": "Networking Event, Private Brunch",
+    "location": "Monaco Space B1F Media Hall",
+    "address": "397 Seocho-daero, Seocho District, Seoul",
+    "placeId": "ChIJV1jOJNahfDURcNYPEzdxGA8",
+    "entry": "Free, Private",
+    "link": "https://lu.ma/jgu64ic4",
+    "capacity": "100",
+    "email": "conference@crossangle.io"
+  },
   "Bitcoin Brunch @ KBW with Halborn": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigly7gwktomlbvkubws7y3lhbhxb52deeyvsp7svvggahzv25itlu.png",
     "title": "Bitcoin Brunch @ KBW with Halborn",
@@ -2344,6 +2395,23 @@
     "link": "https://lu.ma/nnxgtgxs",
     "capacity": "200",
     "email": "luke@mitosis.org"
+  },
+  "Hydro x Injective Ecosystem Meet-Up": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicrv4kwmcvxmoa2oi5wq26e33egiq6xwhipykhzbozr7s6hxlyqb4.png",
+    "title": "Hydro x Injective Ecosystem Meet-Up",
+    "host": "Hydro Protocol",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "14:30",
+    "endTime": "19:00",
+    "type": "Networking Event, B2B, B2C",
+    "location": "Cafe Ground B (1st Floor)",
+    "address": "945-27 Daechi-dong, Gangnam District, Seoul",
+    "placeId": "ChIJZ0s5DgqlfDUR7cd6pzJOhfU",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/lpfu8esr",
+    "capacity": "100",
+    "email": "channel@hydroprotocol.finance"
   },
   "DepinSeoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexbwucz5d352gnzns5wugrv24gioecusztd3rkm2lflrthvd7dje.png",
