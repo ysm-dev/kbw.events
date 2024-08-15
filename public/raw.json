@@ -188,7 +188,7 @@
   ],
   [
     "Sep 1",
-    "Cats & Dogs Bounce Opening Party\r\nHashkey / Catizen / Block Patch",
+    "Barks & Meows Opening Party\nHashkey / Catizen / Block Patch",
     "6PM - 1AM",
     "Networking Party",
     "D-Bridge\r\nB1 & B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
@@ -500,10 +500,10 @@
     "6PM - 12AM",
     "Party",
     "Layer57\n57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
-    null,
-    null,
-    null,
-    null
+    "Invitation Only",
+    "https://lu.ma/pipseoulafterparty",
+    "200",
+    "events@storyprotocol.xyz"
   ],
   [
     "Sep 2",
@@ -727,6 +727,17 @@
   ],
   [
     "Sep 3",
+    "Play Web3\nXPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity",
+    "6PM - 9PM",
+    "Networking Party",
+    "Lounge de Coloris\r\nB1, 177, Walkerhill-ro, Gwangjin-gu, Seoul",
+    "Free Entry",
+    "https://kbw2024.eventbrite.sg/",
+    "N/A",
+    "grace@xpla.io"
+  ],
+  [
+    "Sep 3",
     "Sunset Garden: A Night of Institutional Custody and Crypto Magic\nBDACS",
     "6PM - 9:30PM",
     "Networking Event, Party",
@@ -779,6 +790,17 @@
     "https://lu.ma/prom-dwflabs-kbw",
     "200",
     "mike@prometeus.io"
+  ],
+  [
+    "Sep 3",
+    "M&M Rooftop Party：Memeland x Magic Eden\nMemeland x Magic Eden",
+    "6PM - 11PM",
+    "Networking Party",
+    "Casa Corona Seoul Rooftop Bar & Lounge:\n4F 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul",
+    "Invitation Only",
+    "https://lu.ma/vduj14lw",
+    "200-250",
+    "TBD"
   ],
   [
     "Sep 3",
@@ -936,6 +958,17 @@
   ],
   [
     "Sep 4",
+    "Web3 Investors Brunch\r\nINF CryptoLab",
+    "9AM - 1PM",
+    "Brief Sessions w/ Networking",
+    "Boutique Monaco\r\nB1 Floor, 397 Seocho-daero, Seocho-gu, Seoul",
+    "Private",
+    "https://lu.ma/kdu5yvqh",
+    "50",
+    "ejlee@infc.co.kr"
+  ],
+  [
+    "Sep 4",
     "Supra's Demo Day\nSupra",
     "9AM - 3PM",
     "Conference, Networking",
@@ -977,6 +1010,28 @@
     "https://lu.ma/j8umhm54",
     "700",
     "jb@memecore.org"
+  ],
+  [
+    "Sep 4",
+    "Open House #AI \r\nRSS3, Whitewater Labs, Soju DAO, Open Information Initiative",
+    "12PM - 6PM",
+    "Panel, Networking Event",
+    "Hello Monday\n1, Seongsuil-ro 1-gil, Seongdong-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/4obzw1an",
+    "100",
+    "jeffca@rss3.io"
+  ],
+  [
+    "Sep 4",
+    "Web3 Growth Masterclass\nNibiru, Myosin",
+    "2PM - 5PM",
+    "Workshop, Networking Event",
+    "Cafe en Travel\r\n45 Gangnam-daero 102-gil, Gangnam District, Seoul",
+    "Free Entry",
+    "https://lu.ma/pg16q7fw",
+    "200",
+    "yura@nibiru.org"
   ],
   [
     "Sep 4",
@@ -1076,6 +1131,17 @@
     "TBD",
     "80",
     "pudgysook@gmail.com"
+  ],
+  [
+    "Sep 4",
+    "StakeStone Connect: Seoul Edition - Innovating Liquidity @ KBW2024\r\nStakeStone",
+    "6PM - 10PM",
+    "Networking Event with Panels",
+    "HelloMonday Seongsu\r\n9F, 1, Seongsuil-ro 1-gil, Seongdong-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/mla3lmdb",
+    "150",
+    "jake.c@whitewater.capital"
   ],
   [
     "Sep 4",

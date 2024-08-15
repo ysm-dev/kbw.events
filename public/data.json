@@ -203,9 +203,9 @@
     "capacity": "50",
     "email": "leonando@tokenminds.co"
   },
-  "Cats & Dogs Bounce Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiapznhxhlj2p6li72c7teuqyut2r4cu5fuxwhaclmrvxdwmmc32zu.png",
-    "title": "Cats & Dogs Bounce Opening Party",
+  "Barks & Meows Opening Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigz7gcl2gblnyfltaiporz6xv2yyxfduxxz3ztiakbsfy3ic3jsqi.png",
+    "title": "Barks & Meows Opening Party",
     "host": "Hashkey / Catizen / Block Patch",
     "startDate": "2024-09-01",
     "endDate": "2024-09-01",
@@ -680,7 +680,7 @@
     "email": "lily@exilist.io"
   },
   "Surreal World Assets: A PIP Seoul Afterparty by MANTRA": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvjh22gudmdwfkquqhn6agkca5ffktoupa5unwq3yt2fjasratrq.png",
     "title": "Surreal World Assets: A PIP Seoul Afterparty by MANTRA",
     "host": "MANTRA",
     "startDate": "2024-09-02",
@@ -690,11 +690,11 @@
     "type": "Party",
     "location": "Layer57",
     "address": "57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
-    "placeId": null,
-    "entry": null,
-    "link": null,
-    "capacity": null,
-    "email": null
+    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/pipseoulafterparty",
+    "capacity": "200",
+    "email": "events@storyprotocol.xyz"
   },
   "Kaia Square Lounge 2024 Networking Night #1": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
@@ -1036,6 +1036,23 @@
     "capacity": "150",
     "email": "contact@injectivelabs.org"
   },
+  "Play Web3": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifv7ux66sygih3fejwmj4sbv7xlawamhhgcrbvybs5yxsaylzrczu.png",
+    "title": "Play Web3",
+    "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Networking Party",
+    "location": "Lounge de Coloris",
+    "address": "B1, 177, Walkerhill-ro, Gwangjin-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://kbw2024.eventbrite.sg/",
+    "capacity": null,
+    "email": "grace@xpla.io"
+  },
   "Sunset Garden: A Night of Institutional Custody and Crypto Magic": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarfzhi5bg57fbxxjutqjqcdm25csij7txykpjj4uvevtx4bqvnp4.png",
     "title": "Sunset Garden: A Night of Institutional Custody and Crypto Magic",
@@ -1120,6 +1137,23 @@
     "link": "https://lu.ma/prom-dwflabs-kbw",
     "capacity": "200",
     "email": "mike@prometeus.io"
+  },
+  "M&M Rooftop Party：Memeland x Magic Eden": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieyfmqzhnp5gsa4kc5niez6r4kdvvynsg4iko2b66xdy6gvjhshwm.png",
+    "title": "M&M Rooftop Party：Memeland x Magic Eden",
+    "host": "Memeland x Magic Eden",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "type": "Networking Party",
+    "location": "Casa Corona Seoul Rooftop Bar & Lounge:",
+    "address": "4F 7, Bogwang-ro 60-gil, Yongsan-gu, Seoul",
+    "placeId": "ChIJIZrqBhGjfDURQeZHxTdwfgI",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/vduj14lw",
+    "capacity": "200-250",
+    "email": "TBD"
   },
   "S Rank : Leveling Anime & Collector Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibflg64jvnl5gdepklaod7wm2xmpktkti5cwdungd7iclohtnxwa4.png",
@@ -1359,6 +1393,23 @@
     "capacity": "40",
     "email": "info@vntr.vc"
   },
+  "Web3 Investors Brunch": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifj3p2iex2ydvkk3ch3dfejmiy72ae3apw5qxjzobrfetxnpbdniu.png",
+    "title": "Web3 Investors Brunch",
+    "host": "INF CryptoLab",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "type": "Brief Sessions w/ Networking",
+    "location": "Boutique Monaco",
+    "address": "B1 Floor, 397 Seocho-daero, Seocho-gu, Seoul",
+    "placeId": null,
+    "entry": "Private",
+    "link": "https://lu.ma/kdu5yvqh",
+    "capacity": "50",
+    "email": "ejlee@infc.co.kr"
+  },
   "Supra's Demo Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidn7mhvvjos3am7v6rqxgo3h5fvn4xguwwbrbfhcl6yejia6jiv6e.png",
     "title": "Supra's Demo Day",
@@ -1426,6 +1477,40 @@
     "link": "https://lu.ma/j8umhm54",
     "capacity": "700",
     "email": "jb@memecore.org"
+  },
+  "Open House #AI": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihniy2too2q37vixwqghc5sr2ihga5ia5yhbm4fboheaovwitpqby.png",
+    "title": "Open House #AI",
+    "host": "RSS3, Whitewater Labs, Soju DAO, Open Information Initiative",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "12:00",
+    "endTime": "18:00",
+    "type": "Panel, Networking Event",
+    "location": "Hello Monday",
+    "address": "1, Seongsuil-ro 1-gil, Seongdong-gu, Seoul",
+    "placeId": "ChIJsdD5WJGkfDURvOOcmZR3fGw",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/4obzw1an",
+    "capacity": "100",
+    "email": "jeffca@rss3.io"
+  },
+  "Web3 Growth Masterclass": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifcejxyerg6lmcw2uzwjv2l5jahtrh75mswqlzmd6vk2a6oihczpa.png",
+    "title": "Web3 Growth Masterclass",
+    "host": "Nibiru, Myosin",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "type": "Workshop, Networking Event",
+    "location": "Cafe en Travel",
+    "address": "45 Gangnam-daero 102-gil, Gangnam District, Seoul",
+    "placeId": "ChIJkc22lZijfDUR3MJU4-oL7Wk",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pg16q7fw",
+    "capacity": "200",
+    "email": "yura@nibiru.org"
   },
   "BrAIniacs Unite!": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaaz4arjfaapkeeiphlm6chj6vlya4om7mnapafiafaa7p4w4wge4.png",
@@ -1579,6 +1664,23 @@
     "link": "TBD",
     "capacity": "80",
     "email": "pudgysook@gmail.com"
+  },
+  "StakeStone Connect: Seoul Edition - Innovating Liquidity @ KBW2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicc3zqeyi6rbu2n3f262ugcwvlodiqyso6cq6t3lfkwlfmp54t5ju.png",
+    "title": "StakeStone Connect: Seoul Edition - Innovating Liquidity @ KBW2024",
+    "host": "StakeStone",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Networking Event with Panels",
+    "location": "HelloMonday Seongsu",
+    "address": "9F, 1, Seongsuil-ro 1-gil, Seongdong-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/mla3lmdb",
+    "capacity": "150",
+    "email": "jake.c@whitewater.capital"
   },
   "Game On, Chain On": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigtydoqclv3ydkocnblvtjeq6v5ljs4sd7wghy4bzhbzpa3wfbzgu.png",
