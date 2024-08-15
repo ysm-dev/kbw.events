@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -385,7 +385,7 @@
     "location": "Layer57",
     "address": "57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
     "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
-    "entry": "Free Entry",
+    "entry": "Free Entry (Approval Required)",
     "link": "https://lu.ma/pipseoul",
     "capacity": "120",
     "email": "events@storyprotocol.xyz"
@@ -527,7 +527,7 @@
     "email": "contact@gryps.xyz"
   },
   "Family office & Investors Summit, Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicdclfkfcyxfutcb2gxbuk76b3zpqbqwcakhgl4rihebkkmmm4f4u.png",
+    "image": null,
     "title": "Family office & Investors Summit, Seoul",
     "host": "FamilyOfficesInvestors",
     "startDate": "2024-09-02",
@@ -2159,7 +2159,7 @@
     "email": "info@tokenpost.kr"
   },
   "13Desk Meet Up": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgh4pwqxla2ncgvadfblwj6x6qf4rsefesg4tdd7i7j7hzpbmfzm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidcydo3xafxmn3eykusg74ukicv5dktagvvraqcm6ska6wsgpoymm.png",
     "title": "13Desk Meet Up",
     "host": "13Desk",
     "startDate": "2024-09-05",
