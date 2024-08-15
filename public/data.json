@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -102,7 +102,7 @@
     "email": "justin@factomind.io"
   },
   "Namsan Hike with Tigers": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigrqbvaffdkn7qcju5osovelv2o54pq4zfhn6r3i7ak5tuacypage.png",
     "title": "Namsan Hike with Tigers",
     "host": "Tiger Research",
     "startDate": "2024-09-01",
@@ -112,7 +112,7 @@
     "type": "Guided Tour",
     "location": "National Theater of Korea",
     "address": "59 Jangchungdan-ro, Jung District, Seoul",
-    "placeId": null,
+    "placeId": "ChIJtUR3dQGjfDUR_JQEiYG_2RU",
     "entry": "Free Entry",
     "link": "https://lu.ma/gir7eusf",
     "capacity": null,
