@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -289,7 +289,7 @@
     "email": "contact@x-phere.com"
   },
   "Korea Nightopia: Official KBW Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibkxyotznpuei7aj7ejgc52f4ax7bdcclqdkno5ypj7xswvdyyf3m.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigmyh5zsb3x45yoyvpwiqhgcysfo2cwlyhywaffj7jir7sdw46nva.png",
     "title": "Korea Nightopia: Official KBW Opening Party",
     "host": "RaveDAO & Korea Blockchain Week",
     "startDate": "2024-09-01",
@@ -544,7 +544,7 @@
     "email": "mananas@me.com"
   },
   "Layers Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicouzrzqaijnevdbzn44bdlvoqprmwme4ocu334y3kntcs6i2olda.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiepqyxjwrwianywyiknfwe4y2actxy4y2kzwcqzfwowzgipwi5ste.png",
     "title": "Layers Night",
     "host": "ORBS + MOVEMENT + CREDITCOIN + ODOS",
     "startDate": "2024-09-02",
@@ -787,9 +787,9 @@
     "host": "FACTBLOCK",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
-    "startTime": "00:00",
-    "endTime": "23:59",
-    "type": "TBD",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "type": "KBW Official VIP Event",
     "location": "TBD",
     "address": "TBD",
     "placeId": null,
@@ -1309,7 +1309,7 @@
     "email": "gemma.shin@mantle.xyz"
   },
   "Cafe GM": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifn5i3nd3idjtwfwfqjfvd36mzsa7reqj56pqdvlvyvz4nfnh6tjy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreichhribqerppgogjiwbme6l63osuv74xb6xyf3sdx3gugrym7ospm.png",
     "title": "Cafe GM",
     "host": "Creditcoin x Wintermute x GSR",
     "startDate": "2024-09-03",
@@ -2414,7 +2414,7 @@
     "email": "contact@aegis.ventures"
   },
   "Fragmetric X Backpack Rendezvous Powered by Presto": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihephmsz3kgv3gngy22mjdb3hwyhmhwobssnid6iio22lff4bqtma.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid337ms27gm5zqtmhlvegvyluukj7kubv3ifr3mfhzv4s6ujpxr6u.png",
     "title": "Fragmetric X Backpack Rendezvous Powered by Presto",
     "host": "Fragmetric, Backpack, Presto",
     "startDate": "2024-09-05",
