@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1258,7 +1258,7 @@
     "email": "lucy@ton.org"
   },
   "BURRITO WALLET & X LAYER NIGHT": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieklfw7uderapb6ny24r3f2tjkxdxaoksbdjdtadygmywwkrybrcq.png",
+    "image": null,
     "title": "BURRITO WALLET & X LAYER NIGHT",
     "host": null,
     "startDate": "2024-09-03",
@@ -1268,7 +1268,7 @@
     "type": "Party",
     "location": "Kemistry",
     "address": "Eonjuro 94gil 5, Gangnamgu, Seoul",
-    "placeId": "EjRTb3V0aCBLb3JlYSwg7ISc7Jq4IOqwleuCqOq1rCDslrjso7zroZw5NOq4uCA1IDIg7Li1IiEaHwoWChQKEgnJvOyzB6R8NRFr3mV7C_EkJxIFMiDsuLU",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/5ddts18b",
     "capacity": "200",
@@ -1411,7 +1411,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
