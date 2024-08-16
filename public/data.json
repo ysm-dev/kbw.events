@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -508,6 +508,23 @@
     "link": "https://starkpass.com/events/0b5480eb-496f-4492-8bea-1e44badf6842",
     "capacity": "200",
     "email": "giwook@doorlabs.io"
+  },
+  "INFRA DAY": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig2vhgnzogrw4u5ptfufiqgt567ylkxo25cmj5srucckfcvybwl4a.png",
+    "title": "INFRA DAY",
+    "host": "Keplr Wallet x Starknet Foundation x Skip Protocol",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "14:00",
+    "endTime": "19:00",
+    "type": "Panel Discussions, Networking",
+    "location": "Bunker 616",
+    "address": "616-5 Yeoksam-dong, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/jgpjd00y",
+    "capacity": "150",
+    "email": "jee@chainapsis.com"
   },
   "DeAI Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifb665egayzo3qyuwnnwaazl4zvdsjf3mhmx2khdozxderl6vjkim.png",
@@ -1175,7 +1192,7 @@
   "S Rank : Leveling Anime & Collector Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibflg64jvnl5gdepklaod7wm2xmpktkti5cwdungd7iclohtnxwa4.png",
     "title": "S Rank : Leveling Anime & Collector Culture",
-    "host": "Otherworld x San FranTokyo x Anime Foundation",
+    "host": "Otherworld x San FranTokyo x Mocaverse x Anime Foundation",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "18:30",
@@ -2040,7 +2057,7 @@
     "email": "cody.muro@startale.com"
   },
   "Brunch w/ Shard & Friends": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiavph6wgjqoyqmcksjfabqhcsfu5pvqi5sxuquk6zy3lj6xikx3yu.png",
+    "image": null,
     "title": "Brunch w/ Shard & Friends",
     "host": "Sharding Capital",
     "startDate": "2024-09-05",
@@ -2050,11 +2067,28 @@
     "type": "Brunch Networking Event",
     "location": "Grey Scale Coffee",
     "address": "38 Gangnam-daero 102-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJ2ZMMAJqjfDURiUS8yHY8BPE",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/kxbcf7s2",
     "capacity": "30",
     "email": "shardlabsofficial@gmail.com"
+  },
+  "Punks Brunch 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifhra7vx7sis6kdby6sv3xdis5jcaxqvyz7hbmvdgmoetixbvi6ly.png",
+    "title": "Punks Brunch 2024",
+    "host": "Punk DAO, Yuga Labs",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "11:00",
+    "endTime": "14:00",
+    "type": "Private Networking Event",
+    "location": "Uncommon Gallery",
+    "address": "516, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Private",
+    "link": "https://lu.ma/qwdu89sw",
+    "capacity": "100",
+    "email": "hello@yunseo.kr"
   },
   "Korea Web3 Frontier: A Leadership Brunch": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifn5hptkb2p7x6gecoufhiinctijdo2gpp5jojtf35xug5vsbf6sy.png",
@@ -2106,6 +2140,23 @@
     "link": "https://lu.ma/yvp8kmzc",
     "capacity": "36",
     "email": "wesley@magna.so"
+  },
+  "REVELATIONS PODCAST": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreickw6huvif3pq3wm4yqddawtyagmfpxv7nn6ynryp2zfwaqvyusni.png",
+    "title": "REVELATIONS PODCAST",
+    "host": "JULS",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "type": "Offline Podcast",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": "ChIJm7oRy-tVZDURS9uIugCbJJE",
+    "entry": "$50",
+    "link": "https://lu.ma/nyq4jbme",
+    "capacity": "100",
+    "email": "jukayaku@gmail.com"
   },
   "[Monad 101] in Korea - A Tech Guide for Developers": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigeeig5diesugpywkhcbigtmhugkopm6pk34ru4p4hyecjccijfeq.png",
