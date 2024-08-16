@@ -84,6 +84,23 @@
     "capacity": "TBD",
     "email": "TBD"
   },
+  "FarSight Buildathon - 24hr Overnight Frame Building Challenge": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigelmrnu2skzbesjxl6gcahfssnteov77zkcuvttajkksab3a7gjq.png",
+    "title": "FarSight Buildathon - 24hr Overnight Frame Building Challenge",
+    "host": "Lum0x",
+    "startDate": "2024-08-31",
+    "endDate": "2024-09-01",
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "type": "Workshop, Buildathon",
+    "location": "SOOHO.IO Lounge",
+    "address": "B1, 126 Teheran-ro, Gangnam-gu, Seoul",
+    "placeId": "ChIJ9zufTlahfDURLX-36Yi_YK4",
+    "entry": "Free (Approval Needed)",
+    "link": "https://lu.ma/xzh2w6jg",
+    "capacity": "50",
+    "email": "amy@lum0x.com"
+  },
   "Speed Sprint Session with Factomind": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreichjyj55udtlyluiit22xj3dnvucuuzm67qeiumyilj3yw5kfh5vm.png",
     "title": "Speed Sprint Session with Factomind",
@@ -1564,7 +1581,7 @@
     "email": "infcryptolab@gmail.com"
   },
   "Uniting Societies @KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibdqvz4gh2knwt2ajt3ean43dusovkts4gyijyp2lzzfot2n377pu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexnkpmt3qlmatbbt6gtob7lpkkjds6nwdd5dxmfxej6lfag4pbki.png",
     "title": "Uniting Societies @KBW",
     "host": "Somnia",
     "startDate": "2024-09-04",
@@ -1579,6 +1596,40 @@
     "link": "https://lu.ma/i4nkzjgj",
     "capacity": "150",
     "email": "amr@virtualsociety.foundation"
+  },
+  "The Sandbox Web3 Showcase & Party": {
+    "image": null,
+    "title": "The Sandbox Web3 Showcase & Party",
+    "host": "The Sandbox",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "16:00",
+    "endTime": "20:00",
+    "type": "Web3 Speech, Showcase, Networking, Party",
+    "location": "LOCO COMPLEX",
+    "address": "13, Apgujeong-ro 50-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free (Registration required)",
+    "link": "TBD",
+    "capacity": null,
+    "email": "event_korea@sandbox.game"
+  },
+  "Bitcoin Odyssey Seoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigf27brxrtorp4rfxy6n6b2m4hlrgyazunnfbfs7fggueu4xckte4.png",
+    "title": "Bitcoin Odyssey Seoul",
+    "host": "Yala, Botanix, Nubit, Master Protocol",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "16:00",
+    "endTime": "22:00",
+    "type": "Conference and Networking",
+    "location": "Lightroom Seoul",
+    "address": "103, Arisu-ro 61-gil, Gangdong-gu, Seoul",
+    "placeId": "ChIJ4T1LFfmxfDURlHGfd6cVWhI",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/gc8f4gaz",
+    "capacity": "300",
+    "email": "media@yala.org"
   },
   "Global Web3 Builders": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifbhplkt2uxvvles2kc7ulgvkfybxoo5vsqdt4ap5sdzphq57hbgm.png",
@@ -2599,6 +2650,23 @@
     "link": "https://lu.ma/lpfu8esr",
     "capacity": "100",
     "email": "channel@hydroprotocol.finance"
+  },
+  "Upside's VVIP Jeffersonian Dinner - KBW Edition: A Dialog on Positive Future to Invest In": {
+    "image": null,
+    "title": "Upside's VVIP Jeffersonian Dinner - KBW Edition: A Dialog on Positive Future to Invest In",
+    "host": "Upside",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "type": "Private VVIP Dinner",
+    "location": null,
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only / Private",
+    "link": "TBD",
+    "capacity": "10",
+    "email": "joshua@upside.gg"
   },
   "DepinSeoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexbwucz5d352gnzns5wugrv24gioecusztd3rkm2lflrthvd7dje.png",
