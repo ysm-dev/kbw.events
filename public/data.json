@@ -289,7 +289,7 @@
     "email": "contact@x-phere.com"
   },
   "Korea Nightopia: Official KBW Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6xx7przdlwfwnpwsgu3ram7yzblgddjvs56f2x7nip2fxxrikvi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibkxyotznpuei7aj7ejgc52f4ax7bdcclqdkno5ypj7xswvdyyf3m.png",
     "title": "Korea Nightopia: Official KBW Opening Party",
     "host": "RaveDAO & Korea Blockchain Week",
     "startDate": "2024-09-01",
@@ -1461,6 +1461,23 @@
     "capacity": "500",
     "email": "btcon@digitalasset.works"
   },
+  "KBW Brunch with CertiK Ventures": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreichtbt6q3n4lbi2tauzdlvd7wol7czvb4kcj5mqafncmgntgv34x4.png",
+    "title": "KBW Brunch with CertiK Ventures",
+    "host": "CertiK",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "type": "Networking Event",
+    "location": "Dewblock",
+    "address": "157 Achasan-ro 78-gil, Gwangjin District, Seoul",
+    "placeId": "ChIJg_B33sK7fDURKe4g41m8wSk",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/rz249np0",
+    "capacity": "120",
+    "email": "sarah.kim@certik.com"
+  },
   "XRPL Zone Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
     "title": "XRPL Zone Seoul",
@@ -2124,6 +2141,23 @@
     "capacity": "50",
     "email": "zo@ferumlabs.com"
   },
+  "The Graph & Tiger Research Happy Hour": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreietita3h2dq2esndrygbmxmepemtfewsr3npyrlnn27vldktqayyy.png",
+    "title": "The Graph & Tiger Research Happy Hour",
+    "host": "The Graph, Tiger Research",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "16:00",
+    "endTime": "20:00",
+    "type": "Networking Event, Happy Hour",
+    "location": "The Mansion",
+    "address": "179, Itaewon-ro, Yongsan-gu, Seoul",
+    "placeId": "ChIJkUedZLOjfDURtO3ni2gouPc",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/anmepk0e",
+    "capacity": "100",
+    "email": "margot@tiger-research.com"
+  },
   "Diversity-in-tech": {
     "image": null,
     "title": "Diversity-in-tech",
@@ -2159,7 +2193,7 @@
     "email": "riversh0215@gmail.com"
   },
   "K-RWA Night": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih5h72ntgfpu5jvp6xhkne4seenqpm5njkndyerbpzfjhlbfkjm6q.png",
     "title": "K-RWA Night",
     "host": "Shinhan Securities",
     "startDate": "2024-09-05",
@@ -2169,9 +2203,9 @@
     "type": "Networking Event",
     "location": "Alttap Itaewon",
     "address": "9, Itaewon-ro 19-gil, Yongsan-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ78Vg9UmifDUR_aYFDcpmuto",
     "entry": "Free Entry (Approval Required)",
-    "link": "TBD",
+    "link": "https://lu.ma/5drk1y4j",
     "capacity": "70",
     "email": "shic.block@gmail.com"
   },
@@ -2414,7 +2448,7 @@
     "email": "jeff@despread.io"
   },
   "Art Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "Art Night",
     "host": "FuturaCanvas #0 x Gallery STAN x Super Soul Seoul",
     "startDate": "2024-09-05",
@@ -2482,7 +2516,7 @@
     "email": "info@futureplus.xyz"
   },
   "FuturaCanvas #0": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "FuturaCanvas #0",
     "host": "FuturaCanvas",
     "startDate": "2024-09-05",
@@ -2635,7 +2669,7 @@
     "email": "community@ritual.net"
   },
   "FuturaCanvas Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "FuturaCanvas Night",
     "host": "FuturaCanvas",
     "startDate": "2024-09-06",
@@ -2686,7 +2720,7 @@
     "email": "info@cryptoartseoul.com"
   },
   "Polkadot Mixer": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
+    "image": null,
     "title": "Polkadot Mixer",
     "host": "Zain khan",
     "startDate": "2024-09-12",
