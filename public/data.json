@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -665,7 +665,7 @@
   "Big Time Crypto by Lumoz & Exilist : KBW in Mind": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibqi7ke6u65woynikirqzoxxppnl2odivilgrgpszrsvswqvycgvq.png",
     "title": "Big Time Crypto by Lumoz & Exilist : KBW in Mind",
-    "host": "Lumoz, Exilist",
+    "host": "Lumoz / Exilist / Merlin Chain / Mind Network / Master Protocol / Orange / ChannelDAO",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "18:00",
@@ -1039,7 +1039,7 @@
   "Play Web3": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifv7ux66sygih3fejwmj4sbv7xlawamhhgcrbvybs5yxsaylzrczu.png",
     "title": "Play Web3",
-    "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity",
+    "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity, ZKsync",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "18:00",
@@ -2148,7 +2148,7 @@
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "16:00",
-    "endTime": "20:00",
+    "endTime": "17:30",
     "type": "Networking Event, Happy Hour",
     "location": "The Mansion",
     "address": "179, Itaewon-ro, Yongsan-gu, Seoul",
