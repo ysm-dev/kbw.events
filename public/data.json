@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -374,7 +374,7 @@
     "email": "desciseoul@gmail.com"
   },
   "PIP Seoul (Programmable IP Summit)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiekl6nru2imdd276vt2cu6vsgv5bhzcglh3mzo23vdyzrykam4lua.png",
+    "image": null,
     "title": "PIP Seoul (Programmable IP Summit)",
     "host": "Story, Polychain, Factblock, Hashed",
     "startDate": "2024-09-02",
@@ -384,9 +384,9 @@
     "type": "Conference",
     "location": "Space S 1",
     "address": "57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
-    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "placeId": null,
     "entry": "Free Entry (Approval Required)",
-    "link": "https://lu.ma/pipseoul",
+    "link": "https://www.storyhousekbw.xyz/pip",
     "capacity": "120",
     "email": "events@storyprotocol.xyz"
   },
@@ -680,7 +680,7 @@
     "email": "lily@exilist.io"
   },
   "Surreal World Assets: A PIP Seoul Afterparty by MANTRA": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvjh22gudmdwfkquqhn6agkca5ffktoupa5unwq3yt2fjasratrq.png",
+    "image": null,
     "title": "Surreal World Assets: A PIP Seoul Afterparty by MANTRA",
     "host": "MANTRA",
     "startDate": "2024-09-02",
@@ -690,9 +690,9 @@
     "type": "Party",
     "location": "Space S 1",
     "address": "57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
-    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "placeId": null,
     "entry": "Invitation Only",
-    "link": "https://lu.ma/pipseoulafterparty",
+    "link": "https://www.storyhousekbw.xyz/pip",
     "capacity": "200",
     "email": "events@storyprotocol.xyz"
   },
@@ -1309,7 +1309,7 @@
     "email": "gemma.shin@mantle.xyz"
   },
   "Cafe GM": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifctpcnlr7a6b2yedqy7zry774a5dvuf42anvpo5mvji36yqrka2u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifn5i3nd3idjtwfwfqjfvd36mzsa7reqj56pqdvlvyvz4nfnh6tjy.png",
     "title": "Cafe GM",
     "host": "Creditcoin x Wintermute x GSR",
     "startDate": "2024-09-03",
@@ -1359,20 +1359,20 @@
     "capacity": "150",
     "email": "jake.c@whitewater.capital"
   },
-  "Soju DAO x CoinEasy x H.E.R. DAO Builder House": {
-    "image": null,
-    "title": "Soju DAO x CoinEasy x H.E.R. DAO Builder House",
-    "host": "Soju DAO / CoinEasy / H.E.R. DAO",
+  "BUILDERHAUS supported by CIRCLE": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidqhqrny2x6d2o5pngyrrzkzioedvcm3dk5rzadb3h5ld74o4siwi.png",
+    "title": "BUILDERHAUS supported by CIRCLE",
+    "host": "H.E.R. DAO / CoinEasy / Soju DAO",
     "startDate": "2024-09-03",
     "endDate": "2024-09-05",
-    "startTime": "10:00",
+    "startTime": "09:00",
     "endTime": "21:00",
     "type": "Hacker house, Networking, Showcases",
-    "location": "TBD",
-    "address": "TBD",
+    "location": "AMC Tower",
+    "address": "222 Bongeunsa-ro, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
-    "link": "TBD",
+    "link": "https://lu.ma/7subqb20",
     "capacity": "250",
     "email": "contact@her-dao.xyz"
   },
@@ -1488,7 +1488,7 @@
     "endTime": "17:00",
     "type": "Panel Discussion",
     "location": "Some Solvit",
-    "address": "2085-14 Olympic-daero, Seocho District, Seoul",
+    "address": "2085-14 Olympic-daero, Seocho-gu, Seoul",
     "placeId": "ChIJRecMWN6hfDURMfaYD6gJEsA",
     "entry": "Free Entry",
     "link": "https://lu.ma/j8umhm54",
