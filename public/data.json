@@ -153,7 +153,7 @@
     "email": "jake@icpkor.com"
   },
   "XBlockchain Seoul Meetup - The Future of Pundi X": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibaxtfkialr3fuitzqyqfo4j3ub5csac3vsydkyn3yzaygj4g5kve.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihndmke22kblh4eywm7ahncgwj5yyufx4xqcohvr3fnsrdmk26fcy.png",
     "title": "XBlockchain Seoul Meetup - The Future of Pundi X",
     "host": "Pundi X",
     "startDate": "2024-09-01",
@@ -1615,7 +1615,7 @@
     "email": "event_korea@sandbox.game"
   },
   "Bitcoin Odyssey Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigf27brxrtorp4rfxy6n6b2m4hlrgyazunnfbfs7fggueu4xckte4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiauqsyq2miuo74rnfpmdgazfj3k2ibafhcfwnyefo5wepntf4y6r4.png",
     "title": "Bitcoin Odyssey Seoul",
     "host": "Yala, Botanix, Nubit, Master Protocol",
     "startDate": "2024-09-04",
@@ -2091,7 +2091,7 @@
     "email": "ayessa.lopez@halborn.com"
   },
   "Magna x Memeland x Aethir VIP Lunch at KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieufn4i64c332cvh5w3zzynfntax7rumuwczmufxhocakc3cofs2m.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidephwuj4wsgzollobbxmuwguf7ymjuwyx47f5ew2pzmog25shddy.png",
     "title": "Magna x Memeland x Aethir VIP Lunch at KBW",
     "host": "Magna, Memeland and Aethir",
     "startDate": "2024-09-05",
@@ -2660,8 +2660,8 @@
     "startTime": "18:00",
     "endTime": "20:30",
     "type": "Private VVIP Dinner",
-    "location": null,
-    "address": null,
+    "location": "TBD",
+    "address": "TBD",
     "placeId": null,
     "entry": "Invitation Only / Private",
     "link": "TBD",
