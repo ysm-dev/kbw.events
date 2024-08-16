@@ -2575,10 +2575,10 @@
     "startTime": "10:00",
     "endTime": "18:00",
     "type": "Meetup",
-    "location": "TBD",
-    "address": "TBD",
+    "location": "XYZ",
+    "address": "73 Yeonmujang-gil, Seongdong-gu, Seoul, South Korea",
     "placeId": null,
-    "entry": "TBD",
+    "entry": "$125",
     "link": "https://aptosfoundation.org/events/aptos-experience",
     "capacity": "TBD",
     "email": "gm@gosupernova.xyz"
