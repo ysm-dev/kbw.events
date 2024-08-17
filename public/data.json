@@ -231,7 +231,7 @@
     "type": "Networking Party",
     "location": "D-Bridge",
     "address": "B1 & B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJC6dFCYmjfDUR7liZx3lvb_o",
+    "placeId": "ChIJQcDMQwCjfDUR_Wc1vDR5wv8",
     "entry": "Free Entry",
     "link": "https://lu.ma/exbor8n4",
     "capacity": "200",
@@ -849,22 +849,22 @@
     "capacity": null,
     "email": "contact@factblock.com"
   },
-  "Doodles Community Meetup in Seoul": {
+  "Koodles Lounge (Powered by Inkubator by Doodles)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigkadv2ndhq33f52cw7mv5azem63ttt6wfqfwezdgolox2kqedqwm.png",
-    "title": "Doodles Community Meetup in Seoul",
-    "host": "Doodles",
+    "title": "Koodles Lounge (Powered by Inkubator by Doodles)",
+    "host": "Koodles Society",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "19:00",
     "endTime": "22:00",
     "type": "Meetup",
-    "location": "TBD",
-    "address": "TBD",
+    "location": "TIME AFTER TIME (Seongsu-dong 2(i)-ga)",
+    "address": null,
     "placeId": "ChIJgQD8o5OkfDUR6b0_C5FwjNk",
-    "entry": "Free for holders with +1's",
+    "entry": "Free (Approval Required)",
     "link": "https://lu.ma/la3u8xrj",
-    "capacity": "50",
-    "email": "jjk91525@gmail.com"
+    "capacity": "200",
+    "email": "jun.kim@hashed.comjun.kim@hashed.com"
   },
   "Onchain Growth Dinner | KBW Edition 🇰🇷": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieovtenospiuotikhblavz43nm6k6c5cqhzumrzql3jqsuxg5kb2y.png",
