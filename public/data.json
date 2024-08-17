@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2431,7 +2431,7 @@
     "email": "info@tokenpost.kr"
   },
   "13Desk Meet Up": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibrroyf2t4ryoiqvxxkyv2ygupllogkhtd7thbl7vhlbzqq5wteqa.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidpueuqq7qgcx2iz32c4rm4tasyzqimrir3jha26ihqtwshciuxca.png",
     "title": "13Desk Meet Up",
     "host": "13Desk",
     "startDate": "2024-09-05",
