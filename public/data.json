@@ -34,7 +34,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -747,6 +747,23 @@
     "capacity": "250",
     "email": "kevin.kim@kaia.io"
   },
+  "KBW2024 Early Bird Networking Party By 071labs": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih473n27bnkothubzyqidnb5rg756ic35hlvvzo6lm6qavxul5gqu.png",
+    "title": "KBW2024 Early Bird Networking Party By 071labs",
+    "host": "071labs",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "19:00",
+    "endTime": "01:00",
+    "type": "Party & Networking",
+    "location": "D BRIDGE",
+    "address": "9, Dosan-daero49-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJQcDMQwCjfDUR_Wc1vDR5wv8",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/8rnq9aw0",
+    "capacity": "250+",
+    "email": "seono@071labs.io"
+  },
   "WEB3 FIESTA - W3G KOREA NIGHT EDITION": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiacyjopphr7rna5y46ren5ujxdttbkrxxypbcvdouok6hgveturfy.png",
     "title": "WEB3 FIESTA - W3G KOREA NIGHT EDITION",
@@ -849,6 +866,23 @@
     "capacity": "50",
     "email": "jjk91525@gmail.com"
   },
+  "Onchain Growth Dinner | KBW Edition 🇰🇷": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieovtenospiuotikhblavz43nm6k6c5cqhzumrzql3jqsuxg5kb2y.png",
+    "title": "Onchain Growth Dinner | KBW Edition 🇰🇷",
+    "host": "Eight Forces",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/6gyscfqd",
+    "capacity": "20",
+    "email": "m@eightforces.com"
+  },
   "Get Nerdy Get Sexy : DeSci Seoul After Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie4mzctnmwr3yc2lkc5bwmn3hsrkedzg7eiymn5i3zq7m3tes7zi4.png",
     "title": "Get Nerdy Get Sexy : DeSci Seoul After Party",
@@ -933,6 +967,23 @@
     "link": "https://lu.ma/kbwbrunch",
     "capacity": "100",
     "email": "ian@caladan.xyz"
+  },
+  "Onchain Growth Hackers Brunch | KBW Edition 🇰🇷": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidhfjl2u4c6jqg54xzamfxviv55rt2myfhldth4crvwerel2dw3wq.png",
+    "title": "Onchain Growth Hackers Brunch | KBW Edition 🇰🇷",
+    "host": "Eight Forces",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "11:00",
+    "endTime": "14:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/eg0a41qf",
+    "capacity": "35",
+    "email": "m@eightforces.com"
   },
   "Kaia Square Lounge 2024 Day #2": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicy3arv2pe3aizbadn34ihpts6d2u3cvtd33jsuvd63jbqrw322tm.png",
@@ -1852,6 +1903,23 @@
     "capacity": "150",
     "email": "events@dwf-labs.com"
   },
+  "071labs Family Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicnerdcs3ez4zqqmedc6zwqwa7g4eyjmiddceaxxyumelt2lixobm.png",
+    "title": "071labs Family Party",
+    "host": "071labs",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "VIP Party & Networking",
+    "location": "ARZU Cheongdam",
+    "address": "30, Seolleung-ro152-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJ_V7Pj3ekfDUR0S6h23ySeLQ",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/kxpqcqlz",
+    "capacity": "250+",
+    "email": "seono@071labs.io"
+  },
   "MemeCore & OKX Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiae4w34dtju62wxcc4deyt7ypr6ishefzhxui2575iawttiqenet4.png",
     "title": "MemeCore & OKX Pheromone EDM Party",
@@ -2260,6 +2328,23 @@
     "capacity": "100",
     "email": "margot@tiger-research.com"
   },
+  "KOREANADS NIGHT": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih37k7yfhxismn26su2zitnyygcamjurez635kpkvyvw3bwwo7bce.png",
+    "title": "KOREANADS NIGHT",
+    "host": "Monad",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "type": "Networking Event, Party, etc.",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/fuycx2mk",
+    "capacity": "150",
+    "email": "tjwpdud256@naver.com"
+  },
   "Diversity-in-tech": {
     "image": null,
     "title": "Diversity-in-tech",
@@ -2378,6 +2463,23 @@
     "link": "https://lu.ma/qqdl1ger",
     "capacity": "100",
     "email": "claire@nectarx.io"
+  },
+  "Private Growth Dinner | KBW Edition 🇰🇷": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibf3oswaepor5trncltbymsyiejnchacg5br5gqd57tokstebiwre.png",
+    "title": "Private Growth Dinner | KBW Edition 🇰🇷",
+    "host": "Eight Forces",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "23:59",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/8zfafgzv",
+    "capacity": "10",
+    "email": "m@eightforces.com"
   },
   "KBW Symposium: Advancing AI and Ecosystem": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibd4zq64s6b6haxmwbghideb2p3jzr2njrgn6c536qwmfydzak7qq.png",
@@ -2769,6 +2871,23 @@
     "link": "https://lu.ma/0agdo9bt",
     "capacity": "150",
     "email": "devonmojito@gmail.com"
+  },
+  "071labs KOL Party With DJ SODA": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihomwrhooipn6asr4wvtsfxbbgturfm2sccrwg5vqubdb23e4jiym.png",
+    "title": "071labs KOL Party With DJ SODA",
+    "host": "071labs",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "19:00",
+    "endTime": "01:00",
+    "type": "Party & Networking",
+    "location": "Alvin Avenue",
+    "address": "13, Gangnam-daero92-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJdaXpqyChfDURrw75cPTCUA0",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/bjh7eapy",
+    "capacity": "250+",
+    "email": "seono@071labs.io"
   },
   "DARK MODE: Story House After Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiczkzxqq2ts75jvvc6slnxbbon5rndhzxslizbtfx73jkb2xetqza.png",
