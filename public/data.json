@@ -1,4 +1,21 @@
 {
+  "A Conversation with Chris Dixon": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibru5y5vgio6ztfcmdwrrfpdomip44ge6s7llk62pkcg3azvqr7q4.png",
+    "title": "A Conversation with Chris Dixon",
+    "host": "FACTBLOCK + Hashed + a16zcrypto",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "12:30",
+    "endTime": "16:00",
+    "type": "Main Conference",
+    "location": "Grand Walkerhill",
+    "address": "177 Walkerhill-ro, Gwangjin-gu, Seoul",
+    "placeId": null,
+    "entry": "https://tickets.koreablockchainweek.com/",
+    "link": "https://tickets.koreablockchainweek.com/",
+    "capacity": "200",
+    "email": "info@koreablockchainweek.com"
+  },
   "Korea Blockchain Week Main Conference: IMPACT": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibru5y5vgio6ztfcmdwrrfpdomip44ge6s7llk62pkcg3azvqr7q4.png",
     "title": "Korea Blockchain Week Main Conference: IMPACT",
@@ -442,7 +459,7 @@
     "email": "rime@fractl.ca"
   },
   "W3G KOREA": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihnjlb422cgrpxkawknid46kzmuy7top45aqp4bobcntarnwoxhbm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifsgd2u6lhnms2drjpslwacalnavi5jtneqbjp2topene3ordoyz4.png",
     "title": "W3G KOREA",
     "host": "Geda & Pomerium",
     "startDate": "2024-09-02",
