@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import {
   concurrent,
   entries,
@@ -17,13 +16,13 @@ import { isURL } from "utils/isURL"
 import { saveImage } from "utils/saveImage"
 
 export const normalize = async (data: (string | undefined)[][]) => {
-  const a = [data[4], data[5], ...data.slice(7)]
+  const a = [data[4], data[5], data[6], ...data.slice(8)]
 
   const r = await pipe(
     a,
     toAsync,
     map(norm),
-    concurrent(20),
+    concurrent(50),
     toArray,
     indexBy((i) => i.title),
   )
@@ -36,13 +35,12 @@ export const normalize = async (data: (string | undefined)[][]) => {
 const norm = async (
   row: (string | undefined)[],
 ): Promise<{ [key in string]: string | null }> => {
-  const image = await getImage(row)
+  const [image, placeId] = await Promise.all([getImage(row), getPlaceId(row)])
   const title = getTitle(row)
   const host = getHost(row)
   const type = getType(row)
   const location = getLocation(row)
   const address = getAddress(row)
-  const placeId = await getPlaceId(row)
   const entry = getEntry(row)
   const link = getLink(row)
   const capacity = getCapacity(row)
@@ -233,29 +231,38 @@ const getEndDate = (row: (string | undefined)[]): string | null => {
 }
 
 const getStartTime = (row: (string | undefined)[]): string | null => {
-  if (!row[2]) return null
-  if (row[2].includes("TBD")) return "00:00"
-  if (row[2].includes("All Day")) return "00:00"
+  try {
+    if (!row[2]) return null
+    if (row[2].includes("TBD")) return "00:00"
+    if (row[2].includes("All Day")) return "00:00"
 
-  const time = row[2].split(" - ")[0].replaceAll(" ", "").toLowerCase()
+    const time = row[2].split(" - ")[0].replaceAll(" ", "").toLowerCase()
 
-  return (
-    format(parse(time, time.includes(":") ? "h:mma" : "ha"), "HH:mm") || null
-  )
-}
-
-const getEndTime = (row: (string | undefined)[]): string | null => {
-  if (!row[2]) return null
-  if (row[2].includes("TBD")) return "23:59"
-  if (row[2].includes("All Day")) return "23:59"
-
-  const time = row[2].split(" - ")?.[1]?.replaceAll(" ", "")?.toLowerCase()
-
-  if (time?.includes("pm") || time?.includes("am")) {
     return (
       format(parse(time, time.includes(":") ? "h:mma" : "ha"), "HH:mm") || null
     )
+  } catch (e) {
+    return "00:00"
   }
+}
 
-  return "23:59"
+const getEndTime = (row: (string | undefined)[]): string | null => {
+  try {
+    if (!row[2]) return null
+    if (row[2].includes("TBD")) return "23:59"
+    if (row[2].includes("All Day")) return "23:59"
+
+    const time = row[2].split(" - ")?.[1]?.replaceAll(" ", "")?.toLowerCase()
+
+    if (time?.includes("pm") || time?.includes("am")) {
+      return (
+        format(parse(time, time.includes(":") ? "h:mma" : "ha"), "HH:mm") ||
+        null
+      )
+    }
+
+    return "23:59"
+  } catch (e) {
+    return "23:59"
+  }
 }
