@@ -1479,7 +1479,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -2923,9 +2923,9 @@
     "capacity": "500",
     "email": "info@futuracanvas.com"
   },
-  "NEAR HZN AI Alpha Hackathon": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigwgenyput6ua5crmz2k374ausgwci42p4lhnwefbyljgqmwivgiy.png",
-    "title": "NEAR HZN AI Alpha Hackathon",
+  "BeWater x NEAR HZN AI Alpha Hackathon": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibz3pmxovv7y47d5rga4saqpbnqxa4xmqksxaqfyvixyrvmw7zyhq.png",
+    "title": "BeWater x NEAR HZN AI Alpha Hackathon",
     "host": "NEAR & BeWater",
     "startDate": "2024-09-06",
     "endDate": "2024-09-07",
@@ -2934,9 +2934,9 @@
     "type": "Hackathon",
     "location": "AMC Tower",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": "ChIJk3QI2_mjfDUR6AYVE1RRJqI",
+    "placeId": null,
     "entry": "Invitation Only",
-    "link": "https://lu.ma/eb7w3abx",
+    "link": "https://build.bewater.xyz/en/campaigns/HK6H-BeWater-x-NEAR-HZN-AI-Alpha-Hackathon",
     "capacity": "40",
     "email": "rich0577@proton.me"
   },
