@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1155,20 +1155,20 @@
     "capacity": null,
     "email": "ayessa.lopez@halborn.com"
   },
-  "GMNT Korea! (Private Dinner)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihtdqibs3huojmoyxdebdr6tdcjhedqhaaabib7gsrousompy44ja.png",
-    "title": "GMNT Korea! (Private Dinner)",
+  "Mantle Private dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigvjmyannbxiojprbvikrbci4ifrh3dxu5rpbxoxgkeu7focb5rj4.png",
+    "title": "Mantle Private dinner",
     "host": "Mantle",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "18:00",
     "endTime": "21:00",
     "type": "Private Dinner",
-    "location": "TBD",
-    "address": "TBD",
+    "location": "Naked Tiger",
+    "address": "42 Teheran-ro 1-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Invitation Only",
-    "link": "https://www.mantle.xyz/ko",
+    "link": "https://lu.ma/cjslforw",
     "capacity": "50",
     "email": "gemma.shin@mantle.xyz"
   },
@@ -1445,7 +1445,7 @@
     "email": "justin@factomind.io"
   },
   "GMNT Korea! (After Party)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihtdqibs3huojmoyxdebdr6tdcjhedqhaaabib7gsrousompy44ja.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihd74angurot3jk6vvnms6bvtqspn2dmsclgzhbklquecddw6mhme.png",
     "title": "GMNT Korea! (After Party)",
     "host": "Mantle",
     "startDate": "2024-09-03",
@@ -1453,11 +1453,11 @@
     "startTime": "21:00",
     "endTime": "00:00",
     "type": "Party",
-    "location": "TBD",
-    "address": "TBD",
+    "location": "Naked Tiger",
+    "address": "42 Teheran-ro 1-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
-    "link": "https://www.mantle.xyz/ko",
+    "link": "https://lu.ma/8bfu6x8p",
     "capacity": "250",
     "email": "gemma.shin@mantle.xyz"
   },
@@ -1734,7 +1734,7 @@
     "email": "infcryptolab@gmail.com"
   },
   "Uniting Societies @KBW": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexnkpmt3qlmatbbt6gtob7lpkkjds6nwdd5dxmfxej6lfag4pbki.png",
     "title": "Uniting Societies @KBW",
     "host": "Somnia",
     "startDate": "2024-09-04",
@@ -1744,7 +1744,7 @@
     "type": "Networking Event",
     "location": "1F 70-266, Sinpyeong-dong, Gumi, Gyeongsangbuk-do",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJf8VST7G6fDURQFP2o4XAYJw",
     "entry": "Free Entry",
     "link": "https://lu.ma/i4nkzjgj",
     "capacity": "150",
@@ -1989,7 +1989,7 @@
     "email": "events@dwf-labs.com"
   },
   "071labs Family Party": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicnerdcs3ez4zqqmedc6zwqwa7g4eyjmiddceaxxyumelt2lixobm.png",
     "title": "071labs Family Party",
     "host": "071labs",
     "startDate": "2024-09-04",
@@ -1999,7 +1999,7 @@
     "type": "VIP Party & Networking",
     "location": "ARZU Cheongdam",
     "address": "30, Seolleung-ro152-gil, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ_V7Pj3ekfDUR0S6h23ySeLQ",
     "entry": "Free Entry",
     "link": "https://lu.ma/kxpqcqlz",
     "capacity": "250+",
@@ -2278,7 +2278,7 @@
     "email": "ayessa.lopez@halborn.com"
   },
   "Magna x Memeland x Aethir VIP Lunch at KBW": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid5sigqtmms3d5jciwlp7rswvogz5dcnjvw2fd772klx2ifl2nd4e.png",
     "title": "Magna x Memeland x Aethir VIP Lunch at KBW",
     "host": "Magna, Memeland and Aethir",
     "startDate": "2024-09-05",
@@ -2288,7 +2288,7 @@
     "type": "Networking Event",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJ-4m1XyOkfDURartwxRuXMbM",
     "entry": "Invitation Only",
     "link": "https://lu.ma/yvp8kmzc",
     "capacity": "36",
