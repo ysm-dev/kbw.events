@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -508,6 +508,23 @@
     "link": "https://lu.ma/ksl2024",
     "capacity": "150",
     "email": "kevin.kim@kaia.io"
+  },
+  "Bitcoin Community Assembly": {
+    "image": null,
+    "title": "Bitcoin Community Assembly",
+    "host": "Seouldinals / CKB / DODO Chain / Nubit / Hashkey Capital / Notch Ventures / Followin",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "13:00",
+    "endTime": "22:00",
+    "type": "Conference, Networking",
+    "location": "Space Wadiz",
+    "address": "7-1 Yeonmujang 1-gil, Seongdong-gu, Seoul",
+    "placeId": null,
+    "entry": null,
+    "link": null,
+    "capacity": null,
+    "email": null
   },
   "Web3 x AI summit": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicwtoh3cwrcpwqo2riojtx52arjbo5l4jmurw45fzhjagpa3astca.png",
@@ -1124,7 +1141,7 @@
   "The Future is Perpetual": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihh4waoohovqqoqlwpzipi76dwyeykup4p3i2vylnpc7evl4gfeku.png",
     "title": "The Future is Perpetual",
-    "host": "Merkle Trade",
+    "host": "Merkle Trade X Hashed X Pyth X HMX X Kronos Research",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "17:00",
@@ -1693,7 +1710,7 @@
     "type": "Panel, Networking Event",
     "location": "Hello Monday",
     "address": "1, Seongsuil-ro 1-gil, Seongdong-gu, Seoul",
-    "placeId": "ChIJsdD5WJGkfDURvOOcmZR3fGw",
+    "placeId": "ChIJ00umQzClfDURtql8gyds26A",
     "entry": "Free Entry",
     "link": "https://lu.ma/4obzw1an",
     "capacity": "100",
