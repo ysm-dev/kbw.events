@@ -342,14 +342,14 @@
   ],
   [
     "Sep 2",
-    "PIP Seoul (Programmable IP Summit)\nStory, Polychain, Factblock, Hashed",
+    "PIP Seoul (Programmable IP Summit)\nStory Protocol",
     "10AM - 6PM",
     "Conference",
     "Space S 1\n57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
-    "Free Entry (Approval Required)",
-    "https://www.storyhousekbw.xyz/pip",
-    "120",
-    "events@storyprotocol.xyz"
+    "Free Entry",
+    "https://lu.ma/pipseoul",
+    "N/A",
+    "erik@storyprotocol.xyz"
   ],
   [
     "Sep 2",
@@ -401,10 +401,10 @@
     "1PM - 10PM",
     "Conference, Networking",
     "Space Wadiz\r\n7-1 Yeonmujang 1-gil, Seongdong-gu, Seoul",
-    null,
-    null,
-    null,
-    null
+    "Free Entry",
+    "https://lu.ma/agmuimt5",
+    "300",
+    "seoul.ordinals@gmail.com"
   ],
   [
     "Sep 2",
@@ -551,50 +551,6 @@
   ],
   [
     "Sep 2",
-    "Big Time Crypto by Lumoz & Exilist : KBW in Mind\nLumoz / Exilist / Merlin Chain / Mind Network / Master Protocol / Orange / ChannelDAO",
-    "6PM - 12AM",
-    "BTC Ecosystem Party, Networking Event",
-    "36, Itaewon-ro 27na-gil, Yongsan-gu, Seoul",
-    "Free Entry",
-    "https://lu.ma/377vcogq",
-    "200",
-    "lily@exilist.io"
-  ],
-  [
-    "Sep 2",
-    "Surreal World Assets: A PIP Seoul Afterparty by MANTRA\r\nMANTRA",
-    "6PM - 12AM",
-    "Party",
-    "Space S 1\n57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
-    "Invitation Only",
-    "https://www.storyhousekbw.xyz/pip",
-    "200",
-    "events@storyprotocol.xyz"
-  ],
-  [
-    "Sep 2",
-    "Kaia Square Lounge 2024 Networking Night #1\nKaia DLT Foundation",
-    "7PM - 12AM",
-    "Networking Event",
-    "Peaches D8ne\n9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
-    "Invitation Only",
-    "https://lu.ma/ksl2024networking",
-    "250",
-    "kevin.kim@kaia.io"
-  ],
-  [
-    "Sep 2",
-    "KBW2024 Early Bird Networking Party By 071labs\r\n071labs",
-    "7PM - 1AM",
-    "Party & Networking",
-    "D BRIDGE\r\n9, Dosan-daero49-gil, Gangnam-gu, Seoul",
-    "Free Entry",
-    "https://lu.ma/8rnq9aw0",
-    "250+",
-    "seono@071labs.io"
-  ],
-  [
-    "Sep 2",
     "WEB3 FIESTA - W3G KOREA NIGHT EDITION\nGEDA / Pomerium / DIFY / EMERGE",
     "6PM - 11PM",
     "Networking Event, \nDJ Party",
@@ -617,6 +573,28 @@
   ],
   [
     "Sep 2",
+    "Big Time Crypto by Lumoz & Exilist : KBW in Mind\nLumoz / Exilist / Merlin Chain / Mind Network / Master Protocol / Orange / ChannelDAO",
+    "6PM - 12AM",
+    "BTC Ecosystem Party, Networking Event",
+    "36, Itaewon-ro 27na-gil, Yongsan-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/377vcogq",
+    "200",
+    "lily@exilist.io"
+  ],
+  [
+    "Sep 2",
+    "Surreal World Assets: A PIP Seoul Afterparty with MANTRA\r\nStory Protocol",
+    "6PM - 12AM",
+    "Afterparty",
+    "Space S 1\n57, Seongsui-ro 20-gil, Seongdong-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/pipseoulafterparty",
+    "N/A",
+    "erik@storyprotocol.xyz"
+  ],
+  [
+    "Sep 2",
     "DePIN DAY + Afterparty @ KBW \nDePHY Network + MissWProject + Madlads",
     "6PM - 2AM",
     "Networking + Party Event",
@@ -636,6 +614,28 @@
     "TBD",
     "40",
     "yoonlee@tiger-research.com"
+  ],
+  [
+    "Sep 2",
+    "Avalanche Lodge | Seoul\r\nAvalanche",
+    "6:30PM - 9:30PM",
+    "Networking Event",
+    "Tap Shop Bar Dosan\r\n3F, Dosan-daero 150, Gangnam-gu, Seoui",
+    "Invitation Only",
+    "https://lu.ma/AvalancheLodge_Seoul",
+    "150",
+    "eugene.cho@avalabs.org"
+  ],
+  [
+    "Sep 2",
+    "VIP Dinner with XPLA\r\nXPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity, ZKsync",
+    "7PM - 9PM",
+    "Private Dinner",
+    "Myongwolgwan Annex, VISTA Walkerhill Seoul\n177, Walkerhill-ro, Gwangjin-gu, Seoul",
+    "Invitation Only",
+    "TBD",
+    "28",
+    "grace@xpla.io"
   ],
   [
     "Sep 2",
@@ -669,6 +669,28 @@
     "https://lu.ma/6gyscfqd",
     "20",
     "m@eightforces.com"
+  ],
+  [
+    "Sep 2",
+    "Kaia Square Lounge 2024 Networking Night #1\nKaia DLT Foundation",
+    "7PM - 12AM",
+    "Networking Event",
+    "Peaches D8ne\n9 Yeonmujang 3-gil, Seongdong-gu, Seoul",
+    "Invitation Only",
+    "https://lu.ma/ksl2024networking",
+    "250",
+    "kevin.kim@kaia.io"
+  ],
+  [
+    "Sep 2",
+    "KBW2024 Early Bird Networking Party By 071labs\r\n071labs",
+    "7PM - 1AM",
+    "Party & Networking",
+    "D BRIDGE\r\n9, Dosan-daero49-gil, Gangnam-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/8rnq9aw0",
+    "250+",
+    "seono@071labs.io"
   ],
   [
     "Sep 2",
@@ -1023,6 +1045,28 @@
     "gemma.shin@mantle.xyz"
   ],
   [
+    "Sep 3",
+    "POLKADOT Sepafuturistic Night (feat. Team Pearl)\nPOLKADOT",
+    "9PM - 1AM",
+    "Networking Event",
+    "B1, 12 Seolleung-ro 155-gil, Gangnam-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/ug6vpe6v",
+    "200",
+    "rhee@moondancelabs.com"
+  ],
+  [
+    "Sep 3 - Sep 4",
+    "Play Web3 Daytime Lounge\r\nXPLA, Aethir, Sophon, Xsolla, Tophash Digital, MetaGravity and ZKsync",
+    "9AM - 5PM",
+    "Private B2B Networking",
+    "TBD",
+    "Private",
+    "https://lu.ma/y1mgivd4",
+    "N/A",
+    "grace@xpla.io"
+  ],
+  [
     "Sep 3 - Sep 4",
     "Cafe GM\nCreditcoin x Wintermute x GSR",
     "11AM - 9PM",
@@ -1131,6 +1175,17 @@
     "https://lu.ma/rz249np0",
     "120",
     "sarah.kim@certik.com"
+  ],
+  [
+    "Sep 4",
+    "IPFi Summit\r\nStory Protocol",
+    "10AM - 2PM",
+    "Conference",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "Free Entry",
+    "https://lu.ma/ipfisummit",
+    "N/A",
+    "erik@storyprotocol.xyz"
   ],
   [
     "Sep 4",
@@ -1332,6 +1387,17 @@
   ],
   [
     "Sep 4",
+    "IPFi Dinner\r\nStory Protocol",
+    "7PM - 9:30PM",
+    "Dinner",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "TBD",
+    "https://lu.ma/ydqscydn",
+    "N/A",
+    "erik@storyprotocol.xyz"
+  ],
+  [
+    "Sep 4",
     "KBW Networking & Tears - Bear Market Survival Night\nGrass x Kaito x IQ.wiki x Ignight x Credit Scend x Frax",
     "7PM - 10PM",
     "Networking Event",
@@ -1417,6 +1483,17 @@
     "https://lu.ma/hq46llyy?tk=kmvrGj",
     "300",
     "bitna@delabs.gg"
+  ],
+  [
+    "Sep 4",
+    "IPFi Afterparty\r\nStory Protocol",
+    "9:30PM - 12AM",
+    "Party",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "Join by request",
+    "https://lu.ma/0qzly416",
+    "N/A",
+    "erik@storyprotocol.xyz"
   ],
   [
     "Sep 4",
@@ -1783,6 +1860,17 @@
   ],
   [
     "Sep 5",
+    "Infinite Window: Sekai x Azuki\nStory Protocol x Sekai x Azuki",
+    "7PM-11PM",
+    "Party",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "Join by request",
+    "https://lu.ma/sekaiazuki",
+    "N/A",
+    "erik@storyprotocol.xyz"
+  ],
+  [
+    "Sep 5",
     "Supernova Cocktails + Disco\r\nSupernova",
     "7PM - 12AM",
     "Party, Networking",
@@ -1859,6 +1947,17 @@
     "info@futuracanvas.com"
   ],
   [
+    "Sep 5",
+    "Times ft. Hack VC, Berachain, Movement\r\nHack VC, Berachain, Movement, EthSign",
+    "10PM - 4AM",
+    "Networking event (West meets East), Party",
+    "Times Apgujeong\r\n25 Apgujeong-ro 54-gil, Gangnam-gu, Seoul",
+    "Approval Required",
+    "https://lu.ma/whgoavjb",
+    "300",
+    "rodney@hack.vc"
+  ],
+  [
     "Sep 5 - Sep 6",
     "The Aptos Experience\nAptos",
     "10AM - 6PM",
@@ -1883,7 +1982,7 @@
   [
     "Sep 5 - Sep 6",
     "Future+ Codes of Culture\nFutureplus",
-    "9pm- till late",
+    "9PM- till late",
     "Party",
     "TBD",
     "Invitation Only",
@@ -1915,6 +2014,17 @@
   ],
   [
     "Sep 6",
+    "Story Academy: Seoul\nStory Protocol x Four Pillars",
+    "9AM - 2PM",
+    "Hacker House",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "Invitation Only",
+    "https://lu.ma/6hjetf9b",
+    "N/A",
+    "erik@storyprotocol.xyz"
+  ],
+  [
+    "Sep 6",
     "Solana Spectrum in Korea\nFragmetric, Jito, Presto, Solana Foundation",
     "1PM - 9PM",
     "Conference, Networking",
@@ -1934,6 +2044,17 @@
     "https://lu.ma/nnxgtgxs",
     "200",
     "luke@mitosis.org"
+  ],
+  [
+    "Sep 6",
+    "Pitch.fun - A Gen AI Video Hackathon\r\nStory x Machine Cinema",
+    "2PM - 8PM",
+    "Hackathon",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "Free Entry",
+    "https://lu.ma/1ympagjh",
+    "N/A",
+    "erik@storyprotocol.xyz"
   ],
   [
     "Sep 6",
@@ -2003,14 +2124,14 @@
   ],
   [
     "Sep 6",
-    "DARK MODE: Story House After Party\r\nRitual",
+    "DARK MODE: Story House After Party Curated by Ritual\nStory x Ritual",
     "8PM - 12AM",
     "Party",
-    "Shared with Registration",
-    "Free Entry",
+    "Space S 1\n 57 Seongsui-ro 20-gil, Seoul",
+    "RSVP, limited availability",
     "https://lu.ma/darkmode",
-    "250",
-    "community@ritual.net"
+    "N/A",
+    "erik@storyprotocol.xyz"
   ],
   [
     "Sep 6",
@@ -2044,6 +2165,17 @@
     "https://lu.ma/i7c99oul",
     "150",
     "info@cryptoartseoul.com"
+  ],
+  [
+    "Sep 7",
+    "Hack on Polygon w\r\nDABL Club & wcm",
+    "11:30AM - 3:30PM",
+    "Workshop and Networking Event",
+    "9F Lounge COCOC(Corea Conference Center)\r\n8, Gangnam-daero 53-gil, Seocho-gu Seoul",
+    "Free Entry",
+    "https://lu.ma/iq5lsixi",
+    "50",
+    "medo@legend.tech"
   ],
   [
     "Sep 12 - Sep 13",
