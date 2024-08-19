@@ -408,7 +408,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -1258,7 +1258,7 @@
     "email": "contact@injectivelabs.org"
   },
   "Play Web3": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigufe5aeluwenpq4thfhsurvkflej2pygcwj2psinui3u2rogiwwu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarnrikhhdfodznttm7w55crhr7a3cbtddilf37zoneqgw76gomte.png",
     "title": "Play Web3",
     "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity, ZKsync",
     "startDate": "2024-09-03",
@@ -2550,7 +2550,7 @@
     "email": "hello@yunseo.kr"
   },
   "Korea Web3 Frontier: A Leadership Brunch": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifn5hptkb2p7x6gecoufhiinctijdo2gpp5jojtf35xug5vsbf6sy.png",
+    "image": null,
     "title": "Korea Web3 Frontier: A Leadership Brunch",
     "host": "GSR x Monad x Xangle x Samsung NEXT",
     "startDate": "2024-09-05",
@@ -2560,7 +2560,7 @@
     "type": "Networking Event, Private Brunch",
     "location": "Monaco Space B1F Media Hall",
     "address": "397 Seocho-daero, Seocho-gu, Seoul",
-    "placeId": "ChIJV1jOJNahfDURcNYPEzdxGA8",
+    "placeId": null,
     "entry": "Free, Private",
     "link": "https://lu.ma/jgu64ic4",
     "capacity": "100",
@@ -2618,7 +2618,7 @@
     "email": "jukayaku@gmail.com"
   },
   "UP ONLY!": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibw7i7hy32rizn5dayl5bipjkv2ofl4xt5nkbrwly26sdvxl3aqqi.png",
+    "image": null,
     "title": "UP ONLY!",
     "host": "Mantle,Four pillars,Certik,Vertex",
     "startDate": "2024-09-05",
@@ -2628,7 +2628,7 @@
     "type": "Networking Event",
     "location": "21, Teheran-ro 8-gil, Gangnam-gu",
     "address": null,
-    "placeId": "ChIJe6NQpHihfDURPqhWiAJrYTo",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/vxgb0f8i",
     "capacity": "100",
@@ -2788,7 +2788,7 @@
     "email": "riversh0215@gmail.com"
   },
   "K-RWA Night": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih5h72ntgfpu5jvp6xhkne4seenqpm5njkndyerbpzfjhlbfkjm6q.png",
     "title": "K-RWA Night",
     "host": "Shinhan Securities",
     "startDate": "2024-09-05",
@@ -2798,7 +2798,7 @@
     "type": "Networking Event",
     "location": "Alttap Itaewon",
     "address": "9, Itaewon-ro 19-gil, Yongsan-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ78Vg9UmifDUR_aYFDcpmuto",
     "entry": "Free Entry (Approval Required)",
     "link": "https://lu.ma/5drk1y4j",
     "capacity": "70",
@@ -2907,7 +2907,7 @@
     "email": "m@eightforces.com"
   },
   "KBW Symposium: Advancing AI and Ecosystem": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibd4zq64s6b6haxmwbghideb2p3jzr2njrgn6c536qwmfydzak7qq.png",
+    "image": null,
     "title": "KBW Symposium: Advancing AI and Ecosystem",
     "host": "IQ.Wiki Frax Finance Nibiru Chain",
     "startDate": "2024-09-05",
@@ -2941,7 +2941,7 @@
     "email": "vanessaaalian@gmail.com"
   },
   "R3al World X LECCA VC Networking Party": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiciypihmftp7w6f22kgcjssywvqdua3rf626uhqsywhaiq5t7dbhu.png",
     "title": "R3al World X LECCA VC Networking Party",
     "host": "IoTeX x LECCA Ventures",
     "startDate": "2024-09-05",
@@ -2951,14 +2951,14 @@
     "type": "Networking, Party",
     "location": "Cociety, Seoul Forest",
     "address": "82-20, Wangsimni-ro, Seongdong-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJjSY7EHalfDURaj3RdsYa3fo",
     "entry": "Invitation Only",
     "link": "https://lu.ma/bmgznp98",
     "capacity": "500",
     "email": "nate@leccaventures.com"
   },
   "Infinite Window: Sekai x Azuki": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih7x3a3e7faxrdhkuj5pv4mdoup2prskhchvhp7njhhnhguw6y7cm.png",
+    "image": null,
     "title": "Infinite Window: Sekai x Azuki",
     "host": "Story Protocol x Sekai x Azuki",
     "startDate": "2024-09-05",
@@ -2968,7 +2968,7 @@
     "type": "Party",
     "location": "Space S 1",
     "address": "57 Seongsui-ro 20-gil, Seoul",
-    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "placeId": null,
     "entry": "Join by request",
     "link": "https://lu.ma/sekaiazuki",
     "capacity": null,
@@ -3009,7 +3009,7 @@
     "email": "gm@gosupernova.xyz"
   },
   "OG Party in Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3g6xgl76lv4hhzni73cfh6pcy3dnru2orpprib4yl73uqf5d2wy.png",
     "title": "OG Party in Seoul",
     "host": "Gotbit",
     "startDate": "2024-09-05",
@@ -3019,7 +3019,7 @@
     "type": "Networking Event, Party",
     "location": "People The Terrace",
     "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJVxLRrXukfDURHh6aVnEgWbs",
     "entry": "Free-Invite Only",
     "link": "https://lu.ma/OGpartySeoul",
     "capacity": "200",
@@ -3043,7 +3043,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie4ndorrvyoe6nyqftdqveslx32npqwxatlttuap2h6obo6ig4m2u.png",
+    "image": null,
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
@@ -3196,7 +3196,7 @@
     "email": "info@futureplus.xyz"
   },
   "EVG presents: Cleanse your Seoul ft. DJ NewJeansNim": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreideqt2v65cv5bk7kki2wq55gsqvmxqo52wqlps7dj7whefabbjopu.png",
     "title": "EVG presents: Cleanse your Seoul ft. DJ NewJeansNim",
     "host": "EVG",
     "startDate": "2024-09-05",
