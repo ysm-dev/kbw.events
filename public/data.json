@@ -2618,7 +2618,7 @@
     "email": "jukayaku@gmail.com"
   },
   "UP ONLY!": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibw7i7hy32rizn5dayl5bipjkv2ofl4xt5nkbrwly26sdvxl3aqqi.png",
     "title": "UP ONLY!",
     "host": "Mantle,Four pillars,Certik,Vertex",
     "startDate": "2024-09-05",
@@ -2628,7 +2628,7 @@
     "type": "Networking Event",
     "location": "21, Teheran-ro 8-gil, Gangnam-gu",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJe6NQpHihfDURPqhWiAJrYTo",
     "entry": "Free Entry",
     "link": "https://lu.ma/vxgb0f8i",
     "capacity": "100",
@@ -2805,7 +2805,7 @@
     "email": "shic.block@gmail.com"
   },
   "Esports Night Out": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreignlrb6mez5nnozrbabmo376f25h7gh4ft6nmwa3jvp2fk7pprbmu.png",
     "title": "Esports Night Out",
     "host": "Miracle Play",
     "startDate": "2024-09-05",
@@ -2815,7 +2815,7 @@
     "type": "Esports, Tournament, Party",
     "location": "8 Teheran-ro 44-gil, Gangnam-gu, Seoul",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJ8zsokgakfDURB8Ge4F2PEXo",
     "entry": "Invitation Only",
     "link": "https://lu.ma/jdaetjix",
     "capacity": "150",
@@ -2839,7 +2839,7 @@
     "email": "events@starknet.org"
   },
   "CRYPTO NIGHT in Seoul Forest": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie7i3qa6vt3aollqgylxq2uxgvhh3vn5eojsawftu4wbczmlwizdi.png",
+    "image": null,
     "title": "CRYPTO NIGHT in Seoul Forest",
     "host": "TokenPost",
     "startDate": "2024-09-05",
@@ -2849,14 +2849,14 @@
     "type": "Casual networking with party",
     "location": "Seoul Forest Park",
     "address": "273 Ttukseom-ro, Seongdong-gu, Seoul",
-    "placeId": "ChIJbTyRKJ2kfDURJpvHsvFCKo8",
+    "placeId": null,
     "entry": "Free + VIP (Invitation Only)",
     "link": "https://lu.ma/m80ny7yk",
     "capacity": "1000",
     "email": "info@tokenpost.kr"
   },
   "13Desk Meet Up": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidpueuqq7qgcx2iz32c4rm4tasyzqimrir3jha26ihqtwshciuxca.png",
     "title": "13Desk Meet Up",
     "host": "13Desk",
     "startDate": "2024-09-05",
@@ -2890,7 +2890,7 @@
     "email": "claire@nectarx.io"
   },
   "Private Growth Dinner | KBW Edition 🇰🇷": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibf3oswaepor5trncltbymsyiejnchacg5br5gqd57tokstebiwre.png",
+    "image": null,
     "title": "Private Growth Dinner | KBW Edition 🇰🇷",
     "host": "Eight Forces",
     "startDate": "2024-09-05",
@@ -2924,7 +2924,7 @@
     "email": "yura@nibiru.org"
   },
   "Success Begins with Support: Ankaa Accelerator Kick-Off": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifaoudwrti4risjuhjxegdtww7vboufokrrf3saflnsqxa2uexbhe.png",
     "title": "Success Begins with Support: Ankaa Accelerator Kick-Off",
     "host": "Ankaa Labs, Aptos, OKX Ventures, Alcove community",
     "startDate": "2024-09-05",
@@ -2934,7 +2934,7 @@
     "type": "Networking Event, Party",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJzzlcLQGifDURm_JbQKHsEX4",
     "entry": "Free (Registration required)",
     "link": "https://lu.ma/ep7yr2x2",
     "capacity": "150",
@@ -3026,7 +3026,7 @@
     "email": "marketing@gotbit.io"
   },
   "MKGA After Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiab2uw24ic22g3456ygxnvwww5d4qgvam6ecrqeggqxcawrcoqxum.png",
+    "image": null,
     "title": "MKGA After Party",
     "host": "Host : KnightFury Alliance / Kaia / Line Next",
     "startDate": "2024-09-05",
@@ -3196,7 +3196,7 @@
     "email": "info@futureplus.xyz"
   },
   "EVG presents: Cleanse your Seoul ft. DJ NewJeansNim": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreideqt2v65cv5bk7kki2wq55gsqvmxqo52wqlps7dj7whefabbjopu.png",
     "title": "EVG presents: Cleanse your Seoul ft. DJ NewJeansNim",
     "host": "EVG",
     "startDate": "2024-09-05",
@@ -3230,7 +3230,7 @@
     "email": "info@futuracanvas.com"
   },
   "Early Bird Run with Factomind #2": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigze3grmadtwxnjittoxccohhfabooerhobehh47xjrut34cquwc4.png",
     "title": "Early Bird Run with Factomind #2",
     "host": "Factomind",
     "startDate": "2024-09-06",
@@ -3240,14 +3240,14 @@
     "type": "Sport",
     "location": "Jamsil Hangang Park Basketball Court",
     "address": "1-1 Jamsil-dong, Songpa District, Seoul",
-    "placeId": null,
+    "placeId": "ChIJcUfk1JqlfDURQyPMM_tJgAw",
     "entry": "Free Entry",
     "link": "https://lu.ma/lyo6rr49",
     "capacity": "30",
     "email": "justin@factomind.io"
   },
   "Story Academy: Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihbllhjootkxtk5ao3noyneef6ag7ot5ppohl6a5okk5nvlcscaqm.png",
+    "image": null,
     "title": "Story Academy: Seoul",
     "host": "Story Protocol x Four Pillars",
     "startDate": "2024-09-06",
@@ -3257,7 +3257,7 @@
     "type": "Hacker House",
     "location": "Space S 1",
     "address": "57 Seongsui-ro 20-gil, Seoul",
-    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/6hjetf9b",
     "capacity": null,
@@ -3281,7 +3281,7 @@
     "email": "events@starknet.org"
   },
   "Solana Spectrum in Korea": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig4tj2txchb7hjtz364ugn6pf45j5qi3mmmf3yqdmou4daag6btku.png",
+    "image": null,
     "title": "Solana Spectrum in Korea",
     "host": "Fragmetric, Jito, Presto, Solana Foundation",
     "startDate": "2024-09-06",
@@ -3291,14 +3291,14 @@
     "type": "Conference, Networking",
     "location": "MARU 180",
     "address": "180 Yeoksam-ro, Gangnam District, Seoul",
-    "placeId": "ChIJ5ViS3VShfDURsAR63pWAiOA",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/3ugry39s",
     "capacity": "150",
     "email": "sonic@encryptx.io"
   },
   "Liquidity Summit 2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6yxpnt4jmawdjvgynls5nlfybiwr6bccesaaqnkhxpftfbz67xq.png",
+    "image": null,
     "title": "Liquidity Summit 2024",
     "host": "Mitosis x Google Cloud",
     "startDate": "2024-09-06",
