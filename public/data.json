@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -408,7 +408,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
+    "image": null,
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -1258,7 +1258,7 @@
     "email": "contact@injectivelabs.org"
   },
   "Play Web3": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarnrikhhdfodznttm7w55crhr7a3cbtddilf37zoneqgw76gomte.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigufe5aeluwenpq4thfhsurvkflej2pygcwj2psinui3u2rogiwwu.png",
     "title": "Play Web3",
     "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity, ZKsync",
     "startDate": "2024-09-03",
@@ -2499,7 +2499,7 @@
     "email": "contact@knightfury.io"
   },
   "Astar Evolution: New Stage": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidllxph54hbkw5qrsehqxsp5y3juoig5t5sifvwz56uggfhzlnksq.png",
     "title": "Astar Evolution: New Stage",
     "host": "Astar Network & Startale",
     "startDate": "2024-09-05",
@@ -2635,7 +2635,7 @@
     "email": "gemma.shin@mantle.xyz"
   },
   "[Monad 101] in Korea - A Tech Guide for Developers": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigeeig5diesugpywkhcbigtmhugkopm6pk34ru4p4hyecjccijfeq.png",
     "title": "[Monad 101] in Korea - A Tech Guide for Developers",
     "host": "Monad, B-Harvest",
     "startDate": "2024-09-05",
@@ -2652,7 +2652,7 @@
     "email": "jeongho.yeo@bharvest.io"
   },
   "2024 Web3 & AI Application Challenge Competition - Korea Edition": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigaiy2tlur24xcgkl432q5nykrolia63ekkabwac5btegnvrp4zoi.png",
     "title": "2024 Web3 & AI Application Challenge Competition - Korea Edition",
     "host": "AON",
     "startDate": "2024-09-05",
@@ -2662,7 +2662,7 @@
     "type": "Pitching Challenge Competition",
     "location": "Lbank Korea office",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJk3QI2_mjfDUR6AYVE1RRJqI",
     "entry": "Free Entry",
     "link": "https://lu.ma/pq9dizyr",
     "capacity": "200",
@@ -2788,7 +2788,7 @@
     "email": "riversh0215@gmail.com"
   },
   "K-RWA Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih5h72ntgfpu5jvp6xhkne4seenqpm5njkndyerbpzfjhlbfkjm6q.png",
+    "image": null,
     "title": "K-RWA Night",
     "host": "Shinhan Securities",
     "startDate": "2024-09-05",
@@ -2798,7 +2798,7 @@
     "type": "Networking Event",
     "location": "Alttap Itaewon",
     "address": "9, Itaewon-ro 19-gil, Yongsan-gu, Seoul",
-    "placeId": "ChIJ78Vg9UmifDUR_aYFDcpmuto",
+    "placeId": null,
     "entry": "Free Entry (Approval Required)",
     "link": "https://lu.ma/5drk1y4j",
     "capacity": "70",
@@ -2941,7 +2941,7 @@
     "email": "vanessaaalian@gmail.com"
   },
   "R3al World X LECCA VC Networking Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiciypihmftp7w6f22kgcjssywvqdua3rf626uhqsywhaiq5t7dbhu.png",
+    "image": null,
     "title": "R3al World X LECCA VC Networking Party",
     "host": "IoTeX x LECCA Ventures",
     "startDate": "2024-09-05",
@@ -2951,7 +2951,7 @@
     "type": "Networking, Party",
     "location": "Cociety, Seoul Forest",
     "address": "82-20, Wangsimni-ro, Seongdong-gu, Seoul",
-    "placeId": "ChIJjSY7EHalfDURaj3RdsYa3fo",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/bmgznp98",
     "capacity": "500",
@@ -3196,7 +3196,7 @@
     "email": "info@futureplus.xyz"
   },
   "EVG presents: Cleanse your Seoul ft. DJ NewJeansNim": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreideqt2v65cv5bk7kki2wq55gsqvmxqo52wqlps7dj7whefabbjopu.png",
+    "image": null,
     "title": "EVG presents: Cleanse your Seoul ft. DJ NewJeansNim",
     "host": "EVG",
     "startDate": "2024-09-05",
@@ -3230,7 +3230,7 @@
     "email": "info@futuracanvas.com"
   },
   "Early Bird Run with Factomind #2": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigze3grmadtwxnjittoxccohhfabooerhobehh47xjrut34cquwc4.png",
     "title": "Early Bird Run with Factomind #2",
     "host": "Factomind",
     "startDate": "2024-09-06",
@@ -3240,7 +3240,7 @@
     "type": "Sport",
     "location": "Jamsil Hangang Park Basketball Court",
     "address": "1-1 Jamsil-dong, Songpa District, Seoul",
-    "placeId": null,
+    "placeId": "ChIJcUfk1JqlfDURQyPMM_tJgAw",
     "entry": "Free Entry",
     "link": "https://lu.ma/lyo6rr49",
     "capacity": "30",
@@ -3536,7 +3536,7 @@
     "email": "medo@legend.tech"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
