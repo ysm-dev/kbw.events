@@ -782,7 +782,7 @@
     "email": "kevin.kim@kaia.io"
   },
   "KBW2024 Early Bird Networking Party By 071labs": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih473n27bnkothubzyqidnb5rg756ic35hlvvzo6lm6qavxul5gqu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidy66xfdm3gk5g26mje4v3l2kklx2qrvaihmsejkst2ad35nwlshm.png",
     "title": "KBW2024 Early Bird Networking Party By 071labs",
     "host": "071labs",
     "startDate": "2024-09-02",
@@ -1088,7 +1088,7 @@
     "email": "team@skygg.xyz"
   },
   "Play Forward: The Next Chapter of Web3 Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibpjuye6y5idgzaxd3y4za6pcqhf6xunuulhfrwkxjfy7aolzl3oy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiceldn64jkaxxqh4fc533hii7mxan2bmv4gqatqgzfcqhnrwocg2u.png",
     "title": "Play Forward: The Next Chapter of Web3 Gaming",
     "host": "​Planetarium Labs | Animoca Brands | Ronin Network",
     "startDate": "2024-09-03",
@@ -1122,19 +1122,19 @@
     "email": "cherry@ticker.capital"
   },
   "The Future is Perpetual": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiejooehvuciebwsl5xodj4hnput47pe73mv57jozs544pqu6qkziq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihh4waoohovqqoqlwpzipi76dwyeykup4p3i2vylnpc7evl4gfeku.png",
     "title": "The Future is Perpetual",
     "host": "Merkle Trade",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "17:00",
     "endTime": "21:00",
-    "type": "Panel Talk & Networking",
-    "location": "374 Gangnam-daero, Gangnam-gu, Seoul",
-    "address": null,
+    "type": "Networking & Panel Talks",
+    "location": "Hashed Lounge",
+    "address": "20th floor, 374 Gangnam-daero, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
-    "link": "https://lu.ma/event/manage/evt-xpCaTWFMJiCdo0l",
+    "link": "https://lu.ma/wv59vgti",
     "capacity": "200",
     "email": "admin@tauruslabs.xyz"
   },
@@ -1785,7 +1785,7 @@
     "email": "media@yala.org"
   },
   "Global Web3 Builders": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifbhplkt2uxvvles2kc7ulgvkfybxoo5vsqdt4ap5sdzphq57hbgm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidck774sa4bkrcdfls2qb23niob2vrtdsdpgj6sbwdrxftazb33ea.png",
     "title": "Global Web3 Builders",
     "host": "Web3 Society",
     "startDate": "2024-09-04",
@@ -1989,24 +1989,24 @@
     "email": "events@dwf-labs.com"
   },
   "HANGANG DIVE": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie6tqlgeinrh7snfqamkckhdnspknp5ezow4oh4leuts4sefzstoy.png",
     "title": "HANGANG DIVE",
-    "host": "HG Ventures, IOST, K300 Ventures",
-    "startDate": "2024-09-05",
-    "endDate": "2024-09-05",
+    "host": "HAVAH, FIDELION, Orderly Network, MINDFULNESS CAPITAL, MOMENTUM 6, SUPER WALK",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
     "startTime": "19:00",
-    "endTime": "00:00",
+    "endTime": "23:00",
     "type": "Networking Event, Party",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
+    "location": "Bar Floating",
+    "address": "L7 Gangnam - 10th floor, 20, Teheran-ro 63-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJd8mfptWlfDURUW2iceznbTA",
     "entry": "Invitation Only",
-    "link": "TBD",
+    "link": "https://lu.ma/gorcda8w",
     "capacity": "200",
     "email": "contact@hgventures.io"
   },
   "071labs Family Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicnerdcs3ez4zqqmedc6zwqwa7g4eyjmiddceaxxyumelt2lixobm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif75zycmh4rcgcacuz7tvehbxrufznepmykkiakputaejhezfem3u.png",
     "title": "071labs Family Party",
     "host": "071labs",
     "startDate": "2024-09-04",
@@ -2059,7 +2059,7 @@
   "Web3 Gaming Night Out": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicfgdsolgoos4gjt5742xnqbkadslszfd5ccnavirlz6335tfeztu.png",
     "title": "Web3 Gaming Night Out",
-    "host": "Delabs Games, Pixelmon, Revolving Games",
+    "host": "Delabs Games, Pixelmon, Fableborne, Gomble",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "20:00",
@@ -2069,12 +2069,12 @@
     "address": "13, Eonju-ro 174-gil, Gangnam-gu, Seoul",
     "placeId": "ChIJPwyVstmjfDUR7GsiWZDVHgo",
     "entry": "Free Entry",
-    "link": "https://lu.ma/hq46llyy",
+    "link": "https://lu.ma/hq46llyy?tk=kmvrGj",
     "capacity": "300",
     "email": "bitna@delabs.gg"
   },
   "Sahara AI Connect Party 2024 (with. Kwon Eun Bi, Dynamic Duo, Sole)": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiealb7jkabz35vgcr57mv6qqgvsawbbnkrld6ktjhm2u57k7xp72i.png",
     "title": "Sahara AI Connect Party 2024 (with. Kwon Eun Bi, Dynamic Duo, Sole)",
     "host": "Sahara AI X Aegis Ventures",
     "startDate": "2024-09-04",
@@ -2085,8 +2085,8 @@
     "location": "D.Bridge (New address)",
     "address": "B1-B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
     "placeId": null,
-    "entry": "Invitation Only",
-    "link": "TBD",
+    "entry": "RSVP Only",
+    "link": "https://lu.ma/2v9t9qia",
     "capacity": "300",
     "email": "contact@aegis.ventures"
   },
@@ -2697,7 +2697,7 @@
     "location": "D.Bridge",
     "address": "B1-B2, 9, Dosan-daero 49-gil, Gangnam-gu, Seoul",
     "placeId": null,
-    "entry": "Invitation Only",
+    "entry": "RSVP Only",
     "link": "https://lu.ma/rnyvk9ix",
     "capacity": "300",
     "email": "contact@aegis.ventures"
