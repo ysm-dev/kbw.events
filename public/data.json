@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -66,6 +66,23 @@
     "link": "http://www.techtalkcon.com/",
     "capacity": "200",
     "email": "bwhale1010@gmail.com"
+  },
+  "Bankless crypto onboarding guide": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia2gh5h7qivhqyf6z365pkkod654i5ps7exb7zbaeovix4lovuxs4.png",
+    "title": "Bankless crypto onboarding guide",
+    "host": "Bankless DAO",
+    "startDate": "2024-08-30",
+    "endDate": "2024-08-30",
+    "startTime": "18:00",
+    "endTime": "12:00",
+    "type": "TBD",
+    "location": "Online",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://daonote.notion.site/af903ac590564f0787c73d59305fcf1b",
+    "capacity": null,
+    "email": "banklessdao.korea@gmail.com"
   },
   "zkConnect Seoul": {
     "image": null,
@@ -458,10 +475,10 @@
     "capacity": null,
     "email": "rime@fractl.ca"
   },
-  "W3G KOREA": {
+  "W3GAME KOREA": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifsgd2u6lhnms2drjpslwacalnavi5jtneqbjp2topene3ordoyz4.png",
-    "title": "W3G KOREA",
-    "host": "Geda & Pomerium",
+    "title": "W3GAME KOREA",
+    "host": "Geda | Pomerium | Ticker Capital | SearchFi",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "12:00",
@@ -472,7 +489,7 @@
     "placeId": "ChIJNc_8rIGhfDURal9dqeW1_qw",
     "entry": "Free Entry",
     "link": "https://lu.ma/bs6sewjv",
-    "capacity": null,
+    "capacity": "1000",
     "email": "info@geda.gg"
   },
   "Kaia Square Lounge 2024 Day #1": {
@@ -578,7 +595,7 @@
     "email": "contact@wavebridge.com"
   },
   "Family office & Investors Summit, Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicdclfkfcyxfutcb2gxbuk76b3zpqbqwcakhgl4rihebkkmmm4f4u.png",
     "title": "Family office & Investors Summit, Seoul",
     "host": "FamilyOfficesInvestors",
     "startDate": "2024-09-02",
@@ -590,7 +607,7 @@
     "address": "TBD",
     "placeId": null,
     "entry": "RSVP for Family Offices and Investors AUM $100+ VIP Open Tickets $250",
-    "link": "https://lu.ma/dh3h0pjy",
+    "link": "https://lu.ma/FOIS_SEOUL",
     "capacity": "300",
     "email": "mananas@me.com"
   },
@@ -985,6 +1002,23 @@
     "capacity": "100",
     "email": "ian@caladan.xyz"
   },
+  "Bitcoin Renaissance": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie5zjtyddsyz5pdqd6odfsm4o2r5cshfq5hqmfukoyeim5idaghia.png",
+    "title": "Bitcoin Renaissance",
+    "host": "Babylon & AltLayer",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "type": "Conference",
+    "location": "The Raum",
+    "address": "Social Venue, 564 Eonju-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/aqm7p7pu",
+    "capacity": "500",
+    "email": "swood@babylonlabs.io"
+  },
   "Onchain Growth Hackers Brunch | KBW Edition 🇰🇷": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidhfjl2u4c6jqg54xzamfxviv55rt2myfhldth4crvwerel2dw3wq.png",
     "title": "Onchain Growth Hackers Brunch | KBW Edition 🇰🇷",
@@ -1071,7 +1105,7 @@
     "email": "andy@planetariumhq.com"
   },
   "Builder Nights Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidw2rs4gqh6dfpwb6xysynmuzrm5nkipamaiyldmnv46bz322z25e.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiemc5pzdbdclhltpnrsxqow2dhgutbyofszlf2jqkoxwxe7p7oufy.png",
     "title": "Builder Nights Seoul",
     "host": "MetaMask, Linea, Ticker Capital, AiGO and CLS ventures",
     "startDate": "2024-09-03",
@@ -1086,6 +1120,23 @@
     "link": "https://lu.ma/dhrp1j3u",
     "capacity": "300",
     "email": "cherry@ticker.capital"
+  },
+  "The Future is Perpetual": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiejooehvuciebwsl5xodj4hnput47pe73mv57jozs544pqu6qkziq.png",
+    "title": "The Future is Perpetual",
+    "host": "Merkle Trade",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "type": "Panel Talk & Networking",
+    "location": "374 Gangnam-daero, Gangnam-gu, Seoul",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/event/manage/evt-xpCaTWFMJiCdo0l",
+    "capacity": "200",
+    "email": "admin@tauruslabs.xyz"
   },
   "KBW Hash Happy Hour w/ Halborn & Sushi": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibelau4op43towxcgnilwjh34ejyncir6ylm433tnvxl5k5pv7lfe.png",
@@ -1496,7 +1547,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifvwm7dnc4bkdsun6yzmrrkvaxiomhwmjfoxo4jxlxwomiqn2al2u.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -1579,6 +1630,23 @@
     "link": "https://lu.ma/rz249np0",
     "capacity": "120",
     "email": "sarah.kim@certik.com"
+  },
+  "Worldcoin x nonce Brunch": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibk64ne3dt7b2bbehaeql3szr4v4eudnghjpmwzt47u2cb6atfmkq.png",
+    "title": "Worldcoin x nonce Brunch",
+    "host": "Worldcoin, nonce",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "type": "Hosted brunch, networking",
+    "location": "Görtz",
+    "address": "127 Gwangjang-dong, Gwangjin-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/y425wvn4",
+    "capacity": "150",
+    "email": "p@toolsforhumanity.com"
   },
   "XRPL Zone Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
@@ -1761,7 +1829,7 @@
     "type": "Keynotes & Panels, Networking Event",
     "location": "Myongwolgwan",
     "address": "Korean BBQ restaurant, Walkerhill Hotel & Resort, 177 Walkerhill-ro, Gwangjin-gu, Seoul",
-    "placeId": "ChIJi3IxpbC6fDURkVmtKHgltsM",
+    "placeId": "ChIJoSHsdB-jfDURHI4H2xmMAyo",
     "entry": "Invitation Only",
     "link": "https://lu.ma/jnxswgtw",
     "capacity": "120",
@@ -1972,7 +2040,7 @@
     "email": "events@sui.io"
   },
   "Web3 Gaming Night Out": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsaphnoiwmxdsc7x56cfiyrikxevzkiujmxnnsqymc73k4r2zek4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig65krbivs5wdliafrpxxsn5vgsgnhfosgafsddsq2pyhiwy5jzsu.png",
     "title": "Web3 Gaming Night Out",
     "host": "Delabs Games, Pixelmon, Revolving Games",
     "startDate": "2024-09-04",
@@ -2210,7 +2278,7 @@
     "email": "ayessa.lopez@halborn.com"
   },
   "Magna x Memeland x Aethir VIP Lunch at KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidephwuj4wsgzollobbxmuwguf7ymjuwyx47f5ew2pzmog25shddy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid5sigqtmms3d5jciwlp7rswvogz5dcnjvw2fd772klx2ifl2nd4e.png",
     "title": "Magna x Memeland x Aethir VIP Lunch at KBW",
     "host": "Magna, Memeland and Aethir",
     "startDate": "2024-09-05",
@@ -2379,9 +2447,9 @@
     "capacity": "75",
     "email": "shasank@hashed.com"
   },
-  "TON Community Summit KBW 2024": {
+  "TON Community Summit with Blum, Yescoin & TONX": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif7cou3zlhp7ldlkg6jjjze2vt35uacam5g662l72y5nlo6a4oyhi.png",
-    "title": "TON Community Summit KBW 2024",
+    "title": "TON Community Summit with Blum, Yescoin & TONX",
     "host": "KTON",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
