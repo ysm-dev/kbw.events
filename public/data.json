@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -340,7 +340,7 @@
     "email": "contact@x-phere.com"
   },
   "Korea Nightopia: Official KBW Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigmyh5zsb3x45yoyvpwiqhgcysfo2cwlyhywaffj7jir7sdw46nva.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiebbed57tbjv7afaz33n6nnog22sf2abanevfshxet2clnzuxfmbm.png",
     "title": "Korea Nightopia: Official KBW Opening Party",
     "host": "RaveDAO, Korea Blockchain Week, Delysium",
     "startDate": "2024-09-01",
@@ -1190,7 +1190,7 @@
     "email": "contact@injectivelabs.org"
   },
   "Play Web3": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifv7ux66sygih3fejwmj4sbv7xlawamhhgcrbvybs5yxsaylzrczu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarnrikhhdfodznttm7w55crhr7a3cbtddilf37zoneqgw76gomte.png",
     "title": "Play Web3",
     "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity, ZKsync",
     "startDate": "2024-09-03",
@@ -1988,6 +1988,23 @@
     "capacity": "150",
     "email": "events@dwf-labs.com"
   },
+  "HANGANG DIVE": {
+    "image": null,
+    "title": "HANGANG DIVE",
+    "host": "HG Ventures, IOST, K300 Ventures",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "00:00",
+    "type": "Networking Event, Party",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "TBD",
+    "capacity": "200",
+    "email": "contact@hgventures.io"
+  },
   "071labs Family Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicnerdcs3ez4zqqmedc6zwqwa7g4eyjmiddceaxxyumelt2lixobm.png",
     "title": "071labs Family Party",
@@ -2633,23 +2650,6 @@
     "link": "https://lu.ma/ertun3gh",
     "capacity": "100",
     "email": "gm@gosupernova.xyz"
-  },
-  "HANGANG DIVE": {
-    "image": null,
-    "title": "HANGANG DIVE",
-    "host": "HG Ventures, IOST, K300 Ventures",
-    "startDate": "2024-09-05",
-    "endDate": "2024-09-05",
-    "startTime": "19:00",
-    "endTime": "00:00",
-    "type": "Networking Event, Party",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": null,
-    "entry": "Invitation Only",
-    "link": "TBD",
-    "capacity": "200",
-    "email": "contact@hgventures.io"
   },
   "OG Party in Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3g6xgl76lv4hhzni73cfh6pcy3dnru2orpprib4yl73uqf5d2wy.png",
