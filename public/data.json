@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1394,7 +1394,7 @@
     "email": "lucy@ton.org"
   },
   "BURRITO WALLET & X LAYER NIGHT": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidt3u43rdyyse47le7zsyl2laiqhkwz5frpmdthmic6bndqwfqivm.png",
     "title": "BURRITO WALLET & X LAYER NIGHT",
     "host": null,
     "startDate": "2024-09-03",
@@ -1404,7 +1404,7 @@
     "type": "Party",
     "location": "Kemistry",
     "address": "Eonjuro 94gil 5, Gangnamgu, Seoul",
-    "placeId": null,
+    "placeId": "EjRTb3V0aCBLb3JlYSwg7ISc7Jq4IOqwleuCqOq1rCDslrjso7zroZw5NOq4uCA1IDIg7Li1IiEaHwoWChQKEgnJvOyzB6R8NRFr3mV7C_EkJxIFMiDsuLU",
     "entry": "Free Entry",
     "link": "https://lu.ma/5ddts18b",
     "capacity": "200",
@@ -1734,7 +1734,7 @@
     "email": "infcryptolab@gmail.com"
   },
   "Uniting Societies @KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexnkpmt3qlmatbbt6gtob7lpkkjds6nwdd5dxmfxej6lfag4pbki.png",
+    "image": null,
     "title": "Uniting Societies @KBW",
     "host": "Somnia",
     "startDate": "2024-09-04",
@@ -1744,7 +1744,7 @@
     "type": "Networking Event",
     "location": "1F 70-266, Sinpyeong-dong, Gumi, Gyeongsangbuk-do",
     "address": null,
-    "placeId": "ChIJf8VST7G6fDURQFP2o4XAYJw",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/i4nkzjgj",
     "capacity": "150",
@@ -1938,7 +1938,7 @@
     "email": "hannahds@marblex.net"
   },
   "KBW Networking & Tears - Bear Market Survival Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreietcabad7ib4t6uogq7skdimv4lh2bb57fg3s6v62s6d6ow6hrftm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib7pd5oine32otpmrks45hva6up6fykdbks4iisdsl47dkfc4d7ay.png",
     "title": "KBW Networking & Tears - Bear Market Survival Night",
     "host": "Grass x Kaito x IQ.wiki x Ignight x Credit Scend x Frax",
     "startDate": "2024-09-04",
@@ -1989,7 +1989,7 @@
     "email": "events@dwf-labs.com"
   },
   "071labs Family Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicnerdcs3ez4zqqmedc6zwqwa7g4eyjmiddceaxxyumelt2lixobm.png",
+    "image": null,
     "title": "071labs Family Party",
     "host": "071labs",
     "startDate": "2024-09-04",
@@ -1999,7 +1999,7 @@
     "type": "VIP Party & Networking",
     "location": "ARZU Cheongdam",
     "address": "30, Seolleung-ro152-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJ_V7Pj3ekfDUR0S6h23ySeLQ",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/kxpqcqlz",
     "capacity": "250+",
@@ -2278,7 +2278,7 @@
     "email": "ayessa.lopez@halborn.com"
   },
   "Magna x Memeland x Aethir VIP Lunch at KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid5sigqtmms3d5jciwlp7rswvogz5dcnjvw2fd772klx2ifl2nd4e.png",
+    "image": null,
     "title": "Magna x Memeland x Aethir VIP Lunch at KBW",
     "host": "Magna, Memeland and Aethir",
     "startDate": "2024-09-05",
@@ -2288,7 +2288,7 @@
     "type": "Networking Event",
     "location": "TBD",
     "address": "TBD",
-    "placeId": "ChIJ-4m1XyOkfDURartwxRuXMbM",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/yvp8kmzc",
     "capacity": "36",
