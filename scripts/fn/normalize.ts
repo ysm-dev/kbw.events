@@ -16,7 +16,7 @@ import { isURL } from "utils/isURL"
 import { saveImage } from "utils/saveImage"
 
 export const normalize = async (data: (string | undefined)[][]) => {
-  const a = [data[4], data[5], data[6], ...data.slice(8)]
+  const a = [data[5], data[6], data[7], ...data.slice(9)]
 
   const r = await pipe(
     a,
