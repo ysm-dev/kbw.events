@@ -36,7 +36,7 @@ export const EventDateGroup = ({ date, events }: Props) => {
           {format(parse(date, "yyyy-MM-dd", new Date()), "EEEE")}
         </span>
       </time>
-      <div className="flex flex-1 flex-col gap-4">
+      <div className="flex flex-1 flex-col gap-4 overflow-x-hidden">
         {pipe(
           events,
           sortBy((e) => e.startTime),

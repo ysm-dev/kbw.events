@@ -16,7 +16,7 @@ export const config = {
 }
 
 export const sendLog = async (log?: string) => {
-  const { enabled = isLocal() } = config
+  const { enabled = !isLocal() } = config
 
   if (!enabled) {
     return

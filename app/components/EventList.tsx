@@ -60,12 +60,12 @@ export const EventList = () => {
   const hasResults = filteredEvents.length > 0
 
   return (
-    <div className="">
+    <div className="w-full max-w-full">
       <div className="my-8 flex justify-end gap-1 text-sm sm:text-base">
         <span className="font-mono">{filteredEvents.length}</span>
         <span>Events</span>
       </div>
-      <div className="flex flex-col gap-8">
+      <div className="flex w-full max-w-full flex-col gap-8">
         {!hasResults ? (
           <div className="my-16">
             <h3 className="text-center text-lg sm:text-2xl">

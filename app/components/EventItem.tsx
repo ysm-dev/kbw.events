@@ -1,7 +1,6 @@
 "use client"
 
 import { AddToCalButton } from "app/components/AddToCalButton"
-import { ics } from "calendar-link"
 import { Image } from "components/Image"
 import { Button } from "components/ui/button"
 import { Toggle } from "components/ui/toggle"
@@ -10,15 +9,7 @@ import type { Event } from "hooks/useEvents"
 import { getUA } from "hooks/useLogging/useUA"
 import { useSavedEvents } from "hooks/useSavedEvents"
 import { highlight } from "hooks/useSearch"
-import {
-  Bookmark,
-  CalendarPlus,
-  Info,
-  MapPin,
-  Share,
-  Ticket,
-  User,
-} from "lucide-react"
+import { Bookmark, Info, MapPin, Ticket, User } from "lucide-react"
 import { useQueryState } from "nuqs"
 import { toast } from "sonner"
 
@@ -35,7 +26,7 @@ export const EventItem = ({ event: e }: Props) => {
 
   return (
     <section className="relative m-0 flex cursor-default select-none gap-2 rounded-xl border bg-secondary/50 p-3 transition hover:border-accent-foreground/50">
-      <div className="flex flex-1 flex-col overflow-hidden">
+      <div className="flex grow flex-col truncate">
         <time className="text-sm opacity-50 sm:text-base">
           {e.startTime === "00:00"
             ? `All Day`
@@ -47,9 +38,9 @@ export const EventItem = ({ event: e }: Props) => {
           {highlight(e.title, q)}
         </h2>
         {e.host && (
-          <div className="flex gap-1 overflow-hidden text-xs sm:text-sm">
+          <div className="flex gap-1 text-xs sm:text-sm">
             <span className="opacity-50">by</span>
-            <span className="line-clamp-1 text-wrap opacity-70">
+            <span className="flex-1 truncate opacity-70">
               {highlight(e.host, q)}
             </span>
           </div>
@@ -58,7 +49,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.type && e.type !== "TBD" && (
           <div className="flex h-6 items-center gap-1.5 sm:gap-2">
             <Info className="aspect-square size-3.5 opacity-50 sm:size-4" />
-            <span className="line-clamp-1 flex-1 text-sm opacity-50 sm:text-base">
+            <span className="flex-1 truncate text-sm opacity-50 sm:text-base">
               {highlight(e.type, q)}
             </span>
           </div>
@@ -66,7 +57,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.location && e.location !== "TBD" ? (
           <Button
             variant="link"
-            className="z-10 h-6 w-full justify-start gap-1.5 self-start px-0 py-0 text-foreground hover:no-underline sm:gap-2"
+            className="z-10 h-6 max-w-full justify-start gap-1.5 self-start px-0 py-0 text-foreground hover:no-underline sm:gap-2"
             asChild
           >
             <a
@@ -78,8 +69,8 @@ export const EventItem = ({ event: e }: Props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <MapPin className="aspect-square size-3.5 min-h-3.5 min-w-3.5 opacity-50 hover:opacity-100 sm:size-4" />
-              <span className="grow truncate font-normal text-sm opacity-50 hover:opacity-100 sm:text-base">
+              <MapPin className="aspect-square size-3.5 min-h-3.5 min-w-3.5 opacity-50 hover:opacity-100 sm:size-4 sm:min-h-4 sm:min-w-4" />
+              <span className="flex-1 truncate font-normal text-sm opacity-50 hover:opacity-100 sm:text-base">
                 {highlight(e.location, q)}
               </span>
             </a>
@@ -87,7 +78,7 @@ export const EventItem = ({ event: e }: Props) => {
         ) : (
           <div className="flex h-6 items-center gap-1.5 sm:gap-2">
             <MapPin className="aspect-square size-3.5 min-h-3.5 min-w-3.5 opacity-50 sm:size-4" />
-            <span className="grow truncate text-sm opacity-50 sm:text-base">
+            <span className="flex-1 truncate text-sm opacity-50 sm:text-base">
               {e.location ? highlight(e.location, q) : "TBD"}
             </span>
           </div>
@@ -95,7 +86,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.entry && e.entry !== "TBD" && (
           <div className="flex h-6 items-center gap-1.5 sm:gap-2">
             <Ticket className="aspect-square size-3.5 opacity-50 sm:size-4" />
-            <span className="line-clamp-1 flex-1 text-sm opacity-50 sm:text-base">
+            <span className="flex-1 truncate text-sm opacity-50 sm:text-base">
               {highlight(e.entry, q)}
             </span>
           </div>
@@ -103,7 +94,7 @@ export const EventItem = ({ event: e }: Props) => {
         {e.capacity && e.capacity !== "TBD" && (
           <div className="flex h-6 items-center gap-1.5 sm:gap-2">
             <User className="aspect-square size-3.5 opacity-50 sm:size-4" />
-            <span className="line-clamp-1 flex-1 font-mono text-sm opacity-50 sm:text-base">
+            <span className="flex-1 truncate font-mono text-sm opacity-50 sm:text-base">
               {e.capacity.replaceAll(" ", "")}
             </span>
           </div>
@@ -135,7 +126,7 @@ export const EventItem = ({ event: e }: Props) => {
         </div>
         {e.image && (
           <Image
-            className="aspect-square size-24 overflow-hidden rounded-lg object-cover sm:size-32"
+            className="aspect-square size-24 min-h-24 min-w-24 overflow-hidden rounded-lg object-cover sm:size-32 sm:min-h-32 sm:min-w-32"
             src={e.image}
             width={200}
             height={200}
@@ -147,7 +138,7 @@ export const EventItem = ({ event: e }: Props) => {
       <a
         href={hasLink ? e.link! : undefined}
         target={hasLink ? "_blank" : "_self"}
-        className="absolute h-full w-full"
+        className="absolute inset-0 h-full w-full"
         rel="noopener noreferrer"
         onClick={() => {
           if (!hasLink) {
