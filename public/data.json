@@ -764,6 +764,23 @@
     "capacity": "800",
     "email": "jake@icpkor.com"
   },
+  "Interwoven Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiasz5objciul63tmshaxuk4764anzibykuj2cd52ppvyydamiyaxm.png",
+    "title": "Interwoven Dinner",
+    "host": "Initia, MilkyWay, Zellic, Xangle, Flow Traders",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Private Dinner",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/cgwb1gme",
+    "capacity": "60",
+    "email": "mista@initia.xyz"
+  },
   "WEB3 FIESTA - W3G KOREA NIGHT EDITION": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiacyjopphr7rna5y46ren5ujxdttbkrxxypbcvdouok6hgveturfy.png",
     "title": "WEB3 FIESTA - W3G KOREA NIGHT EDITION",
@@ -1580,6 +1597,23 @@
     "capacity": "200",
     "email": "rhee@moondancelabs.com"
   },
+  "Taiko KBW Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidsuij3323abdv4bbt5p7ih7bwuimpue5hz62sgribeooyywywxcy.png",
+    "title": "Taiko KBW Party",
+    "host": "Taiko",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "22:00",
+    "endTime": "02:00",
+    "type": "Party",
+    "location": "VITA APGU",
+    "address": "53 Eonju-ro 172-gil, Gangnam District, Seoul",
+    "placeId": null,
+    "entry": "Raffle Ticket: Ξ 0.002",
+    "link": "https://lu.ma/x46k6w3p",
+    "capacity": "200",
+    "email": "ben@taiko.xyz"
+  },
   "Play Web3 Daytime Lounge": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiev374zzp6rlr6q4rxm3o2q3jcp4nq6ef7xwstl4vkjjn5lqihgne.png",
     "title": "Play Web3 Daytime Lounge",
@@ -1834,6 +1868,23 @@
     "link": "https://events.xrplresources.org/xrpl-zone-seoul?utm_medium=KBWsideevent",
     "capacity": "300",
     "email": "events@ripple.com"
+  },
+  "Initia Gaming Tournament": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihrsgjeioygzf4w5lh6bidqyceg5v2o5mek24usbsnl3tr5sp5aji.png",
+    "title": "Initia Gaming Tournament",
+    "host": "Initia, Skip, Four Pillars, Blackwing",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "type": "Gaming and Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/zacs7f76",
+    "capacity": "40",
+    "email": "mista@initia.xyz"
   },
   "MemeCore & OKX Pheromone Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie2mktctqrcqnd5a3plwqs22nzpn4t3vkagqeoyoktey5rxb3ss3e.png",
@@ -2123,6 +2174,23 @@
     "link": "https://lu.ma/mla3lmdb",
     "capacity": "150",
     "email": "jake.c@whitewater.capital"
+  },
+  "\"Scroll Up! Happy Hour": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieqhswsp3dbcjyl5ggs4xxy5pp6le67ev63w6l66ddgxh547auxpq.png",
+    "title": "\"Scroll Up! Happy Hour",
+    "host": "Powered by Scribe and Scroll\"",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Networking Event",
+    "location": "BDBD Lounge Bar",
+    "address": "67-2, Itaewon-dong, Yongsan-gu, Seoul",
+    "placeId": "ChIJUxJhRS-jfDURD0wjDDH5KQk",
+    "entry": "Free for Scribe LP position holder",
+    "link": "https://lu.ma/aq2x2u07",
+    "capacity": null,
+    "email": "bobaphat@scribe.exchange"
   },
   "Game On, Chain On": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigtydoqclv3ydkocnblvtjeq6v5ljs4sd7wghy4bzhbzpa3wfbzgu.png",
@@ -2652,7 +2720,7 @@
     "email": "jeongho.yeo@bharvest.io"
   },
   "2024 Web3 & AI Application Challenge Competition - Korea Edition": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigaiy2tlur24xcgkl432q5nykrolia63ekkabwac5btegnvrp4zoi.png",
     "title": "2024 Web3 & AI Application Challenge Competition - Korea Edition",
     "host": "AON",
     "startDate": "2024-09-05",
@@ -2662,7 +2730,7 @@
     "type": "Pitching Challenge Competition",
     "location": "Lbank Korea office",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJk3QI2_mjfDUR6AYVE1RRJqI",
     "entry": "Free Entry",
     "link": "https://lu.ma/pq9dizyr",
     "capacity": "200",
@@ -2686,7 +2754,7 @@
     "email": "cryptosupport@bloomingbit.io"
   },
   "Dev Stop: KBW 2024": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidjb4vdwyhkjazbwdjpkv3jpuv5dzdddq6nx7nftdfiioz2q3hbwq.png",
     "title": "Dev Stop: KBW 2024",
     "host": "Polygon Labs & Circle",
     "startDate": "2024-09-05",
@@ -2696,7 +2764,7 @@
     "type": "Workshop, Talks, Networking event",
     "location": "​Boutique Monaco Museum",
     "address": "​397, Seocho-daero, Seocho-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJxdb1WLyhfDURBsrst-puz8U",
     "entry": "Free Entry",
     "link": "https://lu.ma/iuf3treb",
     "capacity": "100",
@@ -2975,7 +3043,7 @@
     "email": "erik@storyprotocol.xyz"
   },
   "CoinW Exclusive VIP Afterparty - Korea Blockchain Week (KBW)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigj3jdnnueil75lqxr7yv2zwdbgdxqg3lecjl4jxak5w3m7lzc3ia.png",
+    "image": null,
     "title": "CoinW Exclusive VIP Afterparty - Korea Blockchain Week (KBW)",
     "host": "CoinW",
     "startDate": "2024-09-05",
@@ -2985,14 +3053,14 @@
     "type": "Networking Event / Party",
     "location": "Bellevue 벨뷰 D’or Bar & Terrace",
     "address": null,
-    "placeId": "ChIJ_V7Pj3ekfDURdKQmEYJ7SaY",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/bo9zfl5b",
     "capacity": "250",
     "email": "Andrew_White@Legend.tech"
   },
   "Supernova Cocktails + Disco": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wlb4kh75lekitfsqetwmplrqw2zlr3f33ja6klkvv2nezqwbga.png",
+    "image": null,
     "title": "Supernova Cocktails + Disco",
     "host": "Supernova",
     "startDate": "2024-09-05",
@@ -3009,7 +3077,7 @@
     "email": "gm@gosupernova.xyz"
   },
   "OG Party in Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3g6xgl76lv4hhzni73cfh6pcy3dnru2orpprib4yl73uqf5d2wy.png",
+    "image": null,
     "title": "OG Party in Seoul",
     "host": "Gotbit",
     "startDate": "2024-09-05",
@@ -3019,14 +3087,14 @@
     "type": "Networking Event, Party",
     "location": "People The Terrace",
     "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJVxLRrXukfDURHh6aVnEgWbs",
+    "placeId": null,
     "entry": "Free-Invite Only",
     "link": "https://lu.ma/OGpartySeoul",
     "capacity": "200",
     "email": "marketing@gotbit.io"
   },
   "MKGA After Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiab2uw24ic22g3456ygxnvwww5d4qgvam6ecrqeggqxcawrcoqxum.png",
+    "image": null,
     "title": "MKGA After Party",
     "host": "Host : KnightFury Alliance / Kaia / Line Next",
     "startDate": "2024-09-05",
@@ -3060,7 +3128,7 @@
     "email": "contact@aegis.ventures"
   },
   "Fragmetric X Backpack Rendezvous Powered by Presto": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreickffiyikhwcrhdnwij62ulhjxp6f6vntjt25p7fyl7bmere2lwai.png",
+    "image": null,
     "title": "Fragmetric X Backpack Rendezvous Powered by Presto",
     "host": "Fragmetric, Backpack, Presto",
     "startDate": "2024-09-05",
@@ -3070,7 +3138,7 @@
     "type": "Party",
     "location": "Avécque",
     "address": "823, Cheongdam, Gangnam District, Seoul",
-    "placeId": "ChIJLa2wIcijfDUR0oCbGSc9kxE",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/qpeqnpln",
     "capacity": "200",
@@ -3111,7 +3179,7 @@
     "email": "info@futuracanvas.com"
   },
   "Times ft. Hack VC, Berachain, Movement": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigfvne24ytehfz5eincimq45hzkzcvond3dvaock5nhuqlyvhesuq.png",
+    "image": null,
     "title": "Times ft. Hack VC, Berachain, Movement",
     "host": "Hack VC, Berachain, Movement, EthSign",
     "startDate": "2024-09-05",
@@ -3162,7 +3230,7 @@
     "email": "start2002great@gmail.com"
   },
   "Linea Eco : Web3 Meets Media Art - KBW 2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiao7232bfspy6uxqi4zbawmjokd2vcueqjez5t7qx3lfwdwwhdsyu.png",
+    "image": null,
     "title": "Linea Eco : Web3 Meets Media Art - KBW 2024",
     "host": "Yooldo, Consensys Scale, Linea",
     "startDate": "2024-09-05",
