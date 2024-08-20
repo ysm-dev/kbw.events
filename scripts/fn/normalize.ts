@@ -1,6 +1,7 @@
 import {
   concurrent,
   entries,
+  filter,
   indexBy,
   map,
   pipe,
@@ -22,6 +23,7 @@ export const normalize = async (data: (string | undefined)[][]) => {
     a,
     toAsync,
     map(norm),
+    filter(({ title }) => !!title),
     concurrent(50),
     toArray,
     indexBy((i) => i.title),
@@ -121,9 +123,9 @@ const getImage = async (
   return null
 }
 
-const getTitle = (row: (string | undefined)[]): string => {
+const getTitle = (row: (string | undefined)[]): string | null => {
   if (!row[1] || !row[1].split("\n")[0]) {
-    throw new Error("Title is required")
+    return null
   }
 
   return row[1].split("\n")[0]
