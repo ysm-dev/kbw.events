@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -425,7 +425,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -1343,7 +1343,7 @@
     "email": "admin@tauruslabs.xyz"
   },
   "KBW Hash Happy Hour w/ Halborn & Sushi": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif5remo3to6dstkczeiidwu4r6l5o4eyhbqnzm36nat2uo75u75um.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigujkdffxzbddpf47lhqts74s4ua5s6lhrkcs5guzd47xiwt327r4.png",
     "title": "KBW Hash Happy Hour w/ Halborn & Sushi",
     "host": "Halborn, Sushi",
     "startDate": "2024-09-03",
@@ -1751,7 +1751,7 @@
     "email": "rhee@moondancelabs.com"
   },
   "Taiko KBW Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicjqx7nq4jplnnyyb6c6z5lhcijkj2yllffh6qyeoqxl3r6v7ovbe.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibb6y7mtlwwqfomin3iqgf7espgaw6i6fnpsdiwkggdc26guhw23a.png",
     "title": "Taiko KBW Party",
     "host": "Taiko",
     "startDate": "2024-09-03",
@@ -2499,7 +2499,7 @@
     "email": "marilynquan1121@gmail.com"
   },
   "DWF Labs Haus: Korea Blockchain Week": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie2staopwmssgd7qrgcbxowppcnid6tvhx3pe5jr5sipb2xgig6sy.png",
+    "image": null,
     "title": "DWF Labs Haus: Korea Blockchain Week",
     "host": "DWF Labs",
     "startDate": "2024-09-04",
@@ -2584,7 +2584,7 @@
     "email": "seono@071labs.io"
   },
   "MemeCore & OKX Pheromone EDM Party": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifhfrysdlaijuy2omyype6563zgirptf2mimfpvycgghcbadizcvm.png",
     "title": "MemeCore & OKX Pheromone EDM Party",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -2594,7 +2594,7 @@
     "type": "EDM Party",
     "location": "Some Solvit",
     "address": "2085-14 Olympic-daero, Seocho District, Seoul",
-    "placeId": null,
+    "placeId": "ChIJoVjcG4GhfDURm9Byxw2-jrI",
     "entry": "Free Entry",
     "link": "https://lu.ma/kx0vle3l",
     "capacity": "700",
@@ -2618,7 +2618,7 @@
     "email": "events@sui.io"
   },
   "Web3 Gaming Night Out": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidpdaihwkb2fhy2qwnm2qpiabzsgsh4p55qsmruzuzo4ppena7m3e.png",
     "title": "Web3 Gaming Night Out",
     "host": "Delabs Games, Pixelmon, Fableborne, Gomble",
     "startDate": "2024-09-04",
@@ -2628,7 +2628,7 @@
     "type": "Party",
     "location": "Six Night",
     "address": "13, Eonju-ro 174-gil, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJPwyVstmjfDUR7GsiWZDVHgo",
     "entry": "Free Entry",
     "link": "https://lu.ma/hq46llyy?tk=kmvrGj",
     "capacity": "300",
@@ -2652,7 +2652,7 @@
     "email": "events@metis.io"
   },
   "IPFi Afterparty": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifph2hfmbotsj4tl2xsrmewmsz2kdcnaicgqgu32mskduecokqdqe.png",
     "title": "IPFi Afterparty",
     "host": "Story Protocol",
     "startDate": "2024-09-04",
@@ -2662,7 +2662,7 @@
     "type": "Party",
     "location": "Space S 1",
     "address": "57 Seongsui-ro 20-gil, Seoul",
-    "placeId": null,
+    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
     "entry": "Join by request",
     "link": "https://lu.ma/0qzly416",
     "capacity": null,
@@ -2720,7 +2720,7 @@
     "email": "contact@epochsummit.com"
   },
   "Co-working at StarkSpace- Thursday": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifel3eesjzomafn4haktskhb6vcbfkujb64i3yv7hzhgae7mtbkse.png",
     "title": "Co-working at StarkSpace- Thursday",
     "host": "Starknet Foundation",
     "startDate": "2024-09-05",
@@ -2730,14 +2730,14 @@
     "type": "Co-working",
     "location": "1209 Coffee & Bakery",
     "address": "709, Eonju-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJzwbZgyyjfDUR5ylpiui_h2k",
     "entry": "Free Entry",
     "link": "https://lu.ma/31m07nj0",
     "capacity": "200",
     "email": "events@starknet.org"
   },
   "CrossFit Hangover Busters with Factomind": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigqg4aotrtgrg36mmyu5q7j732mthn57qmdrmkfpw4ngu773syvxq.png",
     "title": "CrossFit Hangover Busters with Factomind",
     "host": "Factomind",
     "startDate": "2024-09-05",
@@ -2805,7 +2805,7 @@
     "email": "cody.muro@startale.com"
   },
   "Punks Brunch 2024": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifhra7vx7sis6kdby6sv3xdis5jcaxqvyz7hbmvdgmoetixbvi6ly.png",
     "title": "Punks Brunch 2024",
     "host": "Punk DAO, Yuga Labs",
     "startDate": "2024-09-05",
@@ -2873,7 +2873,7 @@
     "email": "seono@071labs.io"
   },
   "Bitcoin Brunch @ KBW with Halborn": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigly7gwktomlbvkubws7y3lhbhxb52deeyvsp7svvggahzv25itlu.png",
     "title": "Bitcoin Brunch @ KBW with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-05",
@@ -2883,14 +2883,14 @@
     "type": "Networking",
     "location": "Görtz",
     "address": "127 Gwangjang-dong, Gwangjin-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJOaa5-7O6fDUR3G48vbHqlNA",
     "entry": "Free Entry",
     "link": "https://lu.ma/mpjfku8y",
     "capacity": null,
     "email": "ayessa.lopez@halborn.com"
   },
   "Magna x Memeland x Aethir VIP Lunch at KBW": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid5sigqtmms3d5jciwlp7rswvogz5dcnjvw2fd772klx2ifl2nd4e.png",
     "title": "Magna x Memeland x Aethir VIP Lunch at KBW",
     "host": "Magna, Memeland and Aethir",
     "startDate": "2024-09-05",
@@ -2900,14 +2900,14 @@
     "type": "Networking Event",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJ-4m1XyOkfDURartwxRuXMbM",
     "entry": "Invitation Only",
     "link": "https://lu.ma/yvp8kmzc",
     "capacity": "36",
     "email": "wesley@magna.so"
   },
   "REVELATIONS PODCAST": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreickw6huvif3pq3wm4yqddawtyagmfpxv7nn6ynryp2zfwaqvyusni.png",
+    "image": null,
     "title": "REVELATIONS PODCAST",
     "host": "JULS",
     "startDate": "2024-09-05",
@@ -2917,14 +2917,14 @@
     "type": "Offline Podcast",
     "location": "TBD",
     "address": "TBD",
-    "placeId": "ChIJm7oRy-tVZDURS9uIugCbJJE",
+    "placeId": null,
     "entry": "$50",
     "link": "https://lu.ma/nyq4jbme",
     "capacity": "100",
     "email": "jukayaku@gmail.com"
   },
   "UP ONLY!": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibw7i7hy32rizn5dayl5bipjkv2ofl4xt5nkbrwly26sdvxl3aqqi.png",
+    "image": null,
     "title": "UP ONLY!",
     "host": "Mantle,Four pillars,Certik,Vertex",
     "startDate": "2024-09-05",
@@ -2934,14 +2934,14 @@
     "type": "Networking Event",
     "location": "21, Teheran-ro 8-gil, Gangnam-gu",
     "address": null,
-    "placeId": "ChIJe6NQpHihfDURPqhWiAJrYTo",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/vxgb0f8i",
     "capacity": "100",
     "email": "gemma.shin@mantle.xyz"
   },
   "[Monad 101] in Korea - A Tech Guide for Developers": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigeeig5diesugpywkhcbigtmhugkopm6pk34ru4p4hyecjccijfeq.png",
+    "image": null,
     "title": "[Monad 101] in Korea - A Tech Guide for Developers",
     "host": "Monad, B-Harvest",
     "startDate": "2024-09-05",
@@ -2958,7 +2958,7 @@
     "email": "jeongho.yeo@bharvest.io"
   },
   "2024 Web3 & AI Application Challenge Competition - Korea Edition": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigaiy2tlur24xcgkl432q5nykrolia63ekkabwac5btegnvrp4zoi.png",
+    "image": null,
     "title": "2024 Web3 & AI Application Challenge Competition - Korea Edition",
     "host": "AON",
     "startDate": "2024-09-05",
@@ -2968,14 +2968,14 @@
     "type": "Pitching Challenge Competition",
     "location": "Lbank Korea office",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": "ChIJk3QI2_mjfDUR6AYVE1RRJqI",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/pq9dizyr",
     "capacity": "200",
     "email": "TBD"
   },
   "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigt3cabjujdwgek5v2wy5jfxpmpsfmc2m2cs7syp473uxw3aqesn4.png",
+    "image": null,
     "title": "Korean Crypto Exchange Law 101 (with Upbit, Bithumb, Lee&Ko)",
     "host": "Bloomingbit",
     "startDate": "2024-09-05",
@@ -2985,7 +2985,7 @@
     "type": "Networking Event, Conference",
     "location": "VOCO Seoul Gangnam",
     "address": "​144 Dosan daero, Gangnam-gu, Seoul",
-    "placeId": "ChIJjRb8DuyjfDUR8I9kgSd9LDA",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/156h19mg",
     "capacity": "300",
@@ -3213,7 +3213,7 @@
     "email": "m@eightforces.com"
   },
   "KBW Symposium: Advancing AI and Ecosystem": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibd4zq64s6b6haxmwbghideb2p3jzr2njrgn6c536qwmfydzak7qq.png",
     "title": "KBW Symposium: Advancing AI and Ecosystem",
     "host": "IQ.Wiki Frax Finance Nibiru Chain",
     "startDate": "2024-09-05",
@@ -3264,7 +3264,7 @@
     "email": "nate@leccaventures.com"
   },
   "Infinite Window: Sekai x Azuki": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih7x3a3e7faxrdhkuj5pv4mdoup2prskhchvhp7njhhnhguw6y7cm.png",
+    "image": null,
     "title": "Infinite Window: Sekai x Azuki",
     "host": "Story Protocol x Sekai x Azuki",
     "startDate": "2024-09-05",
@@ -3274,7 +3274,7 @@
     "type": "Party",
     "location": "Space S 1",
     "address": "57 Seongsui-ro 20-gil, Seoul",
-    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "placeId": null,
     "entry": "Join by request",
     "link": "https://lu.ma/sekaiazuki",
     "capacity": null,
@@ -3298,7 +3298,7 @@
     "email": "Andrew_White@Legend.tech"
   },
   "Supernova Cocktails + Disco": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wlb4kh75lekitfsqetwmplrqw2zlr3f33ja6klkvv2nezqwbga.png",
+    "image": null,
     "title": "Supernova Cocktails + Disco",
     "host": "Supernova",
     "startDate": "2024-09-05",
@@ -3315,7 +3315,7 @@
     "email": "gm@gosupernova.xyz"
   },
   "OG Party in Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3g6xgl76lv4hhzni73cfh6pcy3dnru2orpprib4yl73uqf5d2wy.png",
+    "image": null,
     "title": "OG Party in Seoul",
     "host": "Gotbit",
     "startDate": "2024-09-05",
@@ -3325,7 +3325,7 @@
     "type": "Networking Event, Party",
     "location": "People The Terrace",
     "address": "13, Dosan-daero 81-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJVxLRrXukfDURHh6aVnEgWbs",
+    "placeId": null,
     "entry": "Free-Invite Only",
     "link": "https://lu.ma/OGpartySeoul",
     "capacity": "200",
@@ -3876,7 +3876,7 @@
     "email": "medo@legend.tech"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
