@@ -271,8 +271,8 @@
     "Kkanbu Chicken Cheongdam\n16 Dosan-daero 58-gil, Gangnam District, Seoul",
     "Free Entry",
     "https://lu.ma/ChickenandBeer",
-    null,
-    null
+    "250",
+    "joe.chen@movementlabs.xyz"
   ],
   [
     "Sep 1",
@@ -1112,17 +1112,6 @@
   ],
   [
     "Sep 3",
-    "Seoul's Web3 Unplugged\nMovement",
-    "7PM - 11PM",
-    "Networking",
-    "TBD",
-    "Invitation Only",
-    "https://lu.ma/seoulweb3unplugged",
-    null,
-    null
-  ],
-  [
-    "Sep 3",
     "HypeSurge: Builders' Mixer\nHypeLabs & SURGENCE",
     "7PM - 10:30PM",
     "Networking Event",
@@ -1681,6 +1670,17 @@
     "https://lu.ma/ydqscydn",
     "N/A",
     "erik@storyprotocol.xyz"
+  ],
+  [
+    "Sep 4",
+    "Seoul's Web3 Unplugged\nMovement",
+    "7PM - 11PM",
+    "Networking",
+    "TBD",
+    "Invitation Only",
+    "https://lu.ma/seoulweb3unplugged",
+    "250",
+    "joe.chen@movementlabs.xyz"
   ],
   [
     "Sep 4",
