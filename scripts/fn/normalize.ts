@@ -11,7 +11,7 @@ import {
 import { format } from "date-fns"
 import { parse } from "date-format-parse"
 import ogs from "open-graph-scraper"
-import { getLumaInfo } from "scripts/fn/getLumaInfo"
+import { getMemoizedLumaInfo } from "scripts/fn/getLumaInfo"
 import { isLumaPage } from "utils/isLumaPage"
 import { isURL } from "utils/isURL"
 import { saveImage } from "utils/saveImage"
@@ -86,7 +86,7 @@ const getImage = async (
   if (isURL(link)) {
     if (isLumaPage(link)) {
       const id = new URL(link).pathname.split("/")[1]
-      const luma = await getLumaInfo(id)
+      const luma = await getMemoizedLumaInfo(id)
 
       if (!luma) {
         return null
@@ -166,7 +166,7 @@ const getPlaceId = async (
 
   if (isURL(link) && isLumaPage(link)) {
     const id = new URL(link).pathname.split("/")[1]
-    const luma = await getLumaInfo(id)
+    const luma = await getMemoizedLumaInfo(id)
 
     if (!luma) {
       return null

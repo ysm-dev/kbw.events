@@ -1,12 +1,14 @@
 import { memoize } from "@fxts/core"
+import { hopFetch } from "scripts/fn/hopFetch"
 
-export const getLumaInfo = memoize(async (id: string): Promise<Data | null> => {
-  const res = await fetch(`https://api.lu.ma/url?url=${id}`)
+const getLumaInfo = async (id: string, retry = 0): Promise<Data | null> => {
+  const url = `https://api.lu.ma/url?url=${id}`
+  const res = await (retry === 0 ? fetch(url) : hopFetch(url))
 
   // retry on 429
   if (res.status === 429) {
-    console.log(`${id} retrying...`)
-    return await getLumaInfo(id)
+    console.log(`${id} retrying... ${retry}`)
+    return await getLumaInfo(id, 1)
   }
 
   if (!res.ok) {
@@ -17,7 +19,9 @@ export const getLumaInfo = memoize(async (id: string): Promise<Data | null> => {
   const json: R = await res.json()
 
   return json.data
-})
+}
+
+export const getMemoizedLumaInfo = memoize(getLumaInfo)
 
 export interface R {
   kind: string
