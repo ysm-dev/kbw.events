@@ -1,9 +1,16 @@
 import { memoize } from "@fxts/core"
 
-export const getLumaInfo = memoize(async (id: string) => {
+export const getLumaInfo = memoize(async (id: string): Promise<Data | null> => {
   const res = await fetch(`https://api.lu.ma/url?url=${id}`)
 
+  // retry on 429
+  if (res.status === 429) {
+    console.log(`${id} retrying...`)
+    return await getLumaInfo(id)
+  }
+
   if (!res.ok) {
+    console.log(`${id} not found`)
     return null
   }
 
