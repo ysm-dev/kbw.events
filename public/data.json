@@ -357,7 +357,7 @@
     "email": "birchnut@adventuregold.org"
   },
   "Rooftop Party": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidbguol2ix4xacwx6o32q3kvuhsqttcyxzvoznxfnbp5tdszv3hcu.png",
     "title": "Rooftop Party",
     "host": "ICP HUB Korea, GamerHash AI, CoinEasy",
     "startDate": "2024-09-01",
@@ -367,7 +367,7 @@
     "type": "Networking Event, Party",
     "location": "People the Terrace",
     "address": "Dosan-daero 81-gil-13, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJdczTGA-lfDURTFTsmmlI1OM",
     "entry": "Free Entry",
     "link": "https://lu.ma/rooftoppartykbw",
     "capacity": "200",
@@ -1071,7 +1071,7 @@
     "email": "yoonlee@tiger-research.com"
   },
   "Avalanche Lodge | Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigi6hjvuothbzwp45vi4oblde6s4ur5dmthhbson4idtjdmyva7ni.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreide5ibxi5ikpyvvteiff4ipfiediv6aitcb3up3zcicvx62vxvkf4.png",
     "title": "Avalanche Lodge | Seoul",
     "host": "Avalanche",
     "startDate": "2024-09-02",
@@ -1394,7 +1394,7 @@
     "email": "loganlim@prestolabs.io"
   },
   "Games: Portal to Web3": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigacqcs6xkr3gzkcy6aeoyus5szywu7oyywmy2pir6y7kcgiav6gm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig56mkrg2ckmqlfstkng4nnxnnivctqxewwmuc2c5aca2tbxwd534.png",
     "title": "Games: Portal to Web3",
     "host": "SKYGG X YGG",
     "startDate": "2024-09-03",
