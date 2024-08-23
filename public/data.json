@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -645,6 +645,23 @@
     "capacity": "200",
     "email": "giwook@doorlabs.io"
   },
+  "Social Hour with Clase Azul Tasting": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiccmqvrb74m5kmad76bt5nyj3dhdglnerhqbv75qy3ypd7phuis4m.png",
+    "title": "Social Hour with Clase Azul Tasting",
+    "host": "SphereX ★ Nubila ★ PoPP",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "type": "Networking Event (Tequila Tasting)",
+    "location": "Apgujeong Hanryang (압구정한량)",
+    "address": "B1, Sinsa-dong 657-38, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/clase_azul",
+    "capacity": "30",
+    "email": "jong@sojudao.xyz"
+  },
   "INFRA DAY": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigbmnizo6flgbf5njedo5gglg4qvdhocsmacbbykelwroydnkdiri.png",
     "title": "INFRA DAY",
@@ -678,6 +695,23 @@
     "link": "https://lu.ma/deaikbw",
     "capacity": "100",
     "email": "jake@icpkor.com"
+  },
+  "Web3 Data Dance: Analyze, Build, and Connect!": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibiudb2uejtmnxnxc4lbqin3hqimgbh7cc5j5kfhxg7fy5cy6hkj4.png",
+    "title": "Web3 Data Dance: Analyze, Build, and Connect!",
+    "host": "Nodit (Lambda256)",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "type": "Builder House, Panel Discussions, Networking Event",
+    "location": "B1, 13, Yeonmujang 7-gil, Seongdong-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJG0ARzlGlfDURQCFN6sYF_MQ",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/dz9ol5fy",
+    "capacity": "150 - 200",
+    "email": "nodit@lambda256.io"
   },
   "Golden Wave": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibvjwg633dyezzkcr3caxz7rqlr6h4moimmsf45mfcet7ch62vt6e.png",
@@ -799,7 +833,7 @@
     "email": "jiji.chung@iskra.world"
   },
   "Futureverse Vibe": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigstqjbhcrig3g4vt7fhdlxgdb423lul7waez6kcgk3qa2jiocm3q.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6dryl2zmr3dckzhzwgis6xaljkq5qo2p3eayop4q2v43i3vho2m.png",
     "title": "Futureverse Vibe",
     "host": "Catalyze Research / Futureverse / Pundi X",
     "startDate": "2024-09-02",
@@ -1086,6 +1120,23 @@
     "link": "https://lu.ma/6gyscfqd",
     "capacity": "20",
     "email": "m@eightforces.com"
+  },
+  "KBW: Poison Fish Dinner 💀": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic3624zvkfvjgog44hohrcgdqeazzfegwjtp67xilktl7tmhxa3mm.png",
+    "title": "KBW: Poison Fish Dinner 💀",
+    "host": "Keplr Wallet",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "type": "Private Dinner",
+    "location": "Register to see Address",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/synwghc0",
+    "capacity": "20",
+    "email": "jee@chainapsis.com"
   },
   "Kaia Square Lounge 2024 Networking Night #1": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiazpc7ga2vzp65t42i3wr6vrpyvwaw7npoqhft6v2zfgq6iw4pzzi.png",
@@ -1547,7 +1598,7 @@
     "email": "TBD"
   },
   "S Rank : Leveling Anime & Collector Culture": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigvkhtekfna6ciptpoq6rlppwadgo3ga7pjjgegl4ierdmkwoe5y4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid7mxe2e7wq3x5sqcue5dq5a6sp4zcytvzdea3omstca7svjgeg2u.png",
     "title": "S Rank : Leveling Anime & Collector Culture",
     "host": "Otherworld x San FranTokyo x Mocaverse x Anime Foundation",
     "startDate": "2024-09-03",
@@ -3535,6 +3586,23 @@
     "capacity": "200",
     "email": "jeff@despread.io"
   },
+  "Optimisitic Beasts | KBW Night Bash": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib53cakx42ebz3mdkp7gjvwrhnelr7ray2agr4nalpm2dro7blwuq.png",
+    "title": "Optimisitic Beasts | KBW Night Bash",
+    "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Netowrk/ W3B Global",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "20:00",
+    "endTime": "00:00",
+    "type": "Networking Party",
+    "location": "CheongDam",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pbkhwu0o",
+    "capacity": null,
+    "email": "andrew@kim.exchange"
+  },
   "Art Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzum6hy7bqma3a4j73czxb6je3oz3lexkluba2u43p5jclgdzwcm.png",
     "title": "Art Night",
@@ -3722,6 +3790,23 @@
     "capacity": "200",
     "email": "events@starknet.org"
   },
+  "TON Discovery Day": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigwokfvg2ikdpu2id3cxx5a5a2uzej4vyygaikn5buh2yaqiesubu.png",
+    "title": "TON Discovery Day",
+    "host": null,
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "13:00",
+    "endTime": "19:00",
+    "type": "Conference, Networking, Workshop",
+    "location": "7 Wonhyro-ro, Yongsan-gu, Seoul",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/yzjtxfkv?tk=hRAhVC",
+    "capacity": null,
+    "email": "main6@weple.io"
+  },
   "Solana Spectrum in Korea": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig4tj2txchb7hjtz364ugn6pf45j5qi3mmmf3yqdmou4daag6btku.png",
     "title": "Solana Spectrum in Korea",
@@ -3738,6 +3823,23 @@
     "link": "https://lu.ma/3ugry39s",
     "capacity": "150",
     "email": "sonic@encryptx.io"
+  },
+  "Make Premium Kimchi": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsiyhlu2jlyyz5pm2pxlpcx7sniethdbnryfsmac7ldpaeb2jxzu.png",
+    "title": "Make Premium Kimchi",
+    "host": "Keplr Wallet",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "type": "Workshop",
+    "location": "Register to see address",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/ef2r5vor",
+    "capacity": "30",
+    "email": null
   },
   "Liquidity Summit 2024": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidkrc3uqz5rnblq4rpp6blgvdcmxqgug7q46g3q33ncch4csmccu4.png",
@@ -4011,8 +4113,25 @@
     "capacity": "50",
     "email": "medo@legend.tech"
   },
+  "MISS BONK KOREA": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibxbrbta4krdqfnxmczyffrrghkzi2jr72qqznk4lpzqonatigbum.png",
+    "title": "MISS BONK KOREA",
+    "host": "BONK",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-07",
+    "startTime": "19:00",
+    "endTime": "22:30",
+    "type": "Party, Networking Event",
+    "location": "7 Wonhyo-ro Yongsan-gu, Seoul",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/missbonk",
+    "capacity": null,
+    "email": "phil@wepleent.com"
+  },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
