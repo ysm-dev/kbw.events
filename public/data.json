@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1064,7 +1064,7 @@
     "type": "Meetup",
     "location": "TIME AFTER TIME (Seongsu-dong 2(i)-ga)",
     "address": null,
-    "placeId": "ChIJgQD8o5OkfDUR6b0_C5FwjNk",
+    "placeId": "ChIJdz1EwJCkfDURskhN_vm2Rfo",
     "entry": "Free (Approval Required)",
     "link": "https://lu.ma/la3u8xrj",
     "capacity": "200",
@@ -3002,7 +3002,7 @@
     "type": "Networking Event",
     "location": "TBD",
     "address": "TBD",
-    "placeId": "ChIJ-4m1XyOkfDURartwxRuXMbM",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/yvp8kmzc",
     "capacity": "36",
@@ -4012,7 +4012,7 @@
     "email": "medo@legend.tech"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
