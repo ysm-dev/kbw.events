@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -289,7 +289,7 @@
     "email": "leonando@tokenminds.co"
   },
   "Barks & Meows Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifq5ygvltrxn4khtcz5q3zgru6txwvx7rjuz37sxr6ihcavnlf4uu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigd5xw3zoamvbowpdb3biws5yhgf4uuxwmkjtbpyadm2awvebuyq4.png",
     "title": "Barks & Meows Opening Party",
     "host": "Hashkey / Catizen / Block Patch",
     "startDate": "2024-09-01",
@@ -357,7 +357,7 @@
     "email": "birchnut@adventuregold.org"
   },
   "Rooftop Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidbguol2ix4xacwx6o32q3kvuhsqttcyxzvoznxfnbp5tdszv3hcu.png",
+    "image": null,
     "title": "Rooftop Party",
     "host": "ICP HUB Korea, GamerHash AI, CoinEasy",
     "startDate": "2024-09-01",
@@ -367,7 +367,7 @@
     "type": "Networking Event, Party",
     "location": "People the Terrace",
     "address": "Dosan-daero 81-gil-13, Gangnam-gu, Seoul",
-    "placeId": "ChIJdczTGA-lfDURTFTsmmlI1OM",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/rooftoppartykbw",
     "capacity": "200",
@@ -952,7 +952,7 @@
     "email": "jake@icpkor.com"
   },
   "Interwoven Dinner": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiasz5objciul63tmshaxuk4764anzibykuj2cd52ppvyydamiyaxm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicwntyrdj6dq5eamsea76jomkrmcvr4dpdvbs4nu3gebol3qspx44.png",
     "title": "Interwoven Dinner",
     "host": "Initia, MilkyWay, Zellic, Xangle, Flow Traders",
     "startDate": "2024-09-02",
@@ -2091,7 +2091,7 @@
     "email": "a.gupta@supraoracles.com"
   },
   "BTCON Seoul 2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib2j2vcjzqpg3ubbtzy3kvrsjomqgq4vk7yd6nk6fgc5zm4ixmlqe.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvtrerpytbda3n3dxdkbnzkbgcweceanjwcrxnc7urz42ippjno4.png",
     "title": "BTCON Seoul 2024",
     "host": "D Asset, Bitcoin Startup Lab, L2IV",
     "startDate": "2024-09-04",
@@ -4267,7 +4267,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
