@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -391,7 +391,7 @@
     "email": "contact@x-phere.com"
   },
   "Korea Nightopia: Official KBW Opening Party": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiabq6loq7onanxpr3trpducwgyvel7or5zrbxluyr3zgyv3iq3qqq.png",
     "title": "Korea Nightopia: Official KBW Opening Party",
     "host": "RaveDAO, Korea Blockchain Week, Delysium",
     "startDate": "2024-09-01",
@@ -665,7 +665,7 @@
   "Social Hour with Clase Azul Tasting": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiccmqvrb74m5kmad76bt5nyj3dhdglnerhqbv75qy3ypd7phuis4m.png",
     "title": "Social Hour with Clase Azul Tasting",
-    "host": "SphereX ★ Nubila ★ PoPP",
+    "host": "SphereX ★ Nubila ★ PoPP ★ SojuDAO ★ SojuVest",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "14:00",
@@ -716,7 +716,7 @@
   "Web3 Data Dance: Analyze, Build, and Connect!": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibiudb2uejtmnxnxc4lbqin3hqimgbh7cc5j5kfhxg7fy5cy6hkj4.png",
     "title": "Web3 Data Dance: Analyze, Build, and Connect!",
-    "host": "Nodit (Lambda256)",
+    "host": "Nodit x Aptos x Google Cloud",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "15:00",
@@ -2252,8 +2252,8 @@
     "startTime": "14:00",
     "endTime": "17:00",
     "type": "Workshop, Networking Event",
-    "location": "Cafe en Travel",
-    "address": "45 Gangnam-daero 102-gil, Gangnam-gu, Seoul",
+    "location": "Alver Coffee Gangnam / Basement Lounge",
+    "address": "34 Gangnam-daero 102-gil, Gangnam-gu, Seoul",
     "placeId": "ChIJ63FbvuKjfDURnyLgdXNMebI",
     "entry": "Free Entry",
     "link": "https://lu.ma/pg16q7fw",
@@ -2380,7 +2380,7 @@
     "email": "media@yala.org"
   },
   "Global Web3 Builders": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibg63542shquznwieahrmvnip24o2kjoizvxmugdovumerwpe4mpu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifsfdtpxyeudv5knajla3rxn4ercn757mcpd2kn32nccyigv4scdq.png",
     "title": "Global Web3 Builders",
     "host": "Web3 Society",
     "startDate": "2024-09-04",
@@ -2917,7 +2917,7 @@
     "type": "Running & Networking Event",
     "location": "Hangang Moonlight Market",
     "address": "40, Sinbanpo-ro 11-gil, Seocho-gu, Seoul",
-    "placeId": "ChIJB50dkbqhfDURbFoFTXPC6ao",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/exx7gpnw",
     "capacity": "30",
@@ -3178,10 +3178,10 @@
     "capacity": "100",
     "email": "jeongho.yeo@bharvest.io"
   },
-  "Core Alliance Day by Blocore x Core Alliance": {
+  "Demo Day by Blocore x Core-Alliance": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifxphl5t2ehqmnakzml3mlx3bv4ifjoj6iemrd56lmdi6zres35ve.png",
-    "title": "Core Alliance Day by Blocore x Core Alliance",
-    "host": "Blocore x Core Alliance",
+    "title": "Demo Day by Blocore x Core-Alliance",
+    "host": "Blocore, Krafton, Nexon, Netmarble, NC Soft, Bandai Namco, SEGA, Konami, SNK, Lilith Games, 2K",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "15:00",
@@ -3270,7 +3270,7 @@
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "16:00",
-    "endTime": "17:30",
+    "endTime": "20:00",
     "type": "Networking Event, Happy Hour",
     "location": "The Mansion",
     "address": "179, Itaewon-ro, Yongsan-gu, Seoul",
@@ -4250,7 +4250,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
