@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -289,7 +289,7 @@
     "email": "leonando@tokenminds.co"
   },
   "Barks & Meows Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig6df45wucbidtlg7z4zxaz6sgl2q2r4riajgxlpblj5uzvt25yqm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifq5ygvltrxn4khtcz5q3zgru6txwvx7rjuz37sxr6ihcavnlf4uu.png",
     "title": "Barks & Meows Opening Party",
     "host": "Hashkey / Catizen / Block Patch",
     "startDate": "2024-09-01",
@@ -663,7 +663,7 @@
     "email": "giwook@doorlabs.io"
   },
   "Social Hour with Clase Azul Tasting": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiccmqvrb74m5kmad76bt5nyj3dhdglnerhqbv75qy3ypd7phuis4m.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaidp3grtp2g5pnnatjtqiyshizex5cleec2wbfpoksvlx5qc4boy.png",
     "title": "Social Hour with Clase Azul Tasting",
     "host": "SphereX ★ Nubila ★ PoPP ★ SojuDAO ★ SojuVest",
     "startDate": "2024-09-02",
@@ -673,7 +673,7 @@
     "type": "Networking Event (Tequila Tasting)",
     "location": "Apgujeong Hanryang (압구정한량)",
     "address": "B1, Sinsa-dong 657-38, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJUzItdYijfDURIBBKofkkZ9I",
     "entry": "Invitation Only",
     "link": "https://lu.ma/clase_azul",
     "capacity": "30",
@@ -1359,6 +1359,23 @@
     "capacity": "150",
     "email": "kevin.kim@kaia.io"
   },
+  "Enter the XR world": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiadbbqnu7c4p4rkzttbr5325wbqpfpilvxzerke6ii7kld77gsini.png",
+    "title": "Enter the XR world",
+    "host": "PARAVERSE",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "14:00",
+    "endTime": "18:30",
+    "type": "Networking Event",
+    "location": "Walkerhill Hotels Panorama hall",
+    "address": "177, Walkerhill-ro, Gwangjin-gu, Seoul",
+    "placeId": "ChIJi3IxpbC6fDURkVmtKHgltsM",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/db81etz6",
+    "capacity": "150",
+    "email": "paraverse@imgneers.com"
+  },
   "Institutional Happy Hour": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic5fphmfsssa6mmelubz356jhufrxngbomwe64hbx23rscrby5tnu.png",
     "title": "Institutional Happy Hour",
@@ -1479,7 +1496,7 @@
     "email": "admin@tauruslabs.xyz"
   },
   "KBW Hash Happy Hour w/ Halborn & Sushi": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibmvquhprjnsmlhtmbqxojelutgozdwmxnmivgxglytpxeo4zf2nu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidho2es5rdvasrdn66awl2gbu7mynqzfmhdedujzkpksmwuz2jrbi.png",
     "title": "KBW Hash Happy Hour w/ Halborn & Sushi",
     "host": "Halborn, Sushi",
     "startDate": "2024-09-03",
@@ -2992,7 +3009,7 @@
     "email": "ayessa.lopez@halborn.com"
   },
   "MKGA Summit": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihlz2nspukuqrv6t7jcinonl3hpniu5hd3e7uugm6klejlvk5ubgi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiak7zb7avabhzj4jzlmhrnvl5z33gre6hiw5xuojfibtc6uzsyoam.png",
     "title": "MKGA Summit",
     "host": "Host : KnightFury Alliance / Kaia / Line Next",
     "startDate": "2024-09-05",
@@ -3009,7 +3026,7 @@
     "email": "contact@knightfury.io"
   },
   "Astar Evolution: New Stage": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidllxph54hbkw5qrsehqxsp5y3juoig5t5sifvwz56uggfhzlnksq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigp3bqi4puzdjs7kxe7zh47llcbc6mbmncmz3olftgaq5vghcpwym.png",
     "title": "Astar Evolution: New Stage",
     "host": "Astar Network & Startale",
     "startDate": "2024-09-05",
@@ -3077,7 +3094,7 @@
     "email": "seono@071labs.io"
   },
   "071 Labs' RWA, DeFi & Infrastructure Summit - Co-Hosted by Plume Network": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiduvzifqveqqgccfwspukvmtx424upukk4kbpg5pu3zieeqrtbnsq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih4je6n326lgducmwdyceig7yt2vab6rellopxqjr4vvix26cigge.png",
     "title": "071 Labs' RWA, DeFi & Infrastructure Summit - Co-Hosted by Plume Network",
     "host": "071labs",
     "startDate": "2024-09-05",
@@ -3094,7 +3111,7 @@
     "email": "seono@071labs.io"
   },
   "Bitcoin Brunch @ KBW with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigly7gwktomlbvkubws7y3lhbhxb52deeyvsp7svvggahzv25itlu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidrxe5a4yybgiuoqgrn7emmztscgyjehzdveyb43cmhwhlxvi2heu.png",
     "title": "Bitcoin Brunch @ KBW with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-05",
@@ -3604,7 +3621,7 @@
     "email": "marketing@gotbit.io"
   },
   "MKGA After Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiffsu65cljw4tfhdnbw6lbjpiw7af3njdo5biaxbjsgkehwnoa3re.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibcth3b4sjrxonenbonmsnvbth4gnftpftgdzfnal3oeimxf2fqau.png",
     "title": "MKGA After Party",
     "host": "Host : KnightFury Alliance / Kaia / Line Next",
     "startDate": "2024-09-05",
@@ -4250,7 +4267,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
