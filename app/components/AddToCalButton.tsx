@@ -2,7 +2,6 @@
 
 import {
   IconBrandAppleFilled,
-  IconBrandGoogle,
   IconBrandGoogleFilled,
 } from "@tabler/icons-react"
 import { google, ics } from "calendar-link"
@@ -59,7 +58,7 @@ export const AddToCalButton = ({ event: e }: Props) => {
           <CalendarPlus className="size-4 sm:size-5" />
         </Button>
       </DrawerDialogTrigger>
-      <DrawerDialogContent className="sm:max-w-80">
+      <DrawerDialogContent className="z-50 outline-none sm:max-w-80">
         <div className="flex flex-col gap-4 p-4 sm:p-0">
           <h3 className="font-semibold text-xl sm:text-lg">Add to Calendar</h3>
           <Button

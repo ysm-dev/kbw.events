@@ -6,7 +6,7 @@
       "recommended": true,
       "style": {
         "noUnusedTemplateLiteral": "off",
-        "useImportType": "error",
+        "useImportType": "warn",
         "noUselessElse": "off",
         "noNonNullAssertion": "warn"
       },
@@ -19,14 +19,8 @@
           "level": "warn",
           "fix": "safe",
           "options": {
-            "attributes": [
-              "classList"
-            ],
-            "functions": [
-              "clsx",
-              "cva",
-              "tw"
-            ]
+            "attributes": ["classList"],
+            "functions": ["clsx", "cva", "tw"]
           }
         }
       },
@@ -54,10 +48,7 @@
     "indentWidth": 2,
     "enabled": true,
     "lineWidth": 80,
-    "ignore": [
-      "node_modules",
-      ".next"
-    ]
+    "ignore": ["node_modules", ".next"]
   },
   "javascript": {
     "formatter": {

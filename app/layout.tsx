@@ -1,9 +1,9 @@
+import "app/globals.css"
+
 import { Footer } from "app/components/Footer"
 import { Header } from "app/components/Header"
 import { Main } from "app/components/Main"
-import "app/globals.css"
 import { CFAnalytics } from "components/CFAnalytics"
-
 import { Providers } from "components/Providers"
 import { Toaster } from "components/ui/sonner"
 import { HOST } from "constants/urls"
