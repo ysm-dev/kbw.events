@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -612,7 +612,7 @@
     "email": "seoul.ordinals@gmail.com"
   },
   "Web3 x AI summit": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidbjxzpwzug6awxpdr3ufb4z64wqhljy32hcqkgwnc3lkwfk33fcu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiemsrycj6lbkbqwvl6zx57h2uzllaykmonea5qto2tvy4s4otuu4a.png",
     "title": "Web3 x AI summit",
     "host": "AI Network",
     "startDate": "2024-09-02",
@@ -663,7 +663,7 @@
     "email": "jee@chainapsis.com"
   },
   "DeAI Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifb665egayzo3qyuwnnwaazl4zvdsjf3mhmx2khdozxderl6vjkim.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiftlahp4ce5orqb5xpeq2uz2adyyfqntrrubassu6obkcyliaaghu.png",
     "title": "DeAI Day",
     "host": "ICP HUB Korea, Exabits",
     "startDate": "2024-09-02",
@@ -2152,7 +2152,7 @@
     "type": "Workshop, Networking Event",
     "location": "Cafe en Travel",
     "address": "45 Gangnam-daero 102-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJkc22lZijfDUR3MJU4-oL7Wk",
+    "placeId": "ChIJ63FbvuKjfDURnyLgdXNMebI",
     "entry": "Free Entry",
     "link": "https://lu.ma/pg16q7fw",
     "capacity": "200",
@@ -4012,7 +4012,7 @@
     "email": "medo@legend.tech"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
