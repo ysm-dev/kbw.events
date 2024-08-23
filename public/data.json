@@ -186,6 +186,23 @@
     "capacity": "30",
     "email": "jake@icpkor.com"
   },
+  "Build The Future With Chainlink": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigk6m3q5b5t5w2qsrofg6gb4hv635d4e2tcjis2y7sqglxlcg6tgq.png",
+    "title": "Build The Future With Chainlink",
+    "host": "Chainlink Labs",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "type": "Meetup, Networking Event",
+    "location": "Sign up to view the address",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/CL-KBW2024",
+    "capacity": null,
+    "email": "cissy@smartcontract.com"
+  },
   "Mina Dev Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvp2ticptxg4n4fvrsnyv7fove5of3s43gxdtt77hhuxixguusxi.png",
     "title": "Mina Dev Seoul",
@@ -374,7 +391,7 @@
     "email": "contact@x-phere.com"
   },
   "Korea Nightopia: Official KBW Opening Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiabq6loq7onanxpr3trpducwgyvel7or5zrbxluyr3zgyv3iq3qqq.png",
+    "image": null,
     "title": "Korea Nightopia: Official KBW Opening Party",
     "host": "RaveDAO, Korea Blockchain Week, Delysium",
     "startDate": "2024-09-01",
@@ -713,6 +730,23 @@
     "capacity": "150 - 200",
     "email": "nodit@lambda256.io"
   },
+  "KOLs Gathering: Seoul Edition": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid2kfdc3rwqkbd5taz4l63mpx275tgavwewtf4j7yeexhtmmr6dwq.png",
+    "title": "KOLs Gathering: Seoul Edition",
+    "host": "Cointelegraph Accelerator, NewTribe Capital, ICP",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/0mata1l4",
+    "capacity": "300",
+    "email": "accelerate@cointelegraph.com"
+  },
   "Golden Wave": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibvjwg633dyezzkcr3caxz7rqlr6h4moimmsf45mfcet7ch62vt6e.png",
     "title": "Golden Wave",
@@ -866,9 +900,9 @@
     "capacity": "75",
     "email": "shasank@hashed.com"
   },
-  "ZetaChain Gaming Night": {
-    "image": null,
-    "title": "ZetaChain Gaming Night",
+  "Universal BTC by ZetaChain": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibohk2w65glpta3ktk32qf5fdluuyo4i2ljxueyvvzygrnryy2kaq.png",
+    "title": "Universal BTC by ZetaChain",
     "host": "ZetaChain",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
@@ -877,9 +911,9 @@
     "type": "Gaming & Networking Event",
     "location": "Bar House Chungdam",
     "address": "6th floor, 21, Seolleung-ro 152-gil, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJBRHdjHekfDUR8leO_FXz3nY",
     "entry": "Registration Only",
-    "link": "https://lu.ma/4icydde9",
+    "link": "https://lu.ma/UniversalBTC",
     "capacity": null,
     "email": "andrew@zetachain.com"
   },
@@ -1375,6 +1409,23 @@
     "link": "https://lu.ma/74q8pbkf?tk=gnVsyD",
     "capacity": "150",
     "email": "joelly@hyperbolic.xyz"
+  },
+  "KBW 2024: Ape gathering at Bored & Hungry": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiga36g3uulb3xcfnxhlafcjdq2rkfah5f42ilvlchj7x5pmub32tq.png",
+    "title": "KBW 2024: Ape gathering at Bored & Hungry",
+    "host": "Boredkiki",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "17:00",
+    "endTime": "20:00",
+    "type": "Community event",
+    "location": "Bored & Hungry Seongsu",
+    "address": "17-1 Seongsui-ro 12-gil, Seongdong-gu, Seoul",
+    "placeId": "ChIJ1TlldgClfDURyu150A66_9A",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/43jnsq09",
+    "capacity": "50",
+    "email": "6711kiki@gmail.com"
   },
   "Play Forward: The Next Chapter of Web3 Gaming": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiceldn64jkaxxqh4fc533hii7mxan2bmv4gqatqgzfcqhnrwocg2u.png",
@@ -2838,6 +2889,23 @@
     "capacity": "150",
     "email": "Grace@iceteasoftware.com"
   },
+  "Narrative Day by Undefined Labs": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie7do2h7bpewl4rifgc6bidbfnojiscw75mdammcig5sbxpd7226q.png",
+    "title": "Narrative Day by Undefined Labs",
+    "host": "Undefined Labs",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-06",
+    "startTime": "14:00",
+    "endTime": "21:00",
+    "type": "Conference, Networking Event",
+    "location": "Mondrian Seoul Itaewon",
+    "address": "23 Jangmun-ro, gu, Yongsan-gu, Seoul",
+    "placeId": "ChIJbbjhu1ijfDURyEhttIL8YIo",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/wu1b34l9",
+    "capacity": "500",
+    "email": "slee@undefinedlabs.xyz"
+  },
   "KBW2024 Sunrise Run 🏃‍♀️ with SuperWalk & Planetarium Labs": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4vdsgrgfkdtewqj435ornsm6sx6j55j3delaqwz63qmgpwmfcyq.png",
     "title": "KBW2024 Sunrise Run 🏃‍♀️ with SuperWalk & Planetarium Labs",
@@ -3229,6 +3297,23 @@
     "capacity": "150",
     "email": "tjwpdud256@naver.com"
   },
+  "Institutional Adoption : Building Solid Foundation for Web2 & 3": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifal4isy3ppnxlocbjcmsqy4yuwg4sxaylj5komrc4q7vql76xdlq.png",
+    "title": "Institutional Adoption : Building Solid Foundation for Web2 & 3",
+    "host": "Xangle x NTT Digital x Samsung NEXT",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "Monaco Space B1F Media Hall",
+    "address": "397 Seocho-daero, Seocho District, Seoul",
+    "placeId": "ChIJV1jOJNahfDURcNYPEzdxGA8",
+    "entry": "Free, Private",
+    "link": "https://lu.ma/d4yh3zv6",
+    "capacity": "90",
+    "email": "conference@crossangle.io"
+  },
   "Diversity-in-tech": {
     "image": null,
     "title": "Diversity-in-tech",
@@ -3247,7 +3332,7 @@
     "email": "shasank@hashed.com"
   },
   "TON Community Summit with Blum, Yescoin & TONX": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid6ff7yjacr5x22iapzvgpnsadwojl7vvd5sgo3wgnxlw4s4pj44q.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarrsdwb57jswcvobz7576ipffwaoiq5zivckgv4tyi3lwzkoxrda.png",
     "title": "TON Community Summit with Blum, Yescoin & TONX",
     "host": "KTON",
     "startDate": "2024-09-05",
@@ -3790,6 +3875,23 @@
     "capacity": "200",
     "email": "events@starknet.org"
   },
+  "Magna & LYNC Gaming Brunch at KBW": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigomhr5enlhk4heq2zwnf6a7gwbwghiyuz5at3v4synyomdkv54hm.png",
+    "title": "Magna & LYNC Gaming Brunch at KBW",
+    "host": "Magna & LYNC",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "type": "Networking Event",
+    "location": "Invite-only",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/v095oqi2",
+    "capacity": "20",
+    "email": "wesley@magna.so"
+  },
   "TON Discovery Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigwokfvg2ikdpu2id3cxx5a5a2uzej4vyygaikn5buh2yaqiesubu.png",
     "title": "TON Discovery Day",
@@ -3839,7 +3941,7 @@
     "entry": "Invitation Only",
     "link": "https://lu.ma/ef2r5vor",
     "capacity": "30",
-    "email": null
+    "email": "jee@chainapsis.com"
   },
   "Liquidity Summit 2024": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidkrc3uqz5rnblq4rpp6blgvdcmxqgug7q46g3q33ncch4csmccu4.png",
@@ -3993,6 +4095,23 @@
     "link": "https://lu.ma/zvq58pv7",
     "capacity": "200",
     "email": "events@starknet.org"
+  },
+  "LK Brothers lauching night party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiai3aq7tmpwbn245qa6245yvnmdljxn4h2gcjwel6xonspeujsaea.png",
+    "title": "LK Brothers lauching night party",
+    "host": null,
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "19:00",
+    "endTime": "23:00",
+    "type": "Networking Party",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/hg5pg5o2",
+    "capacity": "60",
+    "email": "alex@splalabs.xyz"
   },
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreictfubffpstwo2eolyhtodc7zukahkqoamdilgad6efujtbhprd6u.png",
