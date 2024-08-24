@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -287,6 +287,23 @@
     "link": "https://lu.ma/g66myv3w",
     "capacity": "50",
     "email": "leonando@tokenminds.co"
+  },
+  "X+ DeGods SEOUL by Credit Scend": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihkfnezt33qcyn3gko6mhj7zzovz37ek3u4nlxcouopfeirnsioty.png",
+    "title": "X+ DeGods SEOUL by Credit Scend",
+    "host": "X+ DeGods and Credit Scend",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-01",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "Kyochon Chicken Gangnam Station Branch",
+    "address": "619-28 Yeoksam-dong, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/mdyztf2k",
+    "capacity": "300",
+    "email": "will@creditscend.com"
   },
   "Barks & Meows Opening Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigd5xw3zoamvbowpdb3biws5yhgf4uuxwmkjtbpyadm2awvebuyq4.png",
@@ -1732,6 +1749,23 @@
     "link": "TBD",
     "capacity": "200",
     "email": "info@koreablockchainweek.com"
+  },
+  "State of Web 3 Gaming VIP Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigaapojlxlai4qdyzziidadkcgbw5g4cxrm7nyrxlyr2dxxczx6u4.png",
+    "title": "State of Web 3 Gaming VIP Dinner",
+    "host": "Light Node Ventures",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "type": "Dinner",
+    "location": "Signiel Seoul",
+    "address": "300 Olympic-ro, Songpa-gu, Seoul",
+    "placeId": "ChIJy7zIwQqlfDURT2im2oOhtL4",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/xfwim1ys",
+    "capacity": "60",
+    "email": "achoi@japamediagroup.com"
   },
   "HypeSurge: Builders' Mixer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawl2ppknkvmsz6ilw62rrxxed2irb7jsxn7mg7ltyd7nmup5ga6a.png",
@@ -4284,7 +4318,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
