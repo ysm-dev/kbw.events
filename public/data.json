@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -661,23 +661,6 @@
     "link": "https://starkpass.com/events/0b5480eb-496f-4492-8bea-1e44badf6842",
     "capacity": "200",
     "email": "giwook@doorlabs.io"
-  },
-  "Social Hour with Clase Azul Tasting": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaidp3grtp2g5pnnatjtqiyshizex5cleec2wbfpoksvlx5qc4boy.png",
-    "title": "Social Hour with Clase Azul Tasting",
-    "host": "SphereX ★ Nubila ★ PoPP ★ SojuDAO ★ SojuVest",
-    "startDate": "2024-09-02",
-    "endDate": "2024-09-02",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "type": "Networking Event (Tequila Tasting)",
-    "location": "Apgujeong Hanryang (압구정한량)",
-    "address": "B1, Sinsa-dong 657-38, Gangnam-gu, Seoul",
-    "placeId": "ChIJUzItdYijfDURIBBKofkkZ9I",
-    "entry": "Invitation Only",
-    "link": "https://lu.ma/clase_azul",
-    "capacity": "30",
-    "email": "jong@sojudao.xyz"
   },
   "INFRA DAY": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigbmnizo6flgbf5njedo5gglg4qvdhocsmacbbykelwroydnkdiri.png",
@@ -1375,6 +1358,23 @@
     "link": "https://lu.ma/db81etz6",
     "capacity": "150",
     "email": "paraverse@imgneers.com"
+  },
+  "Social Hour with Clase Azul Tasting": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaidp3grtp2g5pnnatjtqiyshizex5cleec2wbfpoksvlx5qc4boy.png",
+    "title": "Social Hour with Clase Azul Tasting",
+    "host": "SphereX ★ Nubila ★ PoPP ★ SojuDAO ★ SojuVest",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "type": "Networking Event (Tequila Tasting)",
+    "location": "Apgujeong Hanryang (압구정한량)",
+    "address": "B1, Sinsa-dong 657-38, Gangnam-gu, Seoul",
+    "placeId": "ChIJUzItdYijfDURIBBKofkkZ9I",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/clase_azul",
+    "capacity": "30",
+    "email": "jong@sojudao.xyz"
   },
   "Institutional Happy Hour": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic5fphmfsssa6mmelubz356jhufrxngbomwe64hbx23rscrby5tnu.png",
@@ -2082,8 +2082,8 @@
     "startTime": "09:00",
     "endTime": "16:00",
     "type": "Conference, Networking",
-    "location": "Hashed Office",
-    "address": "20f, 374 Gangnam-daero, Gangnam-gu, Seoul",
+    "location": "Hashed Lounge",
+    "address": "3rd floor, Milim tower, 14 Teheran-ro-4-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/322z99da?tk=TjLerf",
@@ -2295,7 +2295,7 @@
     "email": "infcryptolab@gmail.com"
   },
   "Uniting Societies @KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidensj7aef3y4dcidfwoolam2rxlssmbjlzb7avrcu7fcsfvkm2va.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihlie4awpac5o32w46eshths4ez2uf7ez3kklk6yma5aiueur5hm4.png",
     "title": "Uniting Societies @KBW",
     "host": "Somnia",
     "startDate": "2024-09-04",
@@ -4164,6 +4164,23 @@
     "capacity": "250+",
     "email": "seono@071labs.io"
   },
+  "Puffpaw x New Friendship Tech": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsltwl6pjtzoknewy6mbwza2tum3ouonhxkzituqfhyfm4le4ziq.png",
+    "title": "Puffpaw x New Friendship Tech",
+    "host": null,
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "19:00",
+    "endTime": "02:00",
+    "type": "Networking Mixer + VIP Afterparty",
+    "location": "Private Location (RSVP REQ)",
+    "address": null,
+    "placeId": null,
+    "entry": "Free, RSVP Req.",
+    "link": "https://lu.ma/q4ayio00",
+    "capacity": "400",
+    "email": "eric@urconduit.com"
+  },
   "DARK MODE: Story House After Party Curated by Ritual": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibcal4kn5qishqgtzwo4xfjhmgk35ich3dqc7i565civqqvfyyhsy.png",
     "title": "DARK MODE: Story House After Party Curated by Ritual",
@@ -4267,7 +4284,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
