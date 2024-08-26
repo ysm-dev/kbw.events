@@ -397,7 +397,7 @@
     "startDate": "2024-09-01",
     "endDate": "2024-09-01",
     "startTime": "20:00",
-    "endTime": "12:00",
+    "endTime": "00:00",
     "type": "Networking, Party",
     "location": "Dragon City",
     "address": "34, 20-gil 95 Cheongpa-ro, Yongsan-gu, Seoul",
@@ -423,6 +423,23 @@
     "link": "https://app.moongate.id/e/korea-nightopia-official-kbw-opening-party",
     "capacity": "2000",
     "email": "ronald.yung@arpanetwork.io"
+  },
+  "DSRV Builder's House: NEOHAUS": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigcvpz5b66igbafehn5w672eg72k7zwdleywqnjrefj7syjuioxai.png",
+    "title": "DSRV Builder's House: NEOHAUS",
+    "host": "DSRV",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-03",
+    "startTime": "13:00",
+    "endTime": "22:00",
+    "type": "Keynote, Workshops, Networking & BBQ Party",
+    "location": "DSRV HQ",
+    "address": "38, Bongeunsa-ro 20-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJS2oeNICjfDUR3awk43nkyKk",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/707tzkh4",
+    "capacity": null,
+    "email": "buildershouse@dsrvlabs.com"
   },
   "ONE OF US Run": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4yp6d4s6ubf46gncyhi2pjvxpbqrrly4k7phllvoaptprknn7xu.png",
@@ -678,6 +695,23 @@
     "link": "https://starkpass.com/events/0b5480eb-496f-4492-8bea-1e44badf6842",
     "capacity": "200",
     "email": "giwook@doorlabs.io"
+  },
+  "Asia's Superchain Pioneers In Seoul": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaxm5d73gsyad7qg5gsuwam6jg7j3ax3zfzoolpnitaxkltdb7rga.png",
+    "title": "Asia's Superchain Pioneers In Seoul",
+    "host": null,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "type": "Networking Event",
+    "location": "2nd Floor, 31, Achasan-ro 13-gil, Seongdong-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJW5Yw8ZakfDUR2rrZEcx5dqM",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/rmfy8i0g",
+    "capacity": "150",
+    "email": "marketing@lightscale.io"
   },
   "INFRA DAY": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigbmnizo6flgbf5njedo5gglg4qvdhocsmacbbykelwroydnkdiri.png",
@@ -2005,6 +2039,23 @@
     "capacity": "200",
     "email": "rhee@moondancelabs.com"
   },
+  "Block Party: Monad Eco Edition": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaewp5ku4lep3mclubkdzvv4te5jgzw7jigcargu3c6jshmmpfv5i.png",
+    "title": "Block Party: Monad Eco Edition",
+    "host": "A Night With The Nads",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "21:00",
+    "endTime": "02:00",
+    "type": "Networking Event, Party, B2B event , Conference",
+    "location": "36, Eonju-ro 170-gil, Gangnam-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJpU_8vfejfDUR04BYzA-AVj4",
+    "entry": "Free, Invitation only, Private",
+    "link": "https://lu.ma/ij7ak9hr",
+    "capacity": "150",
+    "email": "dw.shin@bharvest.io"
+  },
   "Taiko KBW Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibb6y7mtlwwqfomin3iqgf7espgaw6i6fnpsdiwkggdc26guhw23a.png",
     "title": "Taiko KBW Party",
@@ -2179,8 +2230,8 @@
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidn7mhvvjos3am7v6rqxgo3h5fvn4xguwwbrbfhcl6yejia6jiv6e.png",
     "title": "Supra's Demo Day",
     "host": "Supra, Killer Whales, Hashed, A41, Google cloud",
-    "startDate": null,
-    "endDate": null,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
     "startTime": "09:00",
     "endTime": "16:00",
     "type": "Conference, Networking",
@@ -2363,7 +2414,7 @@
     "email": null
   },
   "Open House #AI": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidxwinthhephczid2m7dtvzjsgj3memgv66s5xldtg4dbcg52jwhy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaaj4d2m3rp7amj4flj6blxazqehq2oskujbkrd56mtj64bksigqe.png",
     "title": "Open House #AI",
     "host": "RSS3, Whitewater Labs, Soju DAO, Open Information Initiative",
     "startDate": "2024-09-04",
@@ -3569,6 +3620,23 @@
     "capacity": "100",
     "email": "hope@superblock.xyz"
   },
+  "Gate.io Lead Asia Charity Carnival": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid4vhgkr4o5qpdqj62k6cfrwnf72ddgp6lidbkv7lugj3sjn4y67y.png",
+    "title": "Gate.io Lead Asia Charity Carnival",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Charity Networking Party",
+    "location": "CREST 72 GLASS HALL",
+    "address": "72, Jangchungdan-ro, Jung-gu, Seoul",
+    "placeId": "ChIJ09ugs1KjfDURt8-Ke5bjzE0",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/4rtxtg6b",
+    "capacity": "300",
+    "email": "amykim1050@gmail.com"
+  },
   "CRYPTO NIGHT in Seoul Forest": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihzptxcb42yx5szjfcfe4dj7j2t57aufuk5fz76ikijyy4k4j6u5e.png",
     "title": "CRYPTO NIGHT in Seoul Forest",
@@ -3722,6 +3790,23 @@
     "capacity": "250",
     "email": "Andrew_White@Legend.tech"
   },
+  "Bitcoin Next, VIP Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiba52ywxafnrdyy7sw6uko22aikxpdk2usrddoi365besub43b4ci.png",
+    "title": "Bitcoin Next, VIP Dinner",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "19:00",
+    "endTime": "23:59",
+    "type": "Networking Event",
+    "location": "Grand Hyatt Seoul",
+    "address": "322 Sowol-ro, Hannam-dong, Yongsan-gu, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/nz2qqde1",
+    "capacity": "60",
+    "email": "ta.ikki1892@gmail.com"
+  },
   "Supernova Cocktails + Disco": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wlb4kh75lekitfsqetwmplrqw2zlr3f33ja6klkvv2nezqwbga.png",
     "title": "Supernova Cocktails + Disco",
@@ -3857,6 +3942,23 @@
     "link": "https://futuracanvas.com/",
     "capacity": "1000",
     "email": "info@futuracanvas.com"
+  },
+  "KBW DJ Night Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif5l4icoyqxu2b2irs5czdoavlx2ty624zrrv2jazxoqqwhwltuq4.png",
+    "title": "KBW DJ Night Party",
+    "host": "Alterverse, BabySharkUniverse, CreditScend",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "21:00",
+    "endTime": "02:00",
+    "type": "Networking Party",
+    "location": "Alvin Avenue 13",
+    "address": "Gangnam-daero92-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free, Invitation Only",
+    "link": "https://lu.ma/houi8nkh",
+    "capacity": "400",
+    "email": "thomas@bsuniverse.io"
   },
   "Times ft. Hack VC, Berachain, Movement": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigfvne24ytehfz5eincimq45hzkzcvond3dvaock5nhuqlyvhesuq.png",
@@ -4147,6 +4249,23 @@
     "capacity": "100",
     "email": "channel@hydroprotocol.finance"
   },
+  "Royal Palace Tour with Factomind": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidrhae26c3qorbslejcvpamtnm4cajlu2ljddrawvyq2knmm5776u.png",
+    "title": "Royal Palace Tour with Factomind",
+    "host": "Factomind",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "type": "Tour",
+    "location": "Gyeongbokgung Station",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/095425j3",
+    "capacity": "25",
+    "email": "justin@factomind.io"
+  },
   "Bridging the european and asian markets": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarlw2cozcr53akii6nj5uclxuoitr2gprqgueqenbp5pnoemi57m.png",
     "title": "Bridging the european and asian markets",
@@ -4352,7 +4471,7 @@
     "email": "info@futuracanvas.com"
   },
   "BeWater x NEAR HZN AI Alpha Hackathon": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibz3pmxovv7y47d5rga4saqpbnqxa4xmqksxaqfyvixyrvmw7zyhq.png",
     "title": "BeWater x NEAR HZN AI Alpha Hackathon",
     "host": "NEAR & BeWater",
     "startDate": "2024-09-06",
@@ -4401,6 +4520,23 @@
     "link": "https://lu.ma/iq5lsixi",
     "capacity": "50",
     "email": "medo@legend.tech"
+  },
+  "AI Story Creators Event on Blockchain": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreief3jrfbhtzffgyjcvyno73ktfvzbstwfrrc7utumq6dag2zuwbte.png",
+    "title": "AI Story Creators Event on Blockchain",
+    "host": null,
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-07",
+    "startTime": "15:00",
+    "endTime": "13:00",
+    "type": "Workshop for AI story teller",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://www.eventbrite.com/e/earn-tokens-with-ai-stories-on-blockchain-korea-blockchain-week-tickets-1002167739687?aff=oddtdtcreator",
+    "capacity": "190",
+    "email": "albert@storychat.app"
   },
   "MISS BONK KOREA": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibxbrbta4krdqfnxmczyffrrghkzi2jr72qqznk4lpzqonatigbum.png",
