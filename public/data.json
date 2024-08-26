@@ -204,7 +204,7 @@
     "email": "cissy@smartcontract.com"
   },
   "Mina Dev Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicvp2ticptxg4n4fvrsnyv7fove5of3s43gxdtt77hhuxixguusxi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiehjtrnkjkpj42ay4ebzfmfeic3oti5twmgfk5i4umozdbarnqzci.png",
     "title": "Mina Dev Seoul",
     "host": "Mina Foundation",
     "startDate": "2024-09-01",
@@ -356,10 +356,10 @@
     "capacity": "250",
     "email": "joe.chen@movementlabs.xyz"
   },
-  "Into The Web3 Gaming: AW & Blockchain Game Meetup": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreife7zri2smefyjqmnyribitsssagf4gmjd6prhogwiv4cczaopjbi.png",
-    "title": "Into The Web3 Gaming: AW & Blockchain Game Meetup",
-    "host": "Adventure Gold DAO",
+  "Into The Web3 Gaming with AGLD x GOMBLE x STP x DMM": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiabbshs44aid6yuoi7tpd2wgak4gkbguez2anmk2eqihtbw6nwiru.png",
+    "title": "Into The Web3 Gaming with AGLD x GOMBLE x STP x DMM",
+    "host": "Adevnture Layer, GOMBLE, STP, DMM",
     "startDate": "2024-09-01",
     "endDate": "2024-09-01",
     "startTime": "19:00",
@@ -798,6 +798,23 @@
     "capacity": "250",
     "email": "orbskorea@orbs.com"
   },
+  "Epic Burve Night": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiegotzl7hzdzaokrwla2wmors7y6zk7qjfiizaauoei26epjzbqvi.png",
+    "title": "Epic Burve Night",
+    "host": null,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "type": "Networking Event",
+    "location": "Bronx",
+    "address": "15 Gangnam-daero 94-gil, Gangnam District, Seoul",
+    "placeId": "ChIJPxysYz2hfDURG6o4aJLrAVY",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/eu1vvs45",
+    "capacity": null,
+    "email": null
+  },
   "Telegram Trends Beta Launch": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifjbc2gt64dk5dguz22gb3h6cbwhgnfpxqb3gb46pelqvqrv7awfu.png",
     "title": "Telegram Trends Beta Launch",
@@ -967,6 +984,23 @@
     "link": "https://lu.ma/cgwb1gme",
     "capacity": "60",
     "email": "mista@initia.xyz"
+  },
+  "BEATCOIN: BITCOIN•OTAKU•NIGHT•TO•THE•MOON": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigy7jdcoms2omvpffnrno5tj4hiryvxd3qoeczcj6uxmdxrhculwy.png",
+    "title": "BEATCOIN: BITCOIN•OTAKU•NIGHT•TO•THE•MOON",
+    "host": "Mask Network + DeGate + Seouldinals",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Networking, Party",
+    "location": "Space Wadiz",
+    "address": "7-1 Yeonmujang 1-gil, Seongdong-gu, Seoul",
+    "placeId": "ChIJf9VWwjWlfDURzxqJ6MRTCfE",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/f8e96ynv",
+    "capacity": "150",
+    "email": "seoul.ordinals@gmail.com"
   },
   "WEB3 FIESTA - W3G KOREA NIGHT EDITION": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiacyjopphr7rna5y46ren5ujxdttbkrxxypbcvdouok6hgveturfy.png",
@@ -1291,6 +1325,23 @@
     "capacity": "50",
     "email": "jeongho.yeo@bharvest.io"
   },
+  "Futsal Session @ Korea Blockchain Week": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihaaosbbo5xvyjiixszkt6jnzedm56yy7jitfqnrizgzuawjlqw7i.png",
+    "title": "Futsal Session @ Korea Blockchain Week",
+    "host": "Toaster Labs, FC Nonce",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "type": "Futsal",
+    "location": "Jamsil Sports Complex, Futsal Field 2",
+    "address": "25 Olympic-ro, Songpa-gu, Seoul",
+    "placeId": "ChIJzdyah1CkfDURce_F2yypcOk",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/wg7mgty9",
+    "capacity": "21",
+    "email": "danny@toaster.finance"
+  },
   "KBW Builders' Brunch with Caladan x Magna x Monad x ShardLab": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreielnffu5w2a624caudair4sj2sxx6uu7fpvw2ogi5tqes5imh4qfi.png",
     "title": "KBW Builders' Brunch with Caladan x Magna x Monad x ShardLab",
@@ -1427,6 +1478,23 @@
     "capacity": "200",
     "email": "team@skygg.xyz"
   },
+  "Journey to Mars, Dogelon in Korea": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjm432hxltj4p7cmc43fdbsmfu3antpjptmg6w4qgymmhluy5kdy.png",
+    "title": "Journey to Mars, Dogelon in Korea",
+    "host": null,
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "type": "Networking",
+    "location": "Dewblock",
+    "address": "157 Achasan-ro 78-gil, Gwangjin District, Seoul",
+    "placeId": "ChIJg_B33sK7fDURKe4g41m8wSk",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/554ingju",
+    "capacity": null,
+    "email": null
+  },
   "AI After Hours : Korea Blockchain Week": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigryd2xwx57zsly6kqjin7aei6dobcz7hy36pqr4mpa23loyzqx5u.png",
     "title": "AI After Hours : Korea Blockchain Week",
@@ -1479,7 +1547,7 @@
     "email": "andy@planetariumhq.com"
   },
   "Builder Nights Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifm5sk3eu7wz3z7skdqcsnitfga2jbvqajbatf4dmqnljyfby2q5i.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigztz72k7de3y674lv7i5kzbsfmt7uyptkns64j7qdunb76tncpxe.png",
     "title": "Builder Nights Seoul",
     "host": "MetaMask, Linea, Ticker Capital, AiGO and CLS ventures",
     "startDate": "2024-09-03",
@@ -1768,7 +1836,7 @@
     "email": "achoi@japamediagroup.com"
   },
   "HypeSurge: Builders' Mixer": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawl2ppknkvmsz6ilw62rrxxed2irb7jsxn7mg7ltyd7nmup5ga6a.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiclisku4unmbyh2cqb2rjtd3miatqxgd3bsfuovfeyo3ppxnobhlm.png",
     "title": "HypeSurge: Builders' Mixer",
     "host": "HypeLabs & SURGENCE",
     "startDate": "2024-09-03",
@@ -1903,10 +1971,10 @@
     "capacity": "40",
     "email": "justin@factomind.io"
   },
-  "GMNT Korea! (After Party)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihd74angurot3jk6vvnms6bvtqspn2dmsclgzhbklquecddw6mhme.png",
-    "title": "GMNT Korea! (After Party)",
-    "host": "Mantle",
+  "GMNT Korea with GGI!(After Party)": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid46ujdfgjxcw5lqmfst7curyq6kkpn4k6lvpcu2lcfoes37jwnd4.png",
+    "title": "GMNT Korea with GGI!(After Party)",
+    "host": "Mantle, GGI(Galaxy Girl interactive)",
     "startDate": "2024-09-03",
     "endDate": "2024-09-03",
     "startTime": "21:00",
@@ -2074,7 +2142,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicqob7gs6zn5f2yycamf6mnp2shsbmpet335gilx4zevtk4awv7a4.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -2111,8 +2179,8 @@
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidn7mhvvjos3am7v6rqxgo3h5fvn4xguwwbrbfhcl6yejia6jiv6e.png",
     "title": "Supra's Demo Day",
     "host": "Supra, Killer Whales, Hashed, A41, Google cloud",
-    "startDate": "2024-09-04",
-    "endDate": "2024-09-04",
+    "startDate": null,
+    "endDate": null,
     "startTime": "09:00",
     "endTime": "16:00",
     "type": "Conference, Networking",
@@ -2244,7 +2312,7 @@
     "email": "mista@initia.xyz"
   },
   "MemeCore & OKX Pheromone Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie2mktctqrcqnd5a3plwqs22nzpn4t3vkagqeoyoktey5rxb3ss3e.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiethzd2mbkc52gq7p67afk6fhtmwpjifr7glqz7lnjfshwsf564ha.png",
     "title": "MemeCore & OKX Pheromone Day",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -2277,6 +2345,23 @@
     "capacity": null,
     "email": "events@fluence.one"
   },
+  "MemeGo Meme Mania - KBW Edition": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiefa2yj75olepbjy57nnqyxxwa4bx6eqhbpfforquao6gqhngo3gi.png",
+    "title": "MemeGo Meme Mania - KBW Edition",
+    "host": null,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "type": "Networking",
+    "location": "Gangnam Bar Cafeslow cocktail bar",
+    "address": "35, Seocho-daero 77-gil, Seocho-gu, Seoul",
+    "placeId": "ChIJZSEk4FihfDUR29j7XCLf_bg",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/1c92ng4g",
+    "capacity": null,
+    "email": null
+  },
   "Open House #AI": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidxwinthhephczid2m7dtvzjsgj3memgv66s5xldtg4dbcg52jwhy.png",
     "title": "Open House #AI",
@@ -2295,7 +2380,7 @@
     "email": "jeffca@rss3.io"
   },
   "Web3 Growth Masterclass": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid4sxa4vn4pmh26rp2xdtu37sdu6ogqrqpbuf7e2xmqeig4znn2oi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig6uhu73jiq2dgcqq3knqopxphaiad2bgop6a6rfwnhoyxufknxpi.png",
     "title": "Web3 Growth Masterclass",
     "host": "Nibiru, Myosin",
     "startDate": "2024-09-04",
@@ -2499,7 +2584,7 @@
     "email": "jb@memecore.org"
   },
   "zkHouse": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidm3yeh3tz2sepu4cgyiypm2vtl5tr4rqmguhgl4hat2gcq74rr2e.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibuyk3nepne4yr2c4esuuduhqs6xkwindtbdcsrg72y3gfwhxlb5u.png",
     "title": "zkHouse",
     "host": "Mondy builders",
     "startDate": "2024-09-04",
@@ -2567,7 +2652,7 @@
     "email": "pudgysook@gmail.com"
   },
   "StakeStone Connect: Seoul Edition - Innovating Liquidity @ KBW2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicc3zqeyi6rbu2n3f262ugcwvlodiqyso6cq6t3lfkwlfmp54t5ju.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidfd64wftqaxqm6gz4xyypgzmdgslg4ehgs4ljccxwbjrqjl5jnki.png",
     "title": "StakeStone Connect: Seoul Edition - Innovating Liquidity @ KBW2024",
     "host": "StakeStone",
     "startDate": "2024-09-04",
@@ -2601,7 +2686,7 @@
     "email": "bobaphat@scribe.exchange"
   },
   "Game On, Chain On": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifb4t7mrey6ztoc3ultuw6weuvxdio2m6orsarvgg25ynmg5faq2m.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihbz7lxwenkqv6tgkf6zxdobzcvufw3i3hkq4k3oynhttoypr3kui.png",
     "title": "Game On, Chain On",
     "host": "MARBLEX & Immutable Ignite Korea",
     "startDate": "2024-09-04",
@@ -2720,7 +2805,7 @@
     "email": "jesalin.t@aspireapp.com"
   },
   "Orbiter Layer2 Influence night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih3wdnmhuhxkzkct65h3lnwgcg6hbquiqsrmluxwh74hjvywlcggy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifoipxbh7z4s2syesy4u7ffwx3oai5fdjyeuljwnmvehvfm7f2dhm.png",
     "title": "Orbiter Layer2 Influence night",
     "host": "Orbiter Finance",
     "startDate": "2024-09-04",
@@ -3348,6 +3433,23 @@
     "capacity": "150",
     "email": "tjwpdud256@naver.com"
   },
+  "Mizu, Sentinent, Aquarius Fund": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibadnc4opoqoovv5hyctvqydsubwcpxewyji7bzzap3zjcwiybxke.png",
+    "title": "Mizu, Sentinent, Aquarius Fund",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "17:00",
+    "endTime": "05:00",
+    "type": "Workshop, Panel, Networking Event",
+    "location": "Restrict location to guests",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/el3mp6ag",
+    "capacity": "100",
+    "email": "hazel@alab.fund"
+  },
   "Institutional Adoption : Building Solid Foundation for Web2 & 3": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifal4isy3ppnxlocbjcmsqy4yuwg4sxaylj5komrc4q7vql76xdlq.png",
     "title": "Institutional Adoption : Building Solid Foundation for Web2 & 3",
@@ -3382,10 +3484,10 @@
     "capacity": "75",
     "email": "shasank@hashed.com"
   },
-  "TON Community Summit with Blum, Yescoin & TONX": {
+  "Blum, Yescoin, TONX & TON Innovators Summit": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarrsdwb57jswcvobz7576ipffwaoiq5zivckgv4tyi3lwzkoxrda.png",
-    "title": "TON Community Summit with Blum, Yescoin & TONX",
-    "host": "KTON",
+    "title": "Blum, Yescoin, TONX & TON Innovators Summit",
+    "host": "KTON, BLUM, TONX, YESCOIN",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "18:00",
@@ -3417,7 +3519,7 @@
     "email": "shic.block@gmail.com"
   },
   "Esports Night Out": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiasjyz2eqsmt3o3tbvv7sqseralhfzzpel37zpzqsqbrumzdsme7u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiacyx3eodoscwxwgz3hn7y5fepqizszqsrfswbnkysbcz4ykcxp3m.png",
     "title": "Esports Night Out",
     "host": "Miracle Play",
     "startDate": "2024-09-05",
@@ -3451,7 +3553,7 @@
     "email": "events@starknet.org"
   },
   "HangOVER Seoul : OverProtocol X GSR X Jambo": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiezniihwdkx2rwjl22umlsque54xslx3wg7f4pl2emd65cuitqqpe.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigyvooicwg5jr5ky4usx5g5245zf34o37di47kcyz46cd5sm4tkcy.png",
     "title": "HangOVER Seoul : OverProtocol X GSR X Jambo",
     "host": "OverProtocol, GSR, Jambo, Bespin Global, Google Cloud, Hashkey Global, Baby Shark Universe, Koii",
     "startDate": "2024-09-05",
@@ -3493,7 +3595,7 @@
     "startTime": "18:00",
     "endTime": "23:00",
     "type": "Networking Event",
-    "location": "AMC Tower",
+    "location": "LBK Labs",
     "address": "222, Bongeunsa-ro, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
@@ -3502,7 +3604,7 @@
     "email": "ask@13desk.news"
   },
   "K Meme Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifa7mpqstvnpa2oxz4cdobt247ghrldipumrxqvy3bhbw5gaf6mn4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigvc24tdlyram3zvcdltr2zyz4oti6mm44gjn2ynvvrdltcbvdw7m.png",
     "title": "K Meme Night",
     "host": "NectarX / Harry Porter Obama Sonic 10 inu / Toshi / DogInMe / Based $DO",
     "startDate": "2024-09-05",
@@ -3553,7 +3655,7 @@
     "email": "yura@nibiru.org"
   },
   "Success Begins with Support: Ankaa Accelerator Kick-Off": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifaoudwrti4risjuhjxegdtww7vboufokrrf3saflnsqxa2uexbhe.png",
+    "image": null,
     "title": "Success Begins with Support: Ankaa Accelerator Kick-Off",
     "host": "Ankaa Labs, Aptos, OKX Ventures, Alcove community",
     "startDate": "2024-09-05",
@@ -3563,7 +3665,7 @@
     "type": "Networking Event, Party",
     "location": "TBD",
     "address": "TBD",
-    "placeId": "ChIJzzlcLQGifDURm_JbQKHsEX4",
+    "placeId": null,
     "entry": "Free (Registration required)",
     "link": "https://lu.ma/ep7yr2x2",
     "capacity": "150",
@@ -3604,7 +3706,7 @@
     "email": "erik@storyprotocol.xyz"
   },
   "CoinW Exclusive VIP Afterparty - Korea Blockchain Week (KBW)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigj3jdnnueil75lqxr7yv2zwdbgdxqg3lecjl4jxak5w3m7lzc3ia.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigmnbkr4h5xgmqfwi7evdoiilgrysfbof7kxutcqkcvgbbufy3om4.png",
     "title": "CoinW Exclusive VIP Afterparty - Korea Blockchain Week (KBW)",
     "host": "CoinW",
     "startDate": "2024-09-05",
@@ -3672,7 +3774,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidrxxoaa7ouzbwuyvpbpee2pjfhgpvk7dijvm427hteqgwixz6nqu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigtvf56pfkr7rjxpujedamxw6h6vdnfm7kfoyilhjpkc43ystzki4.png",
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
@@ -3706,7 +3808,7 @@
     "email": "zac@encryptx.io"
   },
   "The Crypto Odyssey with APAC Crypto Media": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreictdowos7nxrh7tg4ekcma63hgk7e3rylkj4rydtjtcwqerahg7vy.png",
     "title": "The Crypto Odyssey with APAC Crypto Media",
     "host": "DeSpread, Factblock, Techflow, CryptoTimes, Followin",
     "startDate": "2024-09-05",
@@ -3716,14 +3818,14 @@
     "type": "Networking Event, Party",
     "location": "Banyan Tree Seoul Festa Rooftop Bar",
     "address": "60, Jangchungdan-ro, Jung-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJGR_sdB-jfDURARlu68lWR8M",
     "entry": "Invitation Only",
-    "link": "TBD",
+    "link": "https://lu.ma/7swofe76",
     "capacity": "200",
     "email": "jeff@despread.io"
   },
   "Optimisitic Beasts | KBW Night Bash": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib53cakx42ebz3mdkp7gjvwrhnelr7ray2agr4nalpm2dro7blwuq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexkjvbv6myiaug67b2fvsehjuerfnf7v7jsfhauc2giihy6jvdwe.png",
     "title": "Optimisitic Beasts | KBW Night Bash",
     "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Netowrk/ W3B Global",
     "startDate": "2024-09-05",
@@ -3944,7 +4046,7 @@
     "email": "wesley@magna.so"
   },
   "TON Discovery Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigwokfvg2ikdpu2id3cxx5a5a2uzej4vyygaikn5buh2yaqiesubu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifps4i6oxvbhssqza7wm3t2uraakoz3qhr6ahznyjb353erzbki7e.png",
     "title": "TON Discovery Day",
     "host": null,
     "startDate": "2024-09-06",
@@ -4063,7 +4165,7 @@
     "email": "Info@germanblockchainweek.com"
   },
   "Upside's VVIP Jeffersonian Dinner - KBW Edition: A Dialog on Positive Future to Invest In": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihlsfdahqghhy3ji7mfbe7wjysumujhzwpv2trb47utl7fiehfxoe.png",
     "title": "Upside's VVIP Jeffersonian Dinner - KBW Edition: A Dialog on Positive Future to Invest In",
     "host": "Upside",
     "startDate": "2024-09-06",
@@ -4075,7 +4177,7 @@
     "address": "TBD",
     "placeId": null,
     "entry": "Invitation Only / Private",
-    "link": "TBD",
+    "link": "https://lu.ma/lotu6l6b?locale=fr",
     "capacity": "10",
     "email": "joshua@upside.gg"
   },
@@ -4114,7 +4216,7 @@
     "email": "juhyuk@despread.io"
   },
   "ZKcandy x Prometheuz Night Out - Connecting ZK Ecosystem": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif42qscsm4h2bcxo7qdyxruupmpdtuw3cwizgvst474hftpdi47vm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicnbfqwshwrrxdbmlwtcla6lst6cmji4ptbud3ai7ag5w3evhp5xe.png",
     "title": "ZKcandy x Prometheuz Night Out - Connecting ZK Ecosystem",
     "host": "ZKcandy, Prometheuz",
     "startDate": "2024-09-06",
@@ -4284,7 +4386,7 @@
     "email": "info@cryptoartseoul.com"
   },
   "Hack on Polygon w": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiafs2q34iqmvoqjhfphescmjylx3wok3enn5duriurc2pa2imc4la.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid2aphn7owpoc72gbnv5ljsk23r5vwts6hazbx5ceyubxpg4nu5au.png",
     "title": "Hack on Polygon w",
     "host": "DABL Club & wcm",
     "startDate": "2024-09-07",
