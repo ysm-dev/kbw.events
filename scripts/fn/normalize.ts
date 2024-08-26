@@ -214,22 +214,30 @@ const getEmail = (row: (string | undefined)[]): string | null => {
 }
 
 const getStartDate = (row: (string | undefined)[]): string | null => {
-  if (!row[0]) return null
-  if (row[0].includes("TBD")) return "TBD"
+  try {
+    if (!row[0]) return null
+    if (row[0].includes("TBD")) return "TBD"
 
-  return format(parse(row[0].split(" - ")[0], "MMM D"), "yyyy-MM-dd") || null
+    return format(parse(row[0].split(" - ")[0], "MMM D"), "yyyy-MM-dd") || null
+  } catch (e) {
+    return null
+  }
 }
 
 const getEndDate = (row: (string | undefined)[]): string | null => {
-  if (!row[0]) return null
-  if (row[0].includes("TBD")) return "TBD"
+  try {
+    if (!row[0]) return null
+    if (row[0].includes("TBD")) return "TBD"
 
-  return (
-    format(
-      parse(row[0].split(" - ")?.[1] ?? row[0].split(" - ")?.[0], "MMM D"),
-      "yyyy-MM-dd",
-    ) || null
-  )
+    return (
+      format(
+        parse(row[0].split(" - ")?.[1] ?? row[0].split(" - ")?.[0], "MMM D"),
+        "yyyy-MM-dd",
+      ) || null
+    )
+  } catch (e) {
+    return null
+  }
 }
 
 const getStartTime = (row: (string | undefined)[]): string | null => {
