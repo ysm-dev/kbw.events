@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -577,6 +577,23 @@
     "capacity": "1000",
     "email": "daniel@mpost.io"
   },
+  "AgileGTM PITCH STATION @ KBW 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibzra3sjapfihzai3ksdihpqhzjxspihr46fcqre2tebroj6bo4xe.png",
+    "title": "AgileGTM PITCH STATION @ KBW 2024",
+    "host": "AgileGTM Capital",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "10:00",
+    "endTime": "19:00",
+    "type": "Pitch Station",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/omk9my0c",
+    "capacity": "80",
+    "email": "maria@agilegtm.vc"
+  },
   "KBW Founders & Investors Brunch ✨": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvvnfvvcme7tziyiwmvvnlnmntepx6mmsa4r24dxn2pwksrbn54i.png",
     "title": "KBW Founders & Investors Brunch ✨",
@@ -699,12 +716,12 @@
   "Asia's Superchain Pioneers In Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaxm5d73gsyad7qg5gsuwam6jg7j3ax3zfzoolpnitaxkltdb7rga.png",
     "title": "Asia's Superchain Pioneers In Seoul",
-    "host": null,
+    "host": "Optimism, Kroma, Mint Blockchain, GameSwift, and Orderly Network",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
     "startTime": "14:00",
     "endTime": "18:00",
-    "type": "Networking Event",
+    "type": "Networking Event, Panel Talk",
     "location": "2nd Floor, 31, Achasan-ro 13-gil, Seongdong-gu, Seoul",
     "address": null,
     "placeId": "ChIJW5Yw8ZakfDUR2rrZEcx5dqM",
@@ -1069,6 +1086,23 @@
     "link": "https://lu.ma/yqhy7lzw",
     "capacity": null,
     "email": "mike@helika.io"
+  },
+  "TON Asia": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiglypbrizgorso74gfospyanciqanrignpwhuunlbz5xrfrypmw44.png",
+    "title": "TON Asia",
+    "host": "Seoul, AKEDO Games x TOP x Tonkeeper x OKX Ventures",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "루프탑바 디아만테",
+    "address": "115-15 Cheongdam-dong, Gangnam-gu, Seoul",
+    "placeId": "ChIJGXMezTKlfDURAAen9LSnhD4",
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/75rd5w0s",
+    "capacity": "500",
+    "email": "ada758458@gmail.com"
   },
   "Big Time Crypto by Lumoz & Exilist : KBW in Mind": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibtopqbxp46h3h3hy6i4hbfzbavgxjqmqnxnmy3h6p6otdhxiftv4.png",
@@ -2532,6 +2566,23 @@
     "capacity": "200",
     "email": "masha@aethir.com"
   },
+  "QuillCon KBW : Founders and VC Connect": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiflhti4yo4onbgkyyndr22zatqxh4czcdwfaledmrmlabd3rwt2g4.png",
+    "title": "QuillCon KBW : Founders and VC Connect",
+    "host": "QuillAudits",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "16:00",
+    "endTime": "19:00",
+    "type": "VC meet , Founders meet , Networking",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": "ChIJzzlcLQGifDURm_JbQKHsEX4",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/jro17lhc",
+    "capacity": "100",
+    "email": "growth@quillaudits.com"
+  },
   "The Sandbox Web3 Showcase & Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihvk2aicmsbjjulpwlauc326wspt4szg42lsfyoko6ndfuubtszpq.png",
     "title": "The Sandbox Web3 Showcase & Party",
@@ -3042,6 +3093,23 @@
     "capacity": "80",
     "email": "events@metis.io"
   },
+  "Eclipse & Undefined Labs Present: Cowabunga Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigiyyfkzhq775mj3qjrxy7qpcdd2x7ian7bdqpzyvfyaa5r4cbwpm.png",
+    "title": "Eclipse & Undefined Labs Present: Cowabunga Party",
+    "host": null,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "21:00",
+    "endTime": "02:00",
+    "type": "Party",
+    "location": "팔러 서울 PARLOUR SEOUL",
+    "address": "164 지층 Itaewon-ro, Yongsan-gu, Seoul",
+    "placeId": "ChIJXXxxAE2jfDURZhXxO_tuezs",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/rav5sapw",
+    "capacity": "150",
+    "email": "mike@undefinedlabs.xyz"
+  },
   "IPFi Afterparty": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifph2hfmbotsj4tl2xsrmewmsz2kdcnaicgqgu32mskduecokqdqe.png",
     "title": "IPFi Afterparty",
@@ -3058,6 +3126,23 @@
     "link": "https://lu.ma/0qzly416",
     "capacity": null,
     "email": "erik@storyprotocol.xyz"
+  },
+  "RecycleFarm Green Light with K-POP(With Zior Park, Vandal Rock, Juncoco, CHEEZ, Loa)": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifejqesbisgjwsehqlt5jvpva53susxy5b2r2ykvzpgjnu7vd3hqa.png",
+    "title": "RecycleFarm Green Light with K-POP(With Zior Park, Vandal Rock, Juncoco, CHEEZ, Loa)",
+    "host": "RecycleFarm",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "22:00",
+    "endTime": "04:00",
+    "type": "Party",
+    "location": "SOHO Lounge Seoul",
+    "address": "656 Sinsa-dong, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/ama8igs7",
+    "capacity": "200",
+    "email": "biz@recyclefarm.org"
   },
   "Speed dating with the best Vietnamese dev": {
     "image": null,
@@ -4420,7 +4505,7 @@
     "email": "seono@071labs.io"
   },
   "Puffpaw x New Friendship Tech": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsltwl6pjtzoknewy6mbwza2tum3ouonhxkzituqfhyfm4le4ziq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig4s4l6n2h5ppvmkew3xywz2pza4na62uw7cocc7frwncbxdaxbn4.png",
     "title": "Puffpaw x New Friendship Tech",
     "host": null,
     "startDate": "2024-09-06",
@@ -4556,7 +4641,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
