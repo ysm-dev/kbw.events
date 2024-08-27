@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1376,6 +1376,23 @@
     "capacity": null,
     "email": "heather.shin@kaia.io"
   },
+  "BTC BAR SEOUL Pizza Ninjas": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihzc4hc3hweburjettsy3ml3bqwdvkkbiejjuxox74ygbp5rjwfgi.png",
+    "title": "BTC BAR SEOUL Pizza Ninjas",
+    "host": null,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-07",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "type": "Networking event",
+    "location": "Wonderfruit",
+    "address": "38 Apgujeong-ro 48-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJ6W4hz8WjfDURVnKW-fPUAHc",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/btcbarseoul",
+    "capacity": "100",
+    "email": "eric@ninjalerts.com"
+  },
   "Hangang Riverside Morning Run w/ B-Harvest": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib2qdvrawmkuvy4x62xkwiyqvcntmaj5isjfams27jzm2urr3hhbi.png",
     "title": "Hangang Riverside Morning Run w/ B-Harvest",
@@ -2448,7 +2465,7 @@
     "email": null
   },
   "Open House #AI": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaaj4d2m3rp7amj4flj6blxazqehq2oskujbkrd56mtj64bksigqe.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid4b2om3zhyu6lffubbtmpdzv7en5ih2ekcvuxn5yanq2dkwtnmbe.png",
     "title": "Open House #AI",
     "host": "RSS3, Whitewater Labs, Soju DAO, Open Information Initiative",
     "startDate": "2024-09-04",
@@ -2597,7 +2614,7 @@
     "placeId": "ChIJkXifMBijfDURFTWsbU0xcoE",
     "entry": "Free (Registration required)",
     "link": "https://lu.ma/uxi472n2",
-    "capacity": null,
+    "capacity": "22",
     "email": "event_korea@sandbox.game"
   },
   "Bitcoin Odyssey Seoul": {
@@ -2628,7 +2645,7 @@
     "type": "Networking Event",
     "location": "Tipstown S6",
     "address": "1Fl - 168 Yeoksam-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ-x6yi1ShfDUR5vQjliGXM0M",
     "entry": "Free Entry",
     "link": "https://lu.ma/pf1oszeb",
     "capacity": "100",
@@ -3944,7 +3961,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigtvf56pfkr7rjxpujedamxw6h6vdnfm7kfoyilhjpkc43ystzki4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihwtaiqeei3sxjfuelrqxdntua77b46ifdytop5gptmjxhidn4fiq.png",
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
@@ -4641,7 +4658,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
