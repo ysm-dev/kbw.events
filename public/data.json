@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -510,7 +510,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
+    "image": null,
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -2634,6 +2634,23 @@
     "capacity": "150",
     "email": "marketing@plumenetwork.xyz"
   },
+  "Kimchi Wasabi 2024 : Web3 Gaming Night Sponsored by SNPIT": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie2jbzhdifdasnnk3dyxl6sfcyva5t4q7qdwlntvzypk7biowje5y.png",
+    "title": "Kimchi Wasabi 2024 : Web3 Gaming Night Sponsored by SNPIT",
+    "host": "hosted by HAECHI LABS | Pacific Meta",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "type": "Meetup",
+    "location": "7f, L7 오피스동, 415 Teheran-ro, Gangnam-gu, Seoul",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/kbw-gamefi",
+    "capacity": "80",
+    "email": "dai.mori@pacific-meta.co.jp"
+  },
   "Brain Training & Networking": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibdrb6ot3nvvnbmgmc6yr2fwwbptbwfuni22ux2vt7mfliumbvxvm.png",
     "title": "Brain Training & Networking",
@@ -2837,6 +2854,23 @@
     "link": "https://lu.ma/7iuuncj4",
     "capacity": "150",
     "email": null
+  },
+  "CUTC; CURG with Traders (w/ HashKey Global, Undefined Labs, Blockwave Labs & More)": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih3qm776cbxuzlghx4dcsvwh6zwcfwm7wl2ycoxo7yw6bx5hlsmtq.png",
+    "title": "CUTC; CURG with Traders (w/ HashKey Global, Undefined Labs, Blockwave Labs & More)",
+    "host": "CURG",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Conference, Networking",
+    "location": "Dreamplus Gangnam",
+    "address": "311 Gangnam-daero, Seocho-gu, Seoul",
+    "placeId": "ChIJbXdTk0-hfDURvFywX9aAskg",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/jg1vpimt",
+    "capacity": "150",
+    "email": "contact@blockwavelabs.io"
   },
   "Pudgy x Skale K-BBQ Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigsntpp5wef4mxpit2yfdpgfd3zqer3gvrpl42ofcpsxo6ybeqzyq.png",
@@ -3196,7 +3230,7 @@
     "email": "events@metis.io"
   },
   "Eclipse & Undefined Labs Present: Cowabunga Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigiyyfkzhq775mj3qjrxy7qpcdd2x7ian7bdqpzyvfyaa5r4cbwpm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibnxmpklgtoufaegxufqfebjwcjf67opjwg2bcdi3vnicucrvgyhm.png",
     "title": "Eclipse & Undefined Labs Present: Cowabunga Party",
     "host": null,
     "startDate": "2024-09-04",
@@ -3451,7 +3485,7 @@
     "email": "seono@071labs.io"
   },
   "071 Labs' RWA, DeFi & Infrastructure Summit - Co-Hosted by Plume Network": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih4je6n326lgducmwdyceig7yt2vab6rellopxqjr4vvix26cigge.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicmeipw47gk3mlilq4o2wxqnpztssjqut2dskedmbsa3q4nzilbba.png",
     "title": "071 Labs' RWA, DeFi & Infrastructure Summit - Co-Hosted by Plume Network",
     "host": "071labs",
     "startDate": "2024-09-05",
@@ -4657,6 +4691,23 @@
     "capacity": null,
     "email": "erik@storyprotocol.xyz"
   },
+  "Tissue VIP Night": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiftztd3fcvbi7pegsye7umes5e46o63au4ebri5oq6qqkmy46qy2y.png",
+    "title": "Tissue VIP Night",
+    "host": "SPLA LABS",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "21:00",
+    "endTime": "00:00",
+    "type": "Networking Event, Party",
+    "location": "taetaetae.lab",
+    "address": "1F, 24, Wangsimni-ro 2-gil, Seongdong-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://linktr.ee/tissue_web3",
+    "capacity": "100",
+    "email": "richard@lkbrothers.com"
+  },
   "Crypto After Dark": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifl2y5yx7rq4eqoz6jbg35sd5fq4qb35z6hjil545dog2533omyka.png",
     "title": "Crypto After Dark",
@@ -4777,7 +4828,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
