@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2261,7 +2261,7 @@
     "email": "support@ftcambridge.uk"
   },
   "Whitewater Labs Seoul Pub Crawl": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidjbsdh7stovh6s3ssc2vzpfnbbdcihgjnmjmawrxuu62kvhn2dya.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic25tf5o6g7qlxkicq2bismb6tyczkrvpr4xw5ikgbw2qvq66xzu4.png",
     "title": "Whitewater Labs Seoul Pub Crawl",
     "host": "Whitewater Labs",
     "startDate": "2024-09-03",
@@ -2465,7 +2465,7 @@
     "email": "shardlabsofficial@gmail.com"
   },
   "XRPL Zone Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
+    "image": null,
     "title": "XRPL Zone Seoul",
     "host": "Ripple",
     "startDate": "2024-09-04",
@@ -3238,8 +3238,8 @@
     "startTime": "21:00",
     "endTime": "04:00",
     "type": "Party",
-    "location": "SOHO Lounge Seoul",
-    "address": "656 Sinsa-dong, Gangnam-gu, Seoul",
+    "location": "Register to see address",
+    "address": null,
     "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/ama8igs7",
@@ -3468,7 +3468,7 @@
     "email": "seono@071labs.io"
   },
   "Bitcoin Brunch @ KBW with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidrxe5a4yybgiuoqgrn7emmztscgyjehzdveyb43cmhwhlxvi2heu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibrhm64ym54sw62jqzhvnqp23fevmids5u5km3gk2bzibqllqz6ky.png",
     "title": "Bitcoin Brunch @ KBW with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-05",
@@ -3810,7 +3810,7 @@
   "Gate.io Lead Asia Charity Carnival": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicbcud4at3o6mzqalnwpozw7bhsuothqq3e7l2xji56jlfiuihdii.png",
     "title": "Gate.io Lead Asia Charity Carnival",
-    "host": "Gate.io, Airian, Dong-A Media, Shiba, MeMe Core",
+    "host": "Gate.io, Airian, Dong-A Media, SHIB, MeMe Core",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "18:00",
@@ -4099,7 +4099,7 @@
   "Optimisitic Beasts | KBW Night Bash": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiexkjvbv6myiaug67b2fvsehjuerfnf7v7jsfhauc2giihy6jvdwe.png",
     "title": "Optimisitic Beasts | KBW Night Bash",
-    "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Netowrk/ W3B Global",
+    "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Network/ W3B Global",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "20:00",
@@ -4369,7 +4369,7 @@
     "email": "main6@weple.io"
   },
   "Solana Spectrum in Korea": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig4tj2txchb7hjtz364ugn6pf45j5qi3mmmf3yqdmou4daag6btku.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifuntuakkn77ay2bqgevresbxlsramqa3v2ljt233fe5izbre5jtq.png",
     "title": "Solana Spectrum in Korea",
     "host": "Fragmetric, Jito, Presto, Solana Foundation",
     "startDate": "2024-09-06",
@@ -4777,7 +4777,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
