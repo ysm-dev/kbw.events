@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1156,7 +1156,7 @@
     "email": "ada758458@gmail.com"
   },
   "Big Time Crypto by Lumoz & Exilist : KBW in Mind": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wmiy5srk4cxqa5a65qxhhohenx2ji24qswhkv6jmbrx3zqee2y.png",
     "title": "Big Time Crypto by Lumoz & Exilist : KBW in Mind",
     "host": "Lumoz / Exilist / Merlin Chain / Mind Network / Master Protocol / Orange / ChannelDAO",
     "startDate": "2024-09-02",
@@ -1166,7 +1166,7 @@
     "type": "BTC Ecosystem Party, Networking Event",
     "location": "36, Itaewon-ro 27na-gil, Yongsan-gu, Seoul",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJc8CRM7GjfDURThmcZKlVVR8",
     "entry": "Free Entry",
     "link": "https://lu.ma/377vcogq",
     "capacity": "200",
@@ -4930,7 +4930,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
