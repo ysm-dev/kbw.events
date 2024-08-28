@@ -357,7 +357,7 @@
     "email": "eric@urconduit.com"
   },
   "Movement in Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiejzaviaxzwfoqftes5v52tve4njnql2kn62m6x7v3g33ztzfo7yu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifnosyey47tp5nwbvl67trsw5gxiimas3keyi2szr4ar3ulakkmri.png",
     "title": "Movement in Seoul",
     "host": "Movement, TEB, Proof of Food",
     "startDate": "2024-09-01",
@@ -457,23 +457,6 @@
     "link": "https://lu.ma/707tzkh4",
     "capacity": null,
     "email": "buildershouse@dsrvlabs.com"
-  },
-  "ONE OF US Run": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4yp6d4s6ubf46gncyhi2pjvxpbqrrly4k7phllvoaptprknn7xu.png",
-    "title": "ONE OF US Run",
-    "host": "Aya & Sharding Capital",
-    "startDate": "2024-09-07",
-    "endDate": "2024-09-07",
-    "startTime": "07:30",
-    "endTime": "08:30",
-    "type": "Sports",
-    "location": "Dongho Bridge Hangang Park",
-    "address": null,
-    "placeId": "ChIJCR8sZzKjfDURQv_ktcVA-po",
-    "entry": "Free Entry",
-    "link": "https://lu.ma/kf6fo22h",
-    "capacity": null,
-    "email": "oneofus@mimo.capital"
   },
   "Early Bird Run with Factomind #1": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6t7qqrahwnuxdcvbswfsuhykag6km5zjtqlkoiqslxmrfwszkdi.png",
@@ -1461,6 +1444,23 @@
     "capacity": "50",
     "email": "jeongho.yeo@bharvest.io"
   },
+  "ONE OF US Run": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4yp6d4s6ubf46gncyhi2pjvxpbqrrly4k7phllvoaptprknn7xu.png",
+    "title": "ONE OF US Run",
+    "host": "Aya & Sharding Capital",
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-07",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "type": "Sports",
+    "location": "Dongho Bridge Hangang Park",
+    "address": null,
+    "placeId": "ChIJCR8sZzKjfDURQv_ktcVA-po",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/kf6fo22h",
+    "capacity": null,
+    "email": "oneofus@mimo.capital"
+  },
   "Futsal Session @ Korea Blockchain Week": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihaaosbbo5xvyjiixszkt6jnzedm56yy7jitfqnrizgzuawjlqw7i.png",
     "title": "Futsal Session @ Korea Blockchain Week",
@@ -1598,7 +1598,7 @@
     "email": "loganlim@prestolabs.io"
   },
   "Games: Portal to Web3": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig56mkrg2ckmqlfstkng4nnxnnivctqxewwmuc2c5aca2tbxwd534.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreignvmwcunawtlr7yh5b3xmgbigthmcqmn3pkw6jjcasrswkkbohwm.png",
     "title": "Games: Portal to Web3",
     "host": "SKYGG X YGG",
     "startDate": "2024-09-03",
@@ -2805,7 +2805,7 @@
     "email": "jb@memecore.org"
   },
   "zkHouse": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibuyk3nepne4yr2c4esuuduhqs6xkwindtbdcsrg72y3gfwhxlb5u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidqgz3xlsq4osouskt6uyuwyvpdnt2hfhpc77sorwobffw5xsk4eq.png",
     "title": "zkHouse",
     "host": "Mondy builders",
     "startDate": "2024-09-04",
@@ -4607,7 +4607,7 @@
     "email": "events@starknet.org"
   },
   "LK Brothers lauching night party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiai3aq7tmpwbn245qa6245yvnmdljxn4h2gcjwel6xonspeujsaea.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs3n7mryywy34phagbyrjzz7b73ukc5i5tsijfd6bsukckkbjib4.png",
     "title": "LK Brothers lauching night party",
     "host": null,
     "startDate": "2024-09-06",
