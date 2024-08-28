@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -104,7 +104,7 @@
   "zkConnect Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiejujjnmv4ryphrgywmvpep3vgvtsivffy2mg772ot5bwystkafxq.png",
     "title": "zkConnect Seoul",
-    "host": "Mina Foundation",
+    "host": "Mina Foundation x FormulaLabs",
     "startDate": "2024-08-31",
     "endDate": "2024-08-31",
     "startTime": "18:00",
@@ -4133,14 +4133,14 @@
   "Optimisitic Beasts | KBW Night Bash": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvx5u2a2ab3gbdiabuqgrpxd35ui7rvhn2hwrfrkhxwje7yyb4hq.png",
     "title": "Optimisitic Beasts | KBW Night Bash",
-    "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Network/ W3B Global",
+    "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Network/ Talus/ W3B Global",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "20:00",
     "endTime": "00:00",
     "type": "Networking Party",
-    "location": "CheongDam",
-    "address": null,
+    "location": "Maison D Garden ( D Cheongdam )",
+    "address": "58 Apgujeong-ro 79-gil, Gangnam-gu, Seoul",
     "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/pbkhwu0o",
@@ -4828,7 +4828,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
+    "image": null,
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
