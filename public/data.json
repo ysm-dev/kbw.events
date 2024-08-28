@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2872,6 +2872,23 @@
     "capacity": "700",
     "email": "jb@memecore.org"
   },
+  "The Nakamoto Revolution": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihfvwi7joagfz4rw5jxgoq7hvscn2xnraz73mfww4bzy3plkhc3bq.png",
+    "title": "The Nakamoto Revolution",
+    "host": "Stacks, DeSpread, Hiro Systems",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "17:30",
+    "endTime": "21:30",
+    "type": "Keynote, Panels, Networking Event, Happy Hour",
+    "location": "Seongam Art Hall, 6",
+    "address": "3F Seolleung-ro 111-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJ_7Jv0gukfDURWCbLWSdLn74",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/bsci1jwk",
+    "capacity": "200",
+    "email": "events@stacks.org"
+  },
   "zkHouse": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidqgz3xlsq4osouskt6uyuwyvpdnt2hfhpc77sorwobffw5xsk4eq.png",
     "title": "zkHouse",
@@ -2975,7 +2992,7 @@
     "email": "jake.c@whitewater.capital"
   },
   "Scroll Up! Happy Hour": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaoncdhd45nln4gf6fqrg6k2rea6oaezpurlogxbfuwvqmiuvtifa.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiasuqcdij5f75k74hwmahfwfam2x3j3rgnfw7cerkjjgxtqzt57tm.png",
     "title": "Scroll Up! Happy Hour",
     "host": "Powered by Scroll and Scribe",
     "startDate": "2024-09-04",
@@ -4913,7 +4930,7 @@
     "email": "phil@wepleent.com"
   },
   "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs23zfqhtvbaw2ojwf7bkzloxen4mtbvvhxefas3wnq53d3jxikm.png",
     "title": "MEGA DJ FESTIVAL - KBW FINALE FESTIVAL",
     "host": "MADANG ENT.",
     "startDate": "2024-09-07",
