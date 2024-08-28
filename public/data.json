@@ -561,7 +561,7 @@
     "email": "erik@storyprotocol.xyz"
   },
   "Hack Seasons Conference Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihmz3h6g6p2fwcel54qjclbnajzc2wgbv4arrvqjs7ux4g2m6b7xm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihkqkn4zarxzrfxtburm7ldmc2d4ggskrsxfptlzrongtmor5hihi.png",
     "title": "Hack Seasons Conference Seoul",
     "host": "Mpost",
     "startDate": "2024-09-02",
@@ -806,14 +806,14 @@
     "endDate": "2024-09-02",
     "startTime": "15:00",
     "endTime": "18:30",
-    "type": "Education & Meetup Session",
+    "type": "Summit",
     "location": "Cafe En Travel",
     "address": "45 Gangnam-daero 102-gil, Gangnam-gu, Seoul",
     "placeId": "ChIJAS-Q3OKjfDUR6jTBP9VSuVw",
     "entry": "Free Entry",
     "link": "https://lu.ma/kggy2uo0",
-    "capacity": "300",
-    "email": "yoshi@synfutures.xyz"
+    "capacity": "100",
+    "email": "vivi@synfutures.com"
   },
   "Golden Wave": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibvjwg633dyezzkcr3caxz7rqlr6h4moimmsf45mfcet7ch62vt6e.png",
@@ -1648,6 +1648,23 @@
     "capacity": "200",
     "email": "team@skygg.xyz"
   },
+  "Come and HIDE with People, eXperience and Design": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidgtpfssh24szaempzh2mxo4cxhbdlvegcpbuppn3nmupvs7hbvba.png",
+    "title": "Come and HIDE with People, eXperience and Design",
+    "host": "HIDE ME PLEASE with PXD",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "type": "Networking Event",
+    "location": "1st floor, Panorama Room, 177, Walkerhill-ro, Gwangjin-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJ12NRErq6fDURjhQX1gNvNKw",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/dbb9rfl8",
+    "capacity": null,
+    "email": null
+  },
   "Journey to Mars, Dogelon in Korea": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjm432hxltj4p7cmc43fdbsmfu3antpjptmg6w4qgymmhluy5kdy.png",
     "title": "Journey to Mars, Dogelon in Korea",
@@ -2013,14 +2030,14 @@
     "endDate": "2024-09-03",
     "startTime": "19:00",
     "endTime": "22:00",
-    "type": "Party / Networking",
+    "type": "Party",
     "location": "Courte Cafe",
-    "address": "B1, 13 Dosan-daero 51-gil, Gangnam-gu, Seoul",
+    "address": "Basement 1, 13, Dosandaero 51-gil, Gangnam-gu, Seoul",
     "placeId": "ChIJlw5DYAmjfDURA5kV95WrsEc",
     "entry": "Free Entry",
     "link": "https://lu.ma/t1mcuhg5",
-    "capacity": "250",
-    "email": "yoshi@synfutures.xyz"
+    "capacity": "100",
+    "email": "vivi@synfutures.com"
   },
   "HypeSurge: Builders' Mixer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifz7n2hnkazhubxlnh6xtc64asnglzocanfj5eshf2fymgsua5pd4.png",
@@ -2429,6 +2446,23 @@
     "link": "https://lu.ma/8e3ynu77?tk=XnpbjH",
     "capacity": "500",
     "email": "btcon@digitalasset.works"
+  },
+  "Builders Brunch": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieeszq46jw5wwvsjiqufm4sq4wjiix4wml2tfc6fgw7fif3eaew4i.png",
+    "title": "Builders Brunch",
+    "host": "Airfoil, Morph, Polymer Labs, and Caladan Capital",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "09:30",
+    "endTime": "12:30",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/bbkbw24",
+    "capacity": "50",
+    "email": "ianc@airfoil.studio"
   },
   "KBW Brunch with CertiK Ventures": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibc6cwmyxkjrfazzksm7j2yh62frfh73psdm5dmrmnufz6kyoftq4.png",
@@ -4046,7 +4080,7 @@
     "email": "Andrew_White@Legend.tech"
   },
   "Bitcoin Next, VIP Dinner": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiba52ywxafnrdyy7sw6uko22aikxpdk2usrddoi365besub43b4ci.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih7w4u75x3kpmfb4dfae6r42saqgl4zoddzevwkulqp3y657uneae.png",
     "title": "Bitcoin Next, VIP Dinner",
     "host": "Bitlayer x Lorenzo x Nubit x Bedrock",
     "startDate": "2024-09-05",
@@ -4214,6 +4248,23 @@
     "link": "https://lu.ma/houi8nkh",
     "capacity": "400",
     "email": "thomas@bsuniverse.io"
+  },
+  "Narrative Day: After Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiddyr3ktyhskc44clteat2sbcqxzo7xy47uz5wepqztd7rqluk3ry.png",
+    "title": "Narrative Day: After Party",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "21:00",
+    "endTime": "02:00",
+    "type": "Networking Event, Party",
+    "location": "Fountain",
+    "address": "116-6 Itaewon-dong, Yongsan-gu, Seoul",
+    "placeId": "ChIJHVc0NkqifDURUGE_JEW3C5s",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/74l1jd40",
+    "capacity": null,
+    "email": "mike@undefinedlabs.xyz"
   },
   "Times ft. Hack VC, Berachain, Movement": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigfvne24ytehfz5eincimq45hzkzcvond3dvaock5nhuqlyvhesuq.png",
