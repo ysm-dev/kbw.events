@@ -357,7 +357,7 @@
     "email": "eric@urconduit.com"
   },
   "Movement in Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibasoehid6lkthq7ybz7rdwsoyeo752y2qcfj6eavhikfu5ejphwi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicuksphzqxlxq2cnxz7zphm23yftlz2pkvpjszyb4nhztxxaumvxe.png",
     "title": "Movement in Seoul",
     "host": "Movement, TEB, Proof of Food",
     "startDate": "2024-09-01",
@@ -1156,7 +1156,7 @@
     "email": "ada758458@gmail.com"
   },
   "Big Time Crypto by Lumoz & Exilist : KBW in Mind": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih6wmiy5srk4cxqa5a65qxhhohenx2ji24qswhkv6jmbrx3zqee2y.png",
+    "image": null,
     "title": "Big Time Crypto by Lumoz & Exilist : KBW in Mind",
     "host": "Lumoz / Exilist / Merlin Chain / Mind Network / Master Protocol / Orange / ChannelDAO",
     "startDate": "2024-09-02",
@@ -1166,7 +1166,7 @@
     "type": "BTC Ecosystem Party, Networking Event",
     "location": "36, Itaewon-ro 27na-gil, Yongsan-gu, Seoul",
     "address": null,
-    "placeId": "ChIJc8CRM7GjfDURThmcZKlVVR8",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/377vcogq",
     "capacity": "200",
@@ -3621,7 +3621,7 @@
     "email": "wesley@magna.so"
   },
   "REVELATIONS PODCAST": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreickw6huvif3pq3wm4yqddawtyagmfpxv7nn6ynryp2zfwaqvyusni.png",
+    "image": null,
     "title": "REVELATIONS PODCAST",
     "host": "JULS",
     "startDate": "2024-09-05",
@@ -3631,7 +3631,7 @@
     "type": "Offline Podcast",
     "location": "TBD",
     "address": "TBD",
-    "placeId": "ChIJm7oRy-tVZDURS9uIugCbJJE",
+    "placeId": null,
     "entry": "$50",
     "link": "https://lu.ma/nyq4jbme",
     "capacity": "100",
@@ -4845,7 +4845,7 @@
     "email": "info@futuracanvas.com"
   },
   "BeWater x NEAR HZN AI Alpha Hackathon": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibz3pmxovv7y47d5rga4saqpbnqxa4xmqksxaqfyvixyrvmw7zyhq.png",
     "title": "BeWater x NEAR HZN AI Alpha Hackathon",
     "host": "NEAR & BeWater",
     "startDate": "2024-09-06",
