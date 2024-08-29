@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1462,7 +1462,7 @@
     "email": "jeongho.yeo@bharvest.io"
   },
   "ONE OF US Run": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4yp6d4s6ubf46gncyhi2pjvxpbqrrly4k7phllvoaptprknn7xu.png",
+    "image": null,
     "title": "ONE OF US Run",
     "host": "Aya & Sharding Capital",
     "startDate": "2024-09-07",
@@ -1472,7 +1472,7 @@
     "type": "Sports",
     "location": "Dongho Bridge Hangang Park",
     "address": null,
-    "placeId": "ChIJCR8sZzKjfDURQv_ktcVA-po",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/kf6fo22h",
     "capacity": null,
@@ -4335,7 +4335,7 @@
     "email": "zac@encryptx.io"
   },
   "The Crypto Odyssey with APAC Crypto Media": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreictdowos7nxrh7tg4ekcma63hgk7e3rylkj4rydtjtcwqerahg7vy.png",
+    "image": null,
     "title": "The Crypto Odyssey with APAC Crypto Media",
     "host": "DeSpread, Factblock, Techflow, CryptoTimes, Followin",
     "startDate": "2024-09-05",
@@ -4345,7 +4345,7 @@
     "type": "Networking Event, Party",
     "location": "Banyan Tree Seoul Festa Rooftop Bar",
     "address": "60, Jangchungdan-ro, Jung-gu, Seoul",
-    "placeId": "ChIJGR_sdB-jfDURARlu68lWR8M",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/7swofe76",
     "capacity": "200",
@@ -4590,7 +4590,7 @@
     "email": "events@starknet.org"
   },
   "Magna & LYNC Gaming Brunch at KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigomhr5enlhk4heq2zwnf6a7gwbwghiyuz5at3v4synyomdkv54hm.png",
+    "image": null,
     "title": "Magna & LYNC Gaming Brunch at KBW",
     "host": "Magna & LYNC",
     "startDate": "2024-09-06",
@@ -4777,7 +4777,7 @@
     "email": "joshua@upside.gg"
   },
   "DepinSeoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicbbjlo3ire76kkqd6ruw3bytncygdj6bgdqecuf5as2trqpbncxy.png",
+    "image": null,
     "title": "DepinSeoul",
     "host": "Mondy builders",
     "startDate": "2024-09-06",
@@ -4787,7 +4787,7 @@
     "type": "Networking Event",
     "location": "Dreamplus Gangnam",
     "address": "311, Gangnam-daero, Seocho-gu, Seoul",
-    "placeId": "ChIJbXdTk0-hfDURvFywX9aAskg",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/i3q9c9sg",
     "capacity": null,
