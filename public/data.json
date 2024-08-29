@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1020,7 +1020,7 @@
     "email": "billy_kim@fliquid.io"
   },
   "Manta with Frens at KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih653yxmyukttqp3k7xrejmlfohokojoqavh5ntgfdxhrowf3eena.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicuexg3xfflnxq7csgplnkrvosgtimz5nfdi46svlbm4nycmfnuzm.png",
     "title": "Manta with Frens at KBW",
     "host": "Manta Network",
     "startDate": "2024-09-02",
@@ -3077,7 +3077,7 @@
     "email": "karen@permianlabs.xyz"
   },
   "Seoul's Web3 Unplugged": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihkfraul5p6v24vtbzpep3bunltictde4yozjrdl3klg2q2jbpnzi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibe4pjfh3wnicacuich6fj5qk4l3tcqsf3wqg7kj7lsvdqprs7fb4.png",
     "title": "Seoul's Web3 Unplugged",
     "host": "Movement x Google Cloud x Coinness",
     "startDate": "2024-09-04",
@@ -4719,7 +4719,7 @@
     "type": "Networking Party",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJ_ybfrlKkfDURnsp6pOBTMGc",
     "entry": "Free Entry",
     "link": "https://lu.ma/hg5pg5o2",
     "capacity": "60",
