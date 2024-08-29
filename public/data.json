@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1597,6 +1597,23 @@
     "capacity": "30",
     "email": "jong@sojudao.xyz"
   },
+  "Google Cloud @ NEOHAUS (DSRV Builder's House)": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig7vo33iomwkrarqx3sw52scicbwrefoiyhpn2dlv62vrenlrzzgq.png",
+    "title": "Google Cloud @ NEOHAUS (DSRV Builder's House)",
+    "host": "DSRV",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "14:00",
+    "endTime": "22:00",
+    "type": "Keynote sessions, Networking and BBQ Party",
+    "location": "Nonce",
+    "address": "45-9, Bongeunsa-ro 22-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJL8L65fyjfDURSqWZRbWWg9A",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/ian3u69a",
+    "capacity": null,
+    "email": "jihwans@google.com"
+  },
   "Waves Rooftop Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid3kmwvwddjk4zdonbcdzf2soz22nx5nm6spq5wjocj3exjkiq6xq.png",
     "title": "Waves Rooftop Party",
@@ -2023,7 +2040,7 @@
     "email": "achoi@japamediagroup.com"
   },
   "VIP DeFi Night with SynFutures": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidfhhkyargrymnp3bi4277tchck2ds3egxcl32fxzi5nx4zexgs3u.png",
+    "image": null,
     "title": "VIP DeFi Night with SynFutures",
     "host": "SynFutures",
     "startDate": "2024-09-03",
@@ -2033,7 +2050,7 @@
     "type": "Party",
     "location": "Courte Cafe",
     "address": "Basement 1, 13, Dosandaero 51-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJlw5DYAmjfDURA5kV95WrsEc",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/t1mcuhg5",
     "capacity": "100",
@@ -2380,7 +2397,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicqob7gs6zn5f2yycamf6mnp2shsbmpet335gilx4zevtk4awv7a4.png",
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -2702,15 +2719,15 @@
     "capacity": "150",
     "email": "marketing@plumenetwork.xyz"
   },
-  "Kimchi Wasabi 2024 : Web3 Gaming Night Sponsored by SNPIT": {
+  "🇰🇷x🇯🇵 Kimchi Wasabi 2024: Is Web3 Gaming Still a Thing?": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreienaus3jair2nb2t52rv34ilhqzgijnw7zaurhkjvazu5wuk23wrm.png",
-    "title": "Kimchi Wasabi 2024 : Web3 Gaming Night Sponsored by SNPIT",
-    "host": "hosted by HAECHI LABS | Pacific Meta",
+    "title": "🇰🇷x🇯🇵 Kimchi Wasabi 2024: Is Web3 Gaming Still a Thing?",
+    "host": "Sponsored by SNPIT : hosted by HAECHI LABS | Pacific Meta",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "15:00",
     "endTime": "18:00",
-    "type": "Meetup",
+    "type": "Networking",
     "location": "7f, L7 오피스동, 415 Teheran-ro, Gangnam-gu, Seoul",
     "address": null,
     "placeId": null,
@@ -3247,7 +3264,7 @@
     "email": "andrew@mantle.xyz"
   },
   "MemeCore & OKX Pheromone EDM Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreighabq7zeu7caiagjzhfig6emw3b7xkv33linx46kid7meldfhp2y.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicambraqe6vhzknjhe6ory2eeuph4tqwwgzaztybhbygiox4thkiu.png",
     "title": "MemeCore & OKX Pheromone EDM Party",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -3398,6 +3415,23 @@
     "link": "https://lu.ma/wu1b34l9",
     "capacity": "500",
     "email": "slee@undefinedlabs.xyz"
+  },
+  "BONK IN SEOUL": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidzp3dyvqa53s6cztqpyqv2gpoofjts2erqln6sl2eew4iayyas3m.png",
+    "title": "BONK IN SEOUL",
+    "host": null,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-09",
+    "startTime": "23:00",
+    "endTime": "06:00",
+    "type": "Popup store",
+    "location": "IFC Mall",
+    "address": "10, Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/bonkinseoul",
+    "capacity": null,
+    "email": "marketing@meta-z.io"
   },
   "KBW2024 Sunrise Run 🏃‍♀️ with SuperWalk & Planetarium Labs": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4vdsgrgfkdtewqj435ornsm6sx6j55j3delaqwz63qmgpwmfcyq.png",
@@ -3772,6 +3806,40 @@
     "link": "https://lu.ma/anmepk0e",
     "capacity": "100",
     "email": "margot@tiger-research.com"
+  },
+  "Chimaek with ProBit Global": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiezvgmvsqbwvbv5l3b5zntrmbozjm3ouaxahvfaxsps3ea67zesge.png",
+    "title": "Chimaek with ProBit Global",
+    "host": "ProBit Global",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "16:00",
+    "endTime": "20:30",
+    "type": "Networking Event",
+    "location": "36 Teheran-ro 2-gil, Gangnam-gu, Seoul",
+    "address": null,
+    "placeId": "ChIJoYvpemqhfDUR7qUqkAZPfVA",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/2vz3wkc4",
+    "capacity": "500",
+    "email": "semi.seo@probit.com"
+  },
+  "BONK Guinness Walk Challenge": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifaal3br7sdarbcxq72adjimga3ctsyvs7nikro446qp5y23ucgp4.png",
+    "title": "BONK Guinness Walk Challenge",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "type": "Networking Event",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/bonkwalk",
+    "capacity": "50",
+    "email": "ryot@meta-z.io"
   },
   "KOREANADS NIGHT": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih37k7yfhxismn26su2zitnyygcamjurez635kpkvyvw3bwwo7bce.png",
@@ -4165,7 +4233,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihwtaiqeei3sxjfuelrqxdntua77b46ifdytop5gptmjxhidn4fiq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigxl5wdkikre2uzygynwg7mjsj4t3sn67r46cbthaxmch3hbp76ii.png",
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
@@ -4216,7 +4284,7 @@
     "email": "jeff@despread.io"
   },
   "Optimisitic Beasts | KBW Night Bash": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvx5u2a2ab3gbdiabuqgrpxd35ui7rvhn2hwrfrkhxwje7yyb4hq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihuszid6hcbttcik75i3tljkjuvallk4245fdrxgtm35xddmrsicu.png",
     "title": "Optimisitic Beasts | KBW Night Bash",
     "host": "Kim Exchange/ MODE Network/ LayerBank/ Boba Network/ Talus/ W3B Global",
     "startDate": "2024-09-05",
