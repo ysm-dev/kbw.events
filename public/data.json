@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -85,7 +85,7 @@
     "email": "banklessdao.korea@gmail.com"
   },
   "B-Dat: Blockchain Developer Career Insight": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreice5irkjoqjcrtag44t4e3nu54uu2cbxihefnvgtrnszuylz53rza.png",
+    "image": null,
     "title": "B-Dat: Blockchain Developer Career Insight",
     "host": "B-Harvest, Fast Campus",
     "startDate": "2024-08-31",
@@ -1280,7 +1280,7 @@
     "host": "Koodles Society",
     "startDate": "2024-09-02",
     "endDate": "2024-09-02",
-    "startTime": "19:00",
+    "startTime": "18:00",
     "endTime": "22:00",
     "type": "Meetup",
     "location": "TIME AFTER TIME (Seongsu-dong 2(i)-ga)",
@@ -1289,7 +1289,7 @@
     "entry": "Free (Approval Required)",
     "link": "https://lu.ma/la3u8xrj",
     "capacity": "200",
-    "email": "jun.kim@hashed.comjun.kim@hashed.com"
+    "email": "jjk91525@gmail.com"
   },
   "Onchain Growth Dinner | KBW Edition 🇰🇷": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieovtenospiuotikhblavz43nm6k6c5cqhzumrzql3jqsuxg5kb2y.png",
@@ -2618,7 +2618,7 @@
     "email": "jb@memecore.org"
   },
   "DePIN Day Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiavqza5d4sdyctcl5v5wvwg6ggj5zcirllqz2rwdizfek2iafdpdu.png",
     "title": "DePIN Day Seoul",
     "host": "Fluence & Parasail",
     "startDate": "2024-09-04",
