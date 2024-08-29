@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1377,7 +1377,7 @@
     "email": "desciseoul@gmail.com"
   },
   "CryptoZonic x FORKED Gaming: Afterparty": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvmypqcxsyfvs5rcyizhmqbbghg5tyskycxzi27mr2pkvewnx6my.png",
+    "image": null,
     "title": "CryptoZonic x FORKED Gaming: Afterparty",
     "host": "CryptoZonic",
     "startDate": "2024-09-02",
@@ -1387,7 +1387,7 @@
     "type": "EDM Party",
     "location": "Candy Man Gangnam",
     "address": "11 Seolleung-ro 161-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJkWN9H52jfDURpurl_P2qbAI",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/2nmtpf5t",
     "capacity": "400",
@@ -3502,7 +3502,7 @@
     "email": "justin@factomind.io"
   },
   "AI + DePIN Coffee Meetup w/ Halborn & Pell @ KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaecmrcqhyg3zg6e4ugphyjdg7k3a3aw36kn3onxuxsmy4hmvq6ze.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiby5wkhj42sydprqqugxyqsewdr5zqygcn6533pczyfuzqmophvru.png",
     "title": "AI + DePIN Coffee Meetup w/ Halborn & Pell @ KBW",
     "host": "Halborn, Pell",
     "startDate": "2024-09-05",
