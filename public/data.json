@@ -2380,7 +2380,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicqob7gs6zn5f2yycamf6mnp2shsbmpet335gilx4zevtk4awv7a4.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -2652,7 +2652,7 @@
     "email": "yura@nibiru.org"
   },
   "BrAIniacs Unite!": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaaz4arjfaapkeeiphlm6chj6vlya4om7mnapafiafaa7p4w4wge4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihytlwxt2237yf2x7ghyy3cqn7bqjyca3g3ksbw4lbuyafrra6gsu.png",
     "title": "BrAIniacs Unite!",
     "host": "INF CryptoLab & Spectral Labs",
     "startDate": "2024-09-04",
@@ -2703,7 +2703,7 @@
     "email": "marketing@plumenetwork.xyz"
   },
   "Kimchi Wasabi 2024 : Web3 Gaming Night Sponsored by SNPIT": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreienaus3jair2nb2t52rv34ilhqzgijnw7zaurhkjvazu5wuk23wrm.png",
     "title": "Kimchi Wasabi 2024 : Web3 Gaming Night Sponsored by SNPIT",
     "host": "hosted by HAECHI LABS | Pacific Meta",
     "startDate": "2024-09-04",
@@ -2715,7 +2715,7 @@
     "address": null,
     "placeId": null,
     "entry": "Free Entry",
-    "link": "https://lu.ma/kbw-gamefi",
+    "link": "https://lu.ma/kimchiwasabi24",
     "capacity": "80",
     "email": "dai.mori@pacific-meta.co.jp"
   },
