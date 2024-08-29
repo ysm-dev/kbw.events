@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -748,7 +748,7 @@
     "email": "jee@chainapsis.com"
   },
   "DeAI Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiftlahp4ce5orqb5xpeq2uz2adyyfqntrrubassu6obkcyliaaghu.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiagtnj6rzuf5h2ckhttidth6wk6ml5jopbktzq4xsnu2iuy75m7qa.png",
     "title": "DeAI Day",
     "host": "ICP HUB Korea, Exabits",
     "startDate": "2024-09-02",
@@ -4708,23 +4708,6 @@
     "capacity": "200",
     "email": "events@starknet.org"
   },
-  "LK Brothers lauching night party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs3n7mryywy34phagbyrjzz7b73ukc5i5tsijfd6bsukckkbjib4.png",
-    "title": "LK Brothers lauching night party",
-    "host": null,
-    "startDate": "2024-09-06",
-    "endDate": "2024-09-06",
-    "startTime": "19:00",
-    "endTime": "23:00",
-    "type": "Networking Party",
-    "location": "TBD",
-    "address": "TBD",
-    "placeId": "ChIJ_ybfrlKkfDURnsp6pOBTMGc",
-    "entry": "Free Entry",
-    "link": "https://lu.ma/hg5pg5o2",
-    "capacity": "60",
-    "email": "alex@splalabs.xyz"
-  },
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreictfubffpstwo2eolyhtodc7zukahkqoamdilgad6efujtbhprd6u.png",
     "title": "Seoulana Summer",
@@ -4776,6 +4759,23 @@
     "capacity": "400",
     "email": "eric@urconduit.com"
   },
+  "Tissue Picker Launching All Night Party": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs3n7mryywy34phagbyrjzz7b73ukc5i5tsijfd6bsukckkbjib4.png",
+    "title": "Tissue Picker Launching All Night Party",
+    "host": "LK Brothers, SPLA Labs",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "19:00",
+    "endTime": "05:00",
+    "type": "Networking event, Party",
+    "location": "THE BOX",
+    "address": "B1f, 32-10, Baekjegobun-ro 7-gil, Songpa-gu, Seoul",
+    "placeId": "ChIJ_ybfrlKkfDURnsp6pOBTMGc",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/hg5pg5o2",
+    "capacity": "100",
+    "email": "richard@lkbrothers.com"
+  },
   "DARK MODE: Story House After Party Curated by Ritual": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiepeab7qqfc4c44a5stxsads4sszvsprw7hws7omw2m4whqa52vma.png",
     "title": "DARK MODE: Story House After Party Curated by Ritual",
@@ -4792,23 +4792,6 @@
     "link": "https://lu.ma/darkmode",
     "capacity": null,
     "email": "erik@storyprotocol.xyz"
-  },
-  "Tissue VIP Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiftztd3fcvbi7pegsye7umes5e46o63au4ebri5oq6qqkmy46qy2y.png",
-    "title": "Tissue VIP Night",
-    "host": "SPLA LABS",
-    "startDate": "2024-09-06",
-    "endDate": "2024-09-06",
-    "startTime": "21:00",
-    "endTime": "00:00",
-    "type": "Networking Event, Party",
-    "location": "taetaetae.lab",
-    "address": "1F, 24, Wangsimni-ro 2-gil, Seongdong-gu, Seoul",
-    "placeId": null,
-    "entry": "Free Entry",
-    "link": "https://linktr.ee/tissue_web3",
-    "capacity": "100",
-    "email": "richard@lkbrothers.com"
   },
   "Crypto After Dark": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifl2y5yx7rq4eqoz6jbg35sd5fq4qb35z6hjil545dog2533omyka.png",
