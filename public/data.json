@@ -4777,7 +4777,7 @@
     "email": "justin@factomind.io"
   },
   "Story Academy: Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihbllhjootkxtk5ao3noyneef6ag7ot5ppohl6a5okk5nvlcscaqm.png",
     "title": "Story Academy: Seoul",
     "host": "Story Protocol x Four Pillars",
     "startDate": "2024-09-06",
@@ -4787,7 +4787,7 @@
     "type": "Hacker House",
     "location": "Space S 1",
     "address": "57 Seongsui-ro 20-gil, Seoul",
-    "placeId": null,
+    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
     "entry": "Invitation Only",
     "link": "https://lu.ma/6hjetf9b",
     "capacity": null,
