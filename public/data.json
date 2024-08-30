@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -204,7 +204,7 @@
     "email": "jake@icpkor.com"
   },
   "Build The Future With Chainlink": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigk6m3q5b5t5w2qsrofg6gb4hv635d4e2tcjis2y7sqglxlcg6tgq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiar2ed4ikpqi5ioxsgmq2re6ud6fffx4v3rvfxfr4f7rs5b7rayvq.png",
     "title": "Build The Future With Chainlink",
     "host": "Chainlink Labs",
     "startDate": "2024-09-01",
@@ -1035,6 +1035,23 @@
     "link": "https://lu.ma/ktv0ir9t",
     "capacity": "100",
     "email": "sumin@manta.network"
+  },
+  "Matr1x X Forbes: KBW VIP Private Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifej35axjh6e2poeidlr66wbm4dsjstxgyliikstd2pnguzzjpn5e.png",
+    "title": "Matr1x X Forbes: KBW VIP Private Dinner",
+    "host": null,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Networking Event",
+    "location": "Private",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/wgkbvsq5",
+    "capacity": "100",
+    "email": "cherry@ticker.capital"
   },
   "ICP Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiapi5rdaordet3ksu3n4ya5ubjzcxl5gdmsa7owf4tedo2iszbugu.png",
@@ -2040,7 +2057,7 @@
     "email": "achoi@japamediagroup.com"
   },
   "VIP DeFi Night with SynFutures": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidfhhkyargrymnp3bi4277tchck2ds3egxcl32fxzi5nx4zexgs3u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifefa632hduewam7kpqvjnttmzjbp46j6tomi2rjelcmwaxyt4rge.png",
     "title": "VIP DeFi Night with SynFutures",
     "host": "SynFutures",
     "startDate": "2024-09-03",
@@ -2601,7 +2618,7 @@
     "email": "mista@initia.xyz"
   },
   "MemeCore & OKX Pheromone Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihwk37fqjrjzjuobtu6domowntapr6hp664osiwrifnls5wckovrq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibyol7vb5u6z37grnbmlitqlceloe4qzntosl6xgp4ifsvv7sbkje.png",
     "title": "MemeCore & OKX Pheromone Day",
     "host": "MemeCore",
     "startDate": "2024-09-04",
@@ -3317,7 +3334,7 @@
   "Kulture Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifoeyft5bnm3345zxw2ua2gcf7gvvrh6cr2vh4got6kzxrz6wmrhi.png",
     "title": "Kulture Night",
-    "host": "3Space Art, Hashkey Global",
+    "host": "3Space Art, Hashkey Global, Elysia",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "19:00",
@@ -3326,7 +3343,7 @@
     "location": "Rizz Seoul",
     "address": "55, Eonju-ro 172-gil, Gangnam-gu, Seoul",
     "placeId": "ChIJXRrYpyGjfDURwnf75VxxR64",
-    "entry": "Free, Invitation Only",
+    "entry": "Free (Pre-Register)",
     "link": "https://lu.ma/0i0il73q",
     "capacity": "300",
     "email": "support@3space.art"
@@ -3704,6 +3721,23 @@
     "link": "https://lu.ma/mpjfku8y",
     "capacity": null,
     "email": "ayessa.lopez@halborn.com"
+  },
+  "Web3 Tech-Lunch with SuperWalk x Arbitrum": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifawm5mbss4uwkh5juxa4ft5usgrpr27kh6keakix7xkb4zphgxfq.png",
+    "title": "Web3 Tech-Lunch with SuperWalk x Arbitrum",
+    "host": null,
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "11:30",
+    "endTime": "16:30",
+    "type": "Know-how & Insights Session (Dev & Builder Networking)",
+    "location": "THESIENA, LOOFTOP (5F)",
+    "address": "42, Dosan-daero 81-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJNbCQk6ClfDUR9dErfZtcxes",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pa15u5ra",
+    "capacity": "150",
+    "email": "aiden@proground.co.kr"
   },
   "Magna x Memeland x Aethir VIP Lunch at KBW": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid5sigqtmms3d5jciwlp7rswvogz5dcnjvw2fd772klx2ifl2nd4e.png",
@@ -4657,23 +4691,6 @@
     "capacity": "150",
     "email": "sonic@encryptx.io"
   },
-  "Make Premium Kimchi": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsiyhlu2jlyyz5pm2pxlpcx7sniethdbnryfsmac7ldpaeb2jxzu.png",
-    "title": "Make Premium Kimchi",
-    "host": "Keplr Wallet",
-    "startDate": "2024-09-06",
-    "endDate": "2024-09-06",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "type": "Workshop",
-    "location": "Register to see address",
-    "address": null,
-    "placeId": null,
-    "entry": "Invitation Only",
-    "link": "https://lu.ma/ef2r5vor",
-    "capacity": "30",
-    "email": "jee@chainapsis.com"
-  },
   "Liquidity Summit 2024": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidkrc3uqz5rnblq4rpp6blgvdcmxqgug7q46g3q33ncch4csmccu4.png",
     "title": "Liquidity Summit 2024",
@@ -4690,6 +4707,40 @@
     "link": "https://lu.ma/nnxgtgxs",
     "capacity": "200",
     "email": "luke@mitosis.org"
+  },
+  "WWW: Wellness for Women in Web3": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifrgg3jtjjvcc4c2fvlrombtsd7ssozz34eecce5q4bowwxyglidq.png",
+    "title": "WWW: Wellness for Women in Web3",
+    "host": "ShardLab x Metis x CryptoChicks",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "type": "Wellness Event",
+    "location": "Register to see address",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/kanz8cjx",
+    "capacity": "25",
+    "email": "rachel.kim@shardlab.com"
+  },
+  "Make Premium Kimchi": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicsiyhlu2jlyyz5pm2pxlpcx7sniethdbnryfsmac7ldpaeb2jxzu.png",
+    "title": "Make Premium Kimchi",
+    "host": "Keplr Wallet",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "type": "Workshop",
+    "location": "Register to see address",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/ef2r5vor",
+    "capacity": "30",
+    "email": "jee@chainapsis.com"
   },
   "Pitch.fun - A Gen AI Video Hackathon": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid5unsjt55aiyn5xlz7amqgjhuhbucjv6j5ahe7oiuyec3rsnqlcy.png",
