@@ -1411,7 +1411,7 @@
     "email": "kevin.kim@kaia.io"
   },
   "KBW2024 Early Bird Networking Party By 071labs": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiepraqlc7xugpnwfgam2rcjfxel25o7jw2tg5jm6rxculvw4j5tiq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiczjraihxdc3n3e5eknuhbpsguhbowipye5obuvws6d3grubjw4lq.png",
     "title": "KBW2024 Early Bird Networking Party By 071labs",
     "host": "071labs",
     "startDate": "2024-09-02",
@@ -2050,7 +2050,7 @@
     "type": "Networking Event",
     "location": "TBD",
     "address": "TBD",
-    "placeId": "ChIJGYtOomSkfDUR09d8CXb22JI",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/prom-dwflabs-kbw",
     "capacity": "200",
@@ -2992,7 +2992,7 @@
     "email": "media@yala.org"
   },
   "Global Web3 Builders": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia6pt2c73hw3mdukph7uxapgcjdjb4dev6l5lxxqk6zsahq32ytge.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreic7nynyuljbsqaqrh2n4abx5ssdu3g3a6673how4m4te3tpzkwtuy.png",
     "title": "Global Web3 Builders",
     "host": "Web3 Society",
     "startDate": "2024-09-04",
@@ -3348,6 +3348,23 @@
     "capacity": "80",
     "email": "jesalin.t@aspireapp.com"
   },
+  "Polkadot Investor Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibyib2wkmhbuivyqannltf3uhnk2nayuxn6gunbvajc2t5xervxka.png",
+    "title": "Polkadot Investor Dinner",
+    "host": "PolkaPort East",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "19:00",
+    "endTime": "22:30",
+    "type": "Dinner",
+    "location": "TBC to confirmed guests",
+    "address": null,
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/spfij6u8",
+    "capacity": null,
+    "email": "contact@polkaporteast.xyz"
+  },
   "Orbiter Layer2 Influence night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiajntd5bj7yq25fvhamkusl7m3fytra6iw64ihdi2fr4zapkx5eoi.png",
     "title": "Orbiter Layer2 Influence night",
@@ -3434,7 +3451,7 @@
     "email": "contact@aegis.ventures"
   },
   "071labs Family Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif75zycmh4rcgcacuz7tvehbxrufznepmykkiakputaejhezfem3u.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiej5dle7kpnk6gmbdqzs4cnbqi3hesmwzt6ffkivvx6rqyxp4avme.png",
     "title": "071labs Family Party",
     "host": "071labs",
     "startDate": "2024-09-04",
@@ -3808,7 +3825,7 @@
     "email": "conference@crossangle.io"
   },
   "071 Labs' AI & Depin Summit Co-hosted by KUMA Protocol": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid2n6rqufeun7rsl3de6j272hqztcegzxqgtqrkdf5rfyi527rnre.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibdavbetnp54h55ghdyur4zgvh7ukafev7bzegi6ced77ak2ytq4u.png",
     "title": "071 Labs' AI & Depin Summit Co-hosted by KUMA Protocol",
     "host": "071labs",
     "startDate": "2024-09-05",
@@ -3825,7 +3842,7 @@
     "email": "seono@071labs.io"
   },
   "071 Labs' RWA, DeFi & Infrastructure Summit - Co-Hosted by Plume Network": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicmeipw47gk3mlilq4o2wxqnpztssjqut2dskedmbsa3q4nzilbba.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihwy5dgu5adk6q22dpvdyhoce3pgpdmppxo4iwfrzwrf2vhtetnyq.png",
     "title": "071 Labs' RWA, DeFi & Infrastructure Summit - Co-Hosted by Plume Network",
     "host": "071labs",
     "startDate": "2024-09-05",
@@ -5066,7 +5083,7 @@
     "email": "devonmojito@gmail.com"
   },
   "071labs KOL Party With DJ SODA": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieq5djgqfjdtsif6lskotw27gsgdi6zyggl22wfpzrayxtpd47j3m.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiba2sfibpzjfq2qe6ozyqm3jj2xtw77karq4vpq4m5qokgd56rl4i.png",
     "title": "071labs KOL Party With DJ SODA",
     "host": "071labs",
     "startDate": "2024-09-06",
