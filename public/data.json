@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2584,7 +2584,7 @@
     "email": "shardlabsofficial@gmail.com"
   },
   "XRPL Zone Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
+    "image": null,
     "title": "XRPL Zone Seoul",
     "host": "Ripple",
     "startDate": "2024-09-04",
@@ -2839,7 +2839,7 @@
     "email": "event_korea@sandbox.game"
   },
   "Bitcoin Odyssey Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicpdwfdfyrhib72ck246ejp2u74ajmm5fh4dxfbwwwjkcnz6dhsqa.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicgu5yfzhy4zqs7jubaeobksf6ehmtpdggu5o5blyzgow3tfmg2ua.png",
     "title": "Bitcoin Odyssey Seoul",
     "host": "Yala, Botanix, Nubit, Master Protocol",
     "startDate": "2024-09-04",
@@ -4583,7 +4583,7 @@
     "type": "Sport",
     "location": "Jamsil Hangang Park Basketball Court",
     "address": "1-1 Jamsil-dong, Songpa-gu, Seoul",
-    "placeId": "ChIJcUfk1JqlfDURQyPMM_tJgAw",
+    "placeId": "ChIJLXhygAClfDURzai0oANeVqU",
     "entry": "Free Entry",
     "link": "https://lu.ma/lyo6rr49",
     "capacity": "30",
