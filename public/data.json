@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -4777,7 +4777,7 @@
     "email": "justin@factomind.io"
   },
   "Story Academy: Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihbllhjootkxtk5ao3noyneef6ag7ot5ppohl6a5okk5nvlcscaqm.png",
+    "image": null,
     "title": "Story Academy: Seoul",
     "host": "Story Protocol x Four Pillars",
     "startDate": "2024-09-06",
@@ -4787,7 +4787,7 @@
     "type": "Hacker House",
     "location": "Space S 1",
     "address": "57 Seongsui-ro 20-gil, Seoul",
-    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/6hjetf9b",
     "capacity": null,
