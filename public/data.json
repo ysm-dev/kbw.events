@@ -986,7 +986,7 @@
     "email": "shasank@hashed.com"
   },
   "Universal BTC by ZetaChain": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibohk2w65glpta3ktk32qf5fdluuyo4i2ljxueyvvzygrnryy2kaq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidkf4ucckuegrmygqere4rm4gk5pg5ime6ssnirv2yweqcjtkv6ny.png",
     "title": "Universal BTC by ZetaChain",
     "host": "ZetaChain",
     "startDate": "2024-09-02",
@@ -1409,6 +1409,23 @@
     "link": "https://lu.ma/2nmtpf5t",
     "capacity": "400",
     "email": "bank@bitarcade.asia"
+  },
+  "Genzio Booth": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreia4543wrdk6ns4xwyztbtvqccjrnajrpnkn5ueupkxyp6g6gdskb4.png",
+    "title": "Genzio Booth",
+    "host": "Genzio Media",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-03",
+    "startTime": "10:00",
+    "endTime": "17:00",
+    "type": "Networking Event, B2B event.",
+    "location": "Grand Walkerhill Seoul Hotel",
+    "address": "177 Walkerhill-ro, Gwangjin-gu, Seoul",
+    "placeId": "ChIJ12NRErq6fDURjhQX1gNvNKw",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/nd9q10dn",
+    "capacity": null,
+    "email": "contact@genzio.co"
   },
   "Exio.ventures Night": {
     "image": null,
@@ -3451,7 +3468,7 @@
     "email": "erik@storyprotocol.xyz"
   },
   "RecycleFarm Green Light with K-POP(With Zior Park, VANDAL ROCK, JUNCOCO, CHEEZ, Loa)": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifbl6edvv2cx5hfqbk7akpv62xl5uqfr5ypeil45ebmnbzd6ff57e.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihxpc3xynyhdrc4dgf2j6ctratzhfqeo2bjbjejpcc526gjzxq5ce.png",
     "title": "RecycleFarm Green Light with K-POP(With Zior Park, VANDAL ROCK, JUNCOCO, CHEEZ, Loa)",
     "host": null,
     "startDate": "2024-09-04",
@@ -3825,7 +3842,7 @@
     "email": "joah@blocore.com"
   },
   "2024 Web3 & AI Application Challenge Competition - Korea Edition": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigaiy2tlur24xcgkl432q5nykrolia63ekkabwac5btegnvrp4zoi.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaukyy7eqalmqnjnia6lx36q5d6z42dimpblkrzjrqmaviobjgwyq.png",
     "title": "2024 Web3 & AI Application Challenge Competition - Korea Edition",
     "host": "AON",
     "startDate": "2024-09-05",
@@ -3960,10 +3977,10 @@
     "capacity": "150",
     "email": "tjwpdud256@naver.com"
   },
-  "Mizu, Sentinent, Aquarius Fund": {
+  "AI Trailblazers Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifaal3br7sdarbcxq72adjimga3ctsyvs7nikro446qp5y23ucgp4.png",
-    "title": "Mizu, Sentinent, Aquarius Fund",
-    "host": null,
+    "title": "AI Trailblazers Night",
+    "host": "Mizu, Sentient, Aquarius Fund",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "17:00",
@@ -4895,6 +4912,23 @@
     "capacity": "200",
     "email": "events@starknet.org"
   },
+  "Core Network Seoul 2024": {
+    "image": null,
+    "title": "Core Network Seoul 2024",
+    "host": "CoreNetwork",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Networking Event",
+    "location": "Josun Palace Hotel​​​",
+    "address": "231, Teheran-ro Gangnam-gu, 06142, Seoul",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/5smizfty",
+    "capacity": "200",
+    "email": "kbwcorenetwork24@gmail.com"
+  },
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreictfubffpstwo2eolyhtodc7zukahkqoamdilgad6efujtbhprd6u.png",
     "title": "Seoulana Summer",
@@ -5032,7 +5066,7 @@
     "email": "rich0577@proton.me"
   },
   "Crypto Art Seoul 2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicdudici223xif5cmcwierhpdcjyn4z4iaflxzcatkzzf4ls2ujje.png",
+    "image": null,
     "title": "Crypto Art Seoul 2024",
     "host": "Aeon Studio",
     "startDate": "2024-09-06",
