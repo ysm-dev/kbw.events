@@ -458,6 +458,23 @@
     "capacity": null,
     "email": "buildershouse@dsrvlabs.com"
   },
+  "Aya & Last Network x Jambo": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif7gi65bk2notxwwzk4hzwivvnwogrnoldoadd6t4laajhsmnjvwq.png",
+    "title": "Aya & Last Network x Jambo",
+    "host": null,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "type": "Sports",
+    "location": "Dongho Bridge Hangang Park",
+    "address": null,
+    "placeId": "ChIJCR8sZzKjfDURQv_ktcVA-po",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/1le30t17",
+    "capacity": null,
+    "email": "oneofus@mimo.capital"
+  },
   "Early Bird Run with Factomind #1": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6t7qqrahwnuxdcvbswfsuhykag6km5zjtqlkoiqslxmrfwszkdi.png",
     "title": "Early Bird Run with Factomind #1",
@@ -476,7 +493,7 @@
     "email": "justin@factomind.io"
   },
   "Ethena Roadmap Day": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvyjk3i4i7qyoqikf6tl5r5xpzkqt2gufmz6oniwefxulj2wpwcm.png",
     "title": "Ethena Roadmap Day",
     "host": "Ethena",
     "startDate": "2024-09-02",
@@ -508,6 +525,23 @@
     "link": "https://frkd.io/gaming",
     "capacity": "1000",
     "email": "hello@frkd.io"
+  },
+  "ONE OF US Lift": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawrh54olh5ov56u7swbp4ndfj6owlysvsw2kfmdg5v72o2q7vxa4.png",
+    "title": "ONE OF US Lift",
+    "host": "Aya & Frax",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "type": "Sports",
+    "location": "Train True",
+    "address": "B1, 일상빌딩 578-1, Gangnam District, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/yh947b55",
+    "capacity": null,
+    "email": "oneofus@mimo.capital"
   },
   "Arena-Z Chain Launch Brunch in Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiait2xiqaickxzjy3vipkldj2ixscbuiyagw4ly2lsjonltrqm6mm.png",
@@ -2039,6 +2073,23 @@
     "capacity": "200-250",
     "email": "TBD"
   },
+  "KBW Crypto Event [HTX DAO VIP Private Dinner]": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicfkm3glygg6njarmxrmlcg5hcjbrktezfknhvvwzx4jn7c4fyfyq.png",
+    "title": "KBW Crypto Event [HTX DAO VIP Private Dinner]",
+    "host": "HTX DAO",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:30",
+    "endTime": "22:00",
+    "type": "Private Dinner",
+    "location": "MUU 한우다이닝 청담",
+    "address": "85-7 Cheongdam-dong, Gangnam District, Seoul",
+    "placeId": "ChIJ_Rc_EgClfDURmV9TzAo6d2M",
+    "entry": "Private",
+    "link": "https://lu.ma/vpz21ezq",
+    "capacity": null,
+    "email": "support@htxdao.com"
+  },
   "S Rank : Leveling Anime & Collector Culture": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid7mxe2e7wq3x5sqcue5dq5a6sp4zcytvzdea3omstca7svjgeg2u.png",
     "title": "S Rank : Leveling Anime & Collector Culture",
@@ -3009,7 +3060,7 @@
     "email": "jb@memecore.org"
   },
   "The Nakamoto Revolution": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihfvwi7joagfz4rw5jxgoq7hvscn2xnraz73mfww4bzy3plkhc3bq.png",
     "title": "The Nakamoto Revolution",
     "host": "Stacks, DeSpread, Hiro Systems",
     "startDate": "2024-09-04",
@@ -3019,7 +3070,7 @@
     "type": "Keynote, Panels, Networking Event, Happy Hour",
     "location": "Seongam Art Hall, 6",
     "address": "3F Seolleung-ro 111-gil, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ_7Jv0gukfDURWCbLWSdLn74",
     "entry": "Free Entry",
     "link": "https://lu.ma/bsci1jwk",
     "capacity": "200",
@@ -3662,7 +3713,7 @@
     "endDate": "2024-09-05",
     "startTime": "10:00",
     "endTime": "11:30",
-    "type": "Sport",
+    "type": "Sports",
     "location": "TBD",
     "address": "TBD",
     "placeId": null,
@@ -4665,7 +4716,7 @@
     "endDate": "2024-09-06",
     "startTime": "08:30",
     "endTime": "10:00",
-    "type": "Sport",
+    "type": "Sports",
     "location": "Jamsil Hangang Park Basketball Court",
     "address": "1-1 Jamsil-dong, Songpa-gu, Seoul",
     "placeId": "ChIJLXhygAClfDURzai0oANeVqU",
