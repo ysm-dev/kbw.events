@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2125,7 +2125,7 @@
     "email": "coby@glint.markets"
   },
   "Blockchain University Night by Decipher": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiceh7qfulbp5cemuwvxti3ezverkja7azab7ru3ywc5ti6d55ebaa.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif6u7sjfx6cfmglgmka4hzp2eum4kfb2g4bxxe33uz7btuau5wjey.png",
     "title": "Blockchain University Night by Decipher",
     "host": "Decipher",
     "startDate": "2024-09-03",
@@ -2991,9 +2991,9 @@
     "capacity": "150",
     "email": null
   },
-  "CUTC; CURG with Traders (w/ HashKey Global, Undefined Labs, Blockwave Labs & More)": {
+  "CUTC; CURG with Traders (w/ HashKey Group, Undefined Labs, Blockwave Labs & More)": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig2zlq3yrztkfor3kgobgvb7ubib3qlazvkugqwdgaitt5ngdku2a.png",
-    "title": "CUTC; CURG with Traders (w/ HashKey Global, Undefined Labs, Blockwave Labs & More)",
+    "title": "CUTC; CURG with Traders (w/ HashKey Group, Undefined Labs, Blockwave Labs & More)",
     "host": "CURG",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
@@ -4947,7 +4947,7 @@
     "email": "eric@urconduit.com"
   },
   "Tissue Picker Launching All Night Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigs3n7mryywy34phagbyrjzz7b73ukc5i5tsijfd6bsukckkbjib4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigauknggzikwzgzrcmpmnb5xxeo4tpzwo6olfgjbnnwowmpfrutuq.png",
     "title": "Tissue Picker Launching All Night Party",
     "host": "LK Brothers, SPLA Labs",
     "startDate": "2024-09-06",
