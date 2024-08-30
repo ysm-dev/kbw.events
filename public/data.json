@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2057,7 +2057,7 @@
     "email": "achoi@japamediagroup.com"
   },
   "VIP DeFi Night with SynFutures": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifefa632hduewam7kpqvjnttmzjbp46j6tomi2rjelcmwaxyt4rge.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif5rjgo7rjllm7yyxu4eda4g65fxburwaxrzkhofpyfjpk63vzdne.png",
     "title": "VIP DeFi Night with SynFutures",
     "host": "SynFutures",
     "startDate": "2024-09-03",
@@ -2584,7 +2584,7 @@
     "email": "shardlabsofficial@gmail.com"
   },
   "XRPL Zone Seoul": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreie3pprreecavthivavnebgvvyvczjo6lyncmf5lqygg3hnramgffu.png",
     "title": "XRPL Zone Seoul",
     "host": "Ripple",
     "startDate": "2024-09-04",
