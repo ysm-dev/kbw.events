@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2550,7 +2550,7 @@
     "email": "contact@dna.fund"
   },
   "VNTR Investors Roundtable Seoul": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicqob7gs6zn5f2yycamf6mnp2shsbmpet335gilx4zevtk4awv7a4.png",
+    "image": null,
     "title": "VNTR Investors Roundtable Seoul",
     "host": "VNTR",
     "startDate": "2024-09-04",
@@ -3501,6 +3501,23 @@
     "capacity": "300",
     "email": "support@3space.art"
   },
+  "Entertainment Reimagined": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjvibge5plx3zxong2wckmpyotcc4plarakjomsar37fi6dil6sy.png",
+    "title": "Entertainment Reimagined",
+    "host": "Fellaz x HTX Ventures x Tron",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "type": "Workshop",
+    "location": "343",
+    "address": "343 Gangnam-daero, Seocho-gu, Seoul",
+    "placeId": "ChIJpWIUoFqhfDURzpwqyDrkEHQ",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/gcucrxwn",
+    "capacity": null,
+    "email": "hello@fellaz.io"
+  },
   "MemeCore & OKX Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib5xmy4e4iyskxmpfdevmk2vcyeh4tfec2tp3dxm7i6hhccr65agq.png",
     "title": "MemeCore & OKX Pheromone EDM Party",
@@ -4147,6 +4164,23 @@
     "capacity": "90",
     "email": "conference@crossangle.io"
   },
+  "HTX Ventures VC Private Dinner @ KBW": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicx3xuuxuczbjtfpbn7czs3cury7c2wj25jyrqfuhgapkpzwsrwwa.png",
+    "title": "HTX Ventures VC Private Dinner @ KBW",
+    "host": "HTX Ventures",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "Private Dinner",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://lu.ma/s756r1te",
+    "capacity": null,
+    "email": "VC@htx-inc.com"
+  },
   "Diversity-in-tech": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigqldvir7qtzyxu3gyh3b2g57ihtt4lzlt64uwwi3jmhttk4mz354.png",
     "title": "Diversity-in-tech",
@@ -4488,7 +4522,7 @@
     "email": "contact@knightfury.io"
   },
   "Web3 Wave 2024 - VC's Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiewlwvud7r5tfllwfta74c7a6xnelmmpwzyb4wbbjxpwjbnam7mzq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieghpulk37w4qzxpqqz55rcaplfxm45lxwo7zxpxbwyhjm5elusii.png",
     "title": "Web3 Wave 2024 - VC's Night",
     "host": "Aegis Ventures, Flow Traders, Spartan Group",
     "startDate": "2024-09-05",
