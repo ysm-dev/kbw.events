@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -476,7 +476,7 @@
     "email": "justin@factomind.io"
   },
   "Ethena Roadmap Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidvyjk3i4i7qyoqikf6tl5r5xpzkqt2gufmz6oniwefxulj2wpwcm.png",
+    "image": null,
     "title": "Ethena Roadmap Day",
     "host": "Ethena",
     "startDate": "2024-09-02",
@@ -883,6 +883,23 @@
     "capacity": null,
     "email": null
   },
+  "Institutional Blockchain Finance Seminar l CBDC and RWA": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihcc23zrtcnxafuybmzj3jkf5fty5sctgu56mvjfat7lc55nixfna.png",
+    "title": "Institutional Blockchain Finance Seminar l CBDC and RWA",
+    "host": null,
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "type": "Conference",
+    "location": "5th Floor Tulip Room, 521, Teheran-ro, Gangnam-gu, Seoul",
+    "address": null,
+    "placeId": null,
+    "entry": "Invitation Only",
+    "link": "https://event-us.kr/sooho/event/90027",
+    "capacity": "15",
+    "email": "carl@sooho.io"
+  },
   "Telegram Trends Beta Launch": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifjbc2gt64dk5dguz22gb3h6cbwhgnfpxqb3gb46pelqvqrv7awfu.png",
     "title": "Telegram Trends Beta Launch",
@@ -986,7 +1003,7 @@
     "email": "shasank@hashed.com"
   },
   "Universal BTC by ZetaChain": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidkf4ucckuegrmygqere4rm4gk5pg5ime6ssnirv2yweqcjtkv6ny.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicwizaspcpohwh7fjo2dveg5jopdd6qovx7a4iyudyaxbypyqe7vm.png",
     "title": "Universal BTC by ZetaChain",
     "host": "ZetaChain",
     "startDate": "2024-09-02",
@@ -1647,6 +1664,40 @@
     "link": "https://lu.ma/ian3u69a",
     "capacity": null,
     "email": "jihwans@google.com"
+  },
+  "Brewing TEE 🍵🇰🇷": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigjgvyy52rd3dvg5xhwj23grvsxi5cm4dbf6gqx3zy4ppvr3goesi.png",
+    "title": "Brewing TEE 🍵🇰🇷",
+    "host": null,
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "type": "Private gathering",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/7v394s4g",
+    "capacity": "20",
+    "email": "jiahui.fu@chainbase.com"
+  },
+  "BTC Finance Revolution w/ Stacks, Zeus, Solv, Arch Network & DeSpread": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigz2jrjwhfezv3de6crjkq3u2h24fiqcc5sfmjjyciaphsz63roum.png",
+    "title": "BTC Finance Revolution w/ Stacks, Zeus, Solv, Arch Network & DeSpread",
+    "host": null,
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "14:30",
+    "endTime": "18:00",
+    "type": "Networking Event",
+    "location": "B1, Last Resort",
+    "address": "837, Seolleung-ro, Gangnam-gu, Seoul",
+    "placeId": "ChIJGajS-6ulfDURU4ZhIHq__uE",
+    "entry": "Keynote, Panels, Networking Event",
+    "link": "https://lu.ma/wt1p3pik",
+    "capacity": "200",
+    "email": "genesis@zeusnetwork.xyz"
   },
   "Waves Rooftop Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid3kmwvwddjk4zdonbcdzf2soz22nx5nm6spq5wjocj3exjkiq6xq.png",
@@ -2583,6 +2634,23 @@
     "capacity": "150",
     "email": "p@toolsforhumanity.com"
   },
+  "Builder's Brunch @ BuilderHaus": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigmifek6adnftjub53fkwluprjztf2eg5pn6rjwiuxsrt27wfb7oy.png",
+    "title": "Builder's Brunch @ BuilderHaus",
+    "host": "CoinEasy, H.E.R. DAO, SojuDAO",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "type": "Networking Event",
+    "location": "The AMC Tower",
+    "address": "222 Bongeunsa-ro, Gangnam District, Seoul",
+    "placeId": "ChIJ_XhYRVGjfDURtiH5joH_vnc",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/pcoy1zx4",
+    "capacity": "150",
+    "email": "contact@coineasy.xyz"
+  },
   "Brunch w/ Shard & Friends": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidd46x4e7u7275h3r7zd62opdkk34xap26o62ranaqdad4lq5t2iy.png",
     "title": "Brunch w/ Shard & Friends",
@@ -2941,7 +3009,7 @@
     "email": "jb@memecore.org"
   },
   "The Nakamoto Revolution": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihfvwi7joagfz4rw5jxgoq7hvscn2xnraz73mfww4bzy3plkhc3bq.png",
+    "image": null,
     "title": "The Nakamoto Revolution",
     "host": "Stacks, DeSpread, Hiro Systems",
     "startDate": "2024-09-04",
@@ -2951,7 +3019,7 @@
     "type": "Keynote, Panels, Networking Event, Happy Hour",
     "location": "Seongam Art Hall, 6",
     "address": "3F Seolleung-ro 111-gil, Gangnam-gu, Seoul",
-    "placeId": "ChIJ_7Jv0gukfDURWCbLWSdLn74",
+    "placeId": null,
     "entry": "Free Entry",
     "link": "https://lu.ma/bsci1jwk",
     "capacity": "200",
@@ -3978,20 +4046,20 @@
     "email": "tjwpdud256@naver.com"
   },
   "AI Trailblazers Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifaal3br7sdarbcxq72adjimga3ctsyvs7nikro446qp5y23ucgp4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibadnc4opoqoovv5hyctvqydsubwcpxewyji7bzzap3zjcwiybxke.png",
     "title": "AI Trailblazers Night",
     "host": "Mizu, Sentient, Aquarius Fund",
     "startDate": "2024-09-05",
     "endDate": "2024-09-05",
     "startTime": "17:00",
     "endTime": "05:00",
-    "type": "Workshop, Panel, Networking Event",
-    "location": "Restrict location to guests",
+    "type": "Conference, Workshop, Networking",
+    "location": "22 Seoun-ro 6-gil, Seocho-gu, Seoul",
     "address": null,
     "placeId": null,
     "entry": "Free Entry",
-    "link": "https://lu.ma/bonkwalk",
-    "capacity": null,
+    "link": "https://lu.ma/el3mp6ag",
+    "capacity": "100",
     "email": "hazel@alab.fund"
   },
   "Institutional Adoption : Building Solid Foundation for Web2 & 3": {
@@ -5066,7 +5134,7 @@
     "email": "rich0577@proton.me"
   },
   "Crypto Art Seoul 2024": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicdudici223xif5cmcwierhpdcjyn4z4iaflxzcatkzzf4ls2ujje.png",
     "title": "Crypto Art Seoul 2024",
     "host": "Aeon Studio",
     "startDate": "2024-09-06",
