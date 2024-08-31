@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -510,7 +510,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
+    "image": null,
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -2261,7 +2261,7 @@
     "email": "contact@decipher.ac"
   },
   "Fried Chicken & Beer NIGHT": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicxizzrdhibznehq5rqkaijpma5iaurf3n2zzwm2uuqoxmzxr2xo4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihuecit3esd2urwnqoujay7anroknncrmpowf4grcvu3cfu3p2exm.png",
     "title": "Fried Chicken & Beer NIGHT",
     "host": "Scallop",
     "startDate": "2024-09-03",
