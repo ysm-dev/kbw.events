@@ -1258,7 +1258,7 @@
     "email": "erik@storyprotocol.xyz"
   },
   "DePIN DAY + Afterparty @ KBW": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigao3p4pstt2pppyidqtfvezv3m2j4lzhzrkvpikp36qoulmkwzde.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihtwn673l23urnj274rtox3njxijmj4lfivm2xdkuhwfsu27qhj5m.png",
     "title": "DePIN DAY + Afterparty @ KBW",
     "host": "DePHY Network + MissWProject + Madlads",
     "startDate": "2024-09-02",
@@ -5134,7 +5134,7 @@
     "email": "events@starknet.org"
   },
   "Core Network Seoul 2024": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifyyaizjcderygknvbab2q7hwurnifstclyc46tczmqqktnqr4jwu.png",
     "title": "Core Network Seoul 2024",
     "host": "<Animoca brands, FDUSD , EVG , Coredao, Shiba inu>",
     "startDate": "2024-09-06",
@@ -5144,10 +5144,10 @@
     "type": "Networking Event",
     "location": "Josun Palace Hotel​​​",
     "address": "231, Teheran-ro Gangnam-gu, 06142, Seoul",
-    "placeId": null,
+    "placeId": "ChIJF2kvqxSlfDURa9WIjeksuac",
     "entry": "Invitation Only",
-    "link": "https://lu.ma/5smizfty",
-    "capacity": "200",
+    "link": "https://lu.ma/Corenetwork24",
+    "capacity": null,
     "email": "kbwcorenetwork24@gmail.com"
   },
   "Seoulana Summer": {
