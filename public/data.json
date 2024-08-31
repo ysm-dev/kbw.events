@@ -510,7 +510,7 @@
     "email": "c@ethenalabs.xyz"
   },
   "FORKED Gaming": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiectzmgkmskkrzwghixj4wqhak7kwm6owl4klqi4fetvye6nnbr7a.png",
     "title": "FORKED Gaming",
     "host": "CREZEE + EVG",
     "startDate": "2024-09-02",
@@ -1268,7 +1268,7 @@
     "type": "Networking + Party Event",
     "location": "Weple Art Gallery",
     "address": "7, Wonhyo-ro, Yongsan-gu, Seoul",
-    "placeId": "ChIJJ7z4t9AX2jERkyKTwM8_8Pc",
+    "placeId": "ChIJj-nwx20Z2jERxUcgrnwIQcc",
     "entry": "Free Entry",
     "link": "https://lu.ma/depinday",
     "capacity": "350",
@@ -2260,6 +2260,23 @@
     "capacity": "250",
     "email": "contact@decipher.ac"
   },
+  "Fried Chicken & Beer NIGHT": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicxizzrdhibznehq5rqkaijpma5iaurf3n2zzwm2uuqoxmzxr2xo4.png",
+    "title": "Fried Chicken & Beer NIGHT",
+    "host": "Scallop",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "19:00",
+    "endTime": "23:00",
+    "type": "Networking Event, Party",
+    "location": "Kyochon Chicken Gangnam Station Branch",
+    "address": "619-28 Yeoksam-dong, Gangnam-gu, Seoul",
+    "placeId": "ChIJ28V_Ou2hfDURaIxGsTn89NE",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/tkcxs7qk",
+    "capacity": "2000",
+    "email": "kayra@scallop.io"
+  },
   "BURRITO WALLET & X LAYER NIGHT": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidt3u43rdyyse47le7zsyl2laiqhkwz5frpmdthmic6bndqwfqivm.png",
     "title": "BURRITO WALLET & X LAYER NIGHT",
@@ -2395,6 +2412,23 @@
     "link": "https://lu.ma/ug6vpe6v",
     "capacity": "200",
     "email": "rhee@moondancelabs.com"
+  },
+  "Artue RWA Launching Party with Story": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigono6q7q6hv6tqvey3zsolwei52rdryvlfnoasm7ktd6w3nkstwm.png",
+    "title": "Artue RWA Launching Party with Story",
+    "host": "Story x Artue RWA",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "21:00",
+    "endTime": "01:00",
+    "type": "Party",
+    "location": "Story House",
+    "address": "space s 1, 57 Seongsui-ro 20-gil, Seongdong-gu, Seoul",
+    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/artue",
+    "capacity": null,
+    "email": "erik@storyprotocol.xyz"
   },
   "Block Party: Monad Eco Edition": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifeph5yhuleyqiiab42uet76cnfsrucyjy4vkwb2brsxpj33wl454.png",
@@ -3232,19 +3266,19 @@
   "Vibes in Korea": {
     "image": null,
     "title": "Vibes in Korea",
-    "host": "Rug Radio, Decrypt and Arbitrum",
+    "host": "Rug Radio and Decrypt",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "18:00",
     "endTime": "00:00",
-    "type": "Networking Event",
-    "location": "PEOPLE THE TERRACE",
-    "address": "13 Dosan-daero 81-gil, Gangnam-gu, Seoul",
+    "type": "Networking party",
+    "location": "People the terrace",
+    "address": "13 Dosan-daero 81-gil, Gangnam District, Seoul",
     "placeId": null,
-    "entry": "Free Entry",
+    "entry": "Registration",
     "link": "https://tokenproof.xyz/event/vibes-in-korea",
-    "capacity": null,
-    "email": "donglee@rug.fm"
+    "capacity": "300",
+    "email": "info@rug.fm"
   },
   "Hashed Potato Club at KBW 2024": {
     "image": null,
@@ -3926,6 +3960,23 @@
     "capacity": "36",
     "email": "wesley@magna.so"
   },
+  "Transforming Museums With Blockchain": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihqecxjm7rmtg7ahywdagtvcmc44ht5iddhfcbxtie3fqo7tayawy.png",
+    "title": "Transforming Museums With Blockchain",
+    "host": "Story x Outland x OKX Wallet",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "type": "Conference",
+    "location": "Story House",
+    "address": "space s 1, 57 Seongsui-ro 20-gil, Seongdong-gu, Seoul",
+    "placeId": "EkJzcGFjZSBzIDEsIDU3IFNlb25nc3VpLXJvIDIwLWdpbCwgU2Vvbmdkb25nLWd1LCBTZW91bCwgU291dGggS29yZWEiJRojChYKFAoSCbVq7RjrpHw1ESx5oMsalqAVEglzcGFjZSBzIDE",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/7ukuz6bd",
+    "capacity": null,
+    "email": "erik@storyprotocol.xyz"
+  },
   "REVELATIONS PODCAST": {
     "image": null,
     "title": "REVELATIONS PODCAST",
@@ -4284,7 +4335,7 @@
     "email": "hope@superblock.xyz"
   },
   "Gate.io Lead Asia Charity Carnival": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifpcb4hc24vu2venlyfc72p2bszdyg6vohnpg4y6vcnpxfhb3znsy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigwtvaguntamj7gp6bys45cqdutpcf2ovvaaiwepohbp2p7cv2xgi.png",
     "title": "Gate.io Lead Asia Charity Carnival",
     "host": "Gate.io, Airian, Dong-A Media, SHIB, MeMe Core",
     "startDate": "2024-09-05",
@@ -5085,7 +5136,7 @@
   "Core Network Seoul 2024": {
     "image": null,
     "title": "Core Network Seoul 2024",
-    "host": "CoreNetwork",
+    "host": "<Animoca brands, FDUSD , EVG , Coredao, Shiba inu>",
     "startDate": "2024-09-06",
     "endDate": "2024-09-06",
     "startTime": "18:00",
