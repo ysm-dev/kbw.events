@@ -306,7 +306,7 @@
     "email": "leonando@tokenminds.co"
   },
   "X+ DeGods SEOUL by Credit Scend": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihkfnezt33qcyn3gko6mhj7zzovz37ek3u4nlxcouopfeirnsioty.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibev3bwldxavdwbenhktpqe2izpx62wfz46lutmr2trf5zt3fzxkq.png",
     "title": "X+ DeGods SEOUL by Credit Scend",
     "host": "X+ DeGods and Credit Scend",
     "startDate": "2024-09-01",
@@ -644,6 +644,23 @@
     "link": "https://lu.ma/ipfmkoc3",
     "capacity": null,
     "email": "rime@fractl.ca"
+  },
+  "KBW Coffee Break with Aleo & Friends: Relax, Connect, and Chat": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihsw2y3bt3wmkjkovsqamraddjv4jw6ojvyfhfevlxr6osc4kksxq.png",
+    "title": "KBW Coffee Break with Aleo & Friends: Relax, Connect, and Chat",
+    "host": "Aleo",
+    "startDate": "2024-09-02",
+    "endDate": "2024-09-02",
+    "startTime": "11:00",
+    "endTime": "14:00",
+    "type": "Networking Event",
+    "location": "DDD Cafe",
+    "address": "4F Seongsu-dong 2(i)-ga, 271-12, Seoul",
+    "placeId": "ChIJCQCJf2GlfDURmY-CS893KCg",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/xi1l81dv",
+    "capacity": null,
+    "email": "daniel@aleo.org"
   },
   "W3GAME KOREA": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiegc57eoc7rb3yh3uty6aryb7bfxrncgzj6pqi3w44skjxrw6kofm.png",
