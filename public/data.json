@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -2073,6 +2073,23 @@
     "capacity": "200-250",
     "email": "TBD"
   },
+  "Whales Only VIP Trader Dinner with Antarctic Exchange": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih7j2lkjvvf2g45bwq5j46gtb57gv5tqc7sc2y637avykjdtevyni.png",
+    "title": "Whales Only VIP Trader Dinner with Antarctic Exchange",
+    "host": "Antarctic Exchange",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-03",
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "type": "Private Dinner",
+    "location": "TBD",
+    "address": "TBD",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/399qe5si",
+    "capacity": "40",
+    "email": "saltfish@antarctic.exchange"
+  },
   "KBW Crypto Event [HTX DAO VIP Private Dinner]": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicfkm3glygg6njarmxrmlcg5hcjbrktezfknhvvwzx4jn7c4fyfyq.png",
     "title": "KBW Crypto Event [HTX DAO VIP Private Dinner]",
@@ -2123,23 +2140,6 @@
     "link": "https://lu.ma/z1cm1kb0",
     "capacity": "100",
     "email": "aiden@sevenlinelabs.com"
-  },
-  "Solana Gaming Exclusive Dinner": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifxyb2oxarvny6i4mkrttt4bb72rh36oulouuzjm5aq3aifnncm44.png",
-    "title": "Solana Gaming Exclusive Dinner",
-    "host": "Sonic & GameShift",
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-03",
-    "startTime": "18:30",
-    "endTime": "23:00",
-    "type": "Networking Event",
-    "location": "ClubD CheongDam",
-    "address": "439, Dosan-daero, Gangnam-gu, Seoul,",
-    "placeId": null,
-    "entry": "By Invitation & Application Only",
-    "link": "https://lu.ma/xqco5mwf",
-    "capacity": "50",
-    "email": "kinsa@sonic.game"
   },
   "KOL Night by Fablo": {
     "image": null,
@@ -3296,6 +3296,23 @@
     "link": "TBD",
     "capacity": "300",
     "email": "rachel.kim@shardlab.com"
+  },
+  "Solana Gaming Exclusive Dinner": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifxyb2oxarvny6i4mkrttt4bb72rh36oulouuzjm5aq3aifnncm44.png",
+    "title": "Solana Gaming Exclusive Dinner",
+    "host": "Sonic & GameShift",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:30",
+    "endTime": "23:00",
+    "type": "Networking Event",
+    "location": "ClubD CheongDam",
+    "address": "439, Dosan-daero, Gangnam-gu, Seoul,",
+    "placeId": null,
+    "entry": "By Invitation & Application Only",
+    "link": "https://lu.ma/xqco5mwf",
+    "capacity": "50",
+    "email": "kinsa@sonic.game"
   },
   "IPFi Dinner": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreier22gorxdjw7jnp35ljq5jt47zb7dhmg34d5qwtyf2j6t56biwpa.png",
