@@ -1853,7 +1853,7 @@
     "email": "joelly@hyperbolic.xyz"
   },
   "KBW 2024: Ape gathering at Bored & Hungry": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidukvxmmhulsiw6d7imhj3rs7qpcr2ey5uze6j5hoqymbbx7h33iq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibr4xcmnvwnv2wobnz2swixufakxvptzj4dz4hndsffey4ieneymm.png",
     "title": "KBW 2024: Ape gathering at Bored & Hungry",
     "host": "Boredkiki",
     "startDate": "2024-09-03",
@@ -3198,7 +3198,7 @@
   "Institutional Cocktail Hour": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieg4yusa6e36rira76tbksroirdz3jchlcqvhqnbqdq6gnfxzbtoi.png",
     "title": "Institutional Cocktail Hour",
-    "host": null,
+    "host": "Presto, Bithumb, Forbes Web3, BitGo",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "18:00",
@@ -3773,6 +3773,23 @@
     "capacity": "30",
     "email": "hakyong@planetariumhq.com"
   },
+  "KBW Founders & Funders Breakfast": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibt56vhjssf64y77u7awldopooocpfp73m2ziykrzsebk2ytt76te.png",
+    "title": "KBW Founders & Funders Breakfast",
+    "host": "hosted by Summ3r, OpenAlpha and tokentus VC",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "09:00",
+    "endTime": "11:30",
+    "type": "Networking Breakfast",
+    "location": "B1 수호아이오",
+    "address": "126 Teheran-ro, Gangnam District, Seoul",
+    "placeId": "ChIJRcqwIQylfDURGUwj0DgagHg",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/e8z8bomu",
+    "capacity": "50",
+    "email": "m.m.tiesler@gmail.com"
+  },
   "Epoch Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihsqrjdh6vfnxpcga7gmp2k44awvgd6rlv7fobzasedafebs2gogq.svg",
     "title": "Epoch Seoul",
@@ -4044,6 +4061,23 @@
     "link": "https://lu.ma/vxgb0f8i",
     "capacity": "100",
     "email": "gemma.shin@mantle.xyz"
+  },
+  "HTX Ventures & HTX DAO Ecosystem Global Meet-up": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih2z2lo4nc4egk5dvnm6yx6r45h2vshuxqglolpfje74hnvppsw6i.png",
+    "title": "HTX Ventures & HTX DAO Ecosystem Global Meet-up",
+    "host": "HTX Ventures & HTX DAO & AI Crypto Summit",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "13:15",
+    "endTime": "16:15",
+    "type": "Meet-up",
+    "location": "Register to view address",
+    "address": null,
+    "placeId": null,
+    "entry": "Private Only",
+    "link": "https://lu.ma/i5zehmyz",
+    "capacity": null,
+    "email": "VC@htx-inc.com"
   },
   "[Monad 101] in Korea - A Tech Guide for Developers": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigeeig5diesugpywkhcbigtmhugkopm6pk34ru4p4hyecjccijfeq.png",
