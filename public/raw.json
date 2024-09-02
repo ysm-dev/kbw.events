@@ -422,7 +422,7 @@
     "ONE OF US Lift\nAya & 071 Labs",
     "9:30AM - 11AM",
     "Sports",
-    "Train True GYM\nB1, 일상빌딩 578-1, Gangnam District",
+    "Train True GYM\nB1, 일상빌딩 578-1, Gangnam District, Seoul",
     "Free Entry",
     "https://lu.ma/9a9slv5o",
     "N/A",
@@ -1387,6 +1387,28 @@
   ],
   [
     "Sep 3",
+    "Puffer VIP Dinner KBW\nPuffer Finance",
+    "6PM - 9PM",
+    "Networking Event",
+    "AC Hotel Seoul Gangnam\n10 Teheran-ro 25-gil, Gangnam District, Seoul",
+    "Free, Invitation on approval basis only",
+    "https://lu.ma/tenti5dj",
+    "40",
+    "jordan@puffer.fi"
+  ],
+  [
+    "Sep 3",
+    "BTC DEFI Cocktail Party\r\nBitflow Finance & Pizza Ninjas",
+    "6PM - 9PM",
+    "Cocktail Party, Networking",
+    "Wonderfruit\n38 Apgujeong-ro 48-gil, Gangnam District, Seoul",
+    "Free",
+    "https://lu.ma/hbnxqje6",
+    "150",
+    "info@bitflow.finance"
+  ],
+  [
+    "Sep 3",
     "Sunset Garden: A Night of Institutional Custody and Crypto Magic\nBDACS",
     "6PM - 9:30PM",
     "Networking Event, Party",
@@ -1948,28 +1970,6 @@
   ],
   [
     "Sep 4",
-    "DePIN Day Seoul\r\nFluence & Parasail",
-    "3PM - 8PM",
-    "Meetup",
-    "Dreaum\r\n성홍타워 3f, 138, Teheran-ro, Gangnam-gu, Seoul",
-    "Free Entry",
-    "https://fluence.chat/depin-day-seoul",
-    "N/A",
-    "events@fluence.one"
-  ],
-  [
-    "Sep 4",
-    "MemeGo Meme Mania - KBW Edition",
-    "4PM - 6PM",
-    "Networking",
-    "Gangnam Bar Cafeslow cocktail bar\r\n35, Seocho-daero 77-gil, Seocho-gu, Seoul",
-    "Free Entry",
-    "https://lu.ma/1c92ng4g",
-    "N/A",
-    "https://www.memego.meme/en/base"
-  ],
-  [
-    "Sep 4",
     "Open House #AI \nRSS3, Whitewater Labs, Soju DAO, Open Information Initiative",
     "12PM - 6PM",
     "Panel, Networking Event",
@@ -2036,6 +2036,17 @@
   ],
   [
     "Sep 4",
+    "DePIN Day Seoul\r\nFluence & Parasail",
+    "3PM - 8PM",
+    "Meetup",
+    "Dreaum\r\n성홍타워 3f, 138, Teheran-ro, Gangnam-gu, Seoul",
+    "Free Entry",
+    "https://fluence.chat/depin-day-seoul",
+    "N/A",
+    "events@fluence.one"
+  ],
+  [
+    "Sep 4",
     "Brain Training & Networking \nAlgorand",
     "3:30PM - 6:30PM",
     "Networking Event",
@@ -2044,6 +2055,17 @@
     "https://lu.ma/tjzahmy7",
     "200",
     "tickets@algorand.foundation"
+  ],
+  [
+    "Sep 4",
+    "MemeGo Meme Mania - KBW Edition",
+    "4PM - 6PM",
+    "Networking",
+    "Gangnam Bar Cafeslow cocktail bar\r\n35, Seocho-daero 77-gil, Seocho-gu, Seoul",
+    "Free Entry",
+    "https://lu.ma/1c92ng4g",
+    "N/A",
+    "https://www.memego.meme/en/base"
   ],
   [
     "Sep 4",
@@ -2487,9 +2509,20 @@
   ],
   [
     "Sep 4",
+    "Ubiquity DAO @ KBW - VIP Investor Party\nUbiquity DAO",
+    "8PM - 12AM",
+    "Cocktail Party",
+    "29 Pub, 4th Branch \"TOKYO ELEGANT\"\n14 Gangnam-daero 110-gil, Gangnam District, Seoul",
+    "$150",
+    "https://lu.ma/53f5fv6c",
+    "120",
+    "kbw.2024.event@ubq.fi"
+  ],
+  [
+    "Sep 4",
     "Scale & Sequence: Seoul Edition by \nMetis, B Harvest, Artemis, SNZ, TEB & Hashkey Cloud",
     "8PM - 2AM",
-    "Networking event",
+    null,
     "PONG Seoul\n642-14, Sinsadong, Gangnam-gu, Seoul",
     "By application",
     "https://blocklive.io/scalesequence",
@@ -3202,12 +3235,12 @@
   ],
   [
     "Sep 5",
-    "Art Night\nFuturaCanvas #0 x Gallery STAN x Super Soul Seoul",
+    "Art Night Out \nFuturaCanvas #0 x Gallery STAN x Super Soul Seoul",
     "9PM - 2AM",
     "Networking Party",
     "Super Soul Seoul, Myeong-dong\r\n161, Toegye-ro, Jung-gu, Seoul",
     "Invitation holders: Free / Non-invitation holders: Small admission fee",
-    "https://futuracanvas.com/",
+    "https://docs.google.com/forms/d/e/1FAIpQLSfU8V6nTJ6dPAHxUKReQ0KLtachVjmo_spxFY8nEO2HLkSVdg/viewform",
     "1000",
     "info@futuracanvas.com"
   ],
