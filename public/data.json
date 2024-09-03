@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1642,7 +1642,7 @@
     "type": "Networking Event",
     "location": "TBD",
     "address": "TBD",
-    "placeId": null,
+    "placeId": "ChIJR9z3JMejfDUR3DT6SvkuBOk",
     "entry": "Free Entry",
     "link": "https://lu.ma/eg0a41qf",
     "capacity": "35",
@@ -3127,6 +3127,23 @@
     "capacity": "120",
     "email": "cherry@ticker.capital"
   },
+  "Cosmos Asia Meetup in nonce -": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreib3ivokp6arj3wvybkc33p4qlswbkepa6dfq5x3xnlbdxpb52kzbi.png",
+    "title": "Cosmos Asia Meetup in nonce -",
+    "host": "Powered by TOKI & Fracton Ventures",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "17:00",
+    "endTime": "21:00",
+    "type": "Panel and Networking",
+    "location": "nonce",
+    "address": "45-9 Bongeunsa-ro 22-gil, Gangnam-gu, Seoul",
+    "placeId": "ChIJq4_-YKqjfDURP1ztLlyzGp4",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/0ouytu78",
+    "capacity": "40",
+    "email": "pr@toki.finance"
+  },
   "MemeCore & OKX Pheromone VIP Yachts Club": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig7prifndffmj2kmw23i3yktq273iuk6vuyj44fdg2f6reuxrq33q.png",
     "title": "MemeCore & OKX Pheromone VIP Yachts Club",
@@ -3246,6 +3263,23 @@
     "capacity": null,
     "email": "loganlim@prestolabs.io"
   },
+  "EcoX @ KBW2024 with TorusChain & PlayWeb3": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifq54ku6goexqbeazw4dvjgbpge3v5ecfaott4adm3brl6e3vssna.png",
+    "title": "EcoX @ KBW2024 with TorusChain & PlayWeb3",
+    "host": null,
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "type": "EcoX Networking Event, Cocktails, Sunset, B2B",
+    "location": "카페 마우카(Cafe Mauka)",
+    "address": "406-57 Huam-dong, Yongsan-gu, Seoul",
+    "placeId": "ChIJfVZPFgCjfDURDPFUSpBBFDk",
+    "entry": "Free Entry",
+    "link": "https://lu.ma/wcma6m58",
+    "capacity": "40",
+    "email": "j@ecox.pro"
+  },
   "Pudgy x Skale K-BBQ Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigsntpp5wef4mxpit2yfdpgfd3zqer3gvrpl42ofcpsxo6ybeqzyq.png",
     "title": "Pudgy x Skale K-BBQ Night",
@@ -3364,6 +3398,23 @@
     "link": "https://lu.ma/xqco5mwf",
     "capacity": "50",
     "email": "kinsa@sonic.game"
+  },
+  "Entertainment Reimagined": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjvibge5plx3zxong2wckmpyotcc4plarakjomsar37fi6dil6sy.png",
+    "title": "Entertainment Reimagined",
+    "host": "Fellaz x HTX Ventures x Tron",
+    "startDate": "2024-09-04",
+    "endDate": "2024-09-04",
+    "startTime": "20:00",
+    "endTime": "23:00",
+    "type": "Workshop",
+    "location": "343",
+    "address": "343 Gangnam-daero, Seocho-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/gcucrxwn",
+    "capacity": null,
+    "email": "hello@fellaz.io"
   },
   "IPFi Dinner": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreier22gorxdjw7jnp35ljq5jt47zb7dhmg34d5qwtyf2j6t56biwpa.png",
@@ -3602,23 +3653,6 @@
     "link": "https://lu.ma/0i0il73q",
     "capacity": "300",
     "email": "support@3space.art"
-  },
-  "Entertainment Reimagined": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibjvibge5plx3zxong2wckmpyotcc4plarakjomsar37fi6dil6sy.png",
-    "title": "Entertainment Reimagined",
-    "host": "Fellaz x HTX Ventures x Tron",
-    "startDate": "2024-09-04",
-    "endDate": "2024-09-04",
-    "startTime": "20:00",
-    "endTime": "23:00",
-    "type": "Workshop",
-    "location": "343",
-    "address": "343 Gangnam-daero, Seocho-gu, Seoul",
-    "placeId": "ChIJpWIUoFqhfDURzpwqyDrkEHQ",
-    "entry": "Free Entry",
-    "link": "https://lu.ma/gcucrxwn",
-    "capacity": null,
-    "email": "hello@fellaz.io"
   },
   "MemeCore & OKX Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid53vqtm5m75fcpr55zxwrkq47v5z42ejb2mjmv6urrbfog6iseru.png",
@@ -4107,7 +4141,7 @@
     "type": "Networking Event",
     "location": "21, Teheran-ro 8-gil, Gangnam-gu",
     "address": null,
-    "placeId": "ChIJe6NQpHihfDURPqhWiAJrYTo",
+    "placeId": null,
     "entry": "Free Entry(approval required)",
     "link": "https://lu.ma/vxgb0f8i",
     "capacity": "100",
@@ -4413,7 +4447,7 @@
     "type": "Esports, Tournament, Party",
     "location": "8 Teheran-ro 44-gil, Gangnam-gu, Seoul",
     "address": null,
-    "placeId": "ChIJ8zsokgakfDURB8Ge4F2PEXo",
+    "placeId": null,
     "entry": "Invitation Only",
     "link": "https://lu.ma/jdaetjix",
     "capacity": "150",
@@ -4503,6 +4537,23 @@
     "link": "https://lu.ma/xwh16vcg",
     "capacity": "200",
     "email": "ask@13desk.news"
+  },
+  "Pre-event of Crypto Art Seoul 2024": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifhwoueknhliwtsy7x5txls4of5iinajt632h3b4jnr6gseurwhaq.png",
+    "title": "Pre-event of Crypto Art Seoul 2024",
+    "host": "Aeon Studio",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-05",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "type": "Pre-event: Evening Artists' Talk",
+    "location": "Uncommon Gallery",
+    "address": "516, Bongeunsa-ro, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://forms.gle/o2n4MQtu3dJJC62J6",
+    "capacity": "50",
+    "email": "info@cryptoartseoul.com"
   },
   "K Meme Night": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigywvu5g7gdmwqk3cahgphwe4ulfkgqmbaa564nemybit7z56ps2y.png",
@@ -5268,6 +5319,23 @@
     "link": "https://lu.ma/Corenetwork24",
     "capacity": null,
     "email": "kbwcorenetwork24@gmail.com"
+  },
+  "Beyond Boundaries by Axelar, Wormhole, Lido, and BNB": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihuntgj4ir7lovjb3pqxbrzl542psiz5m2zxourgis2twz3xl35de.png",
+    "title": "Beyond Boundaries by Axelar, Wormhole, Lido, and BNB",
+    "host": "Axelar, Wormhole, Lido, BNB",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Networking Event",
+    "location": "Schedule Cheongdam",
+    "address": "37, Seolleung-ro 152-gil, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/BeyondBoundariesSeoul",
+    "capacity": "180",
+    "email": "yara@interoplabs.io"
   },
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaah4uf7doiejhlglmy6tc2nl4ewltjzn3aggshghyzmdjwcx5f6i.png",
