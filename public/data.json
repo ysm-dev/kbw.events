@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
+    "image": null,
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -1869,23 +1869,6 @@
     "capacity": "50",
     "email": "6711kiki@gmail.com"
   },
-  "Play Forward: The Next Chapter of Web3 Gaming": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiflcl7tyoxqgrq73i5aexjk3kkg42tg42egrlzv4lfatw2hpr2ixm.png",
-    "title": "Play Forward: The Next Chapter of Web3 Gaming",
-    "host": "​Planetarium Labs | Animoca Brands | Ronin Network",
-    "startDate": "2024-09-03",
-    "endDate": "2024-09-03",
-    "startTime": "17:00",
-    "endTime": "21:00",
-    "type": "Conference & Networking Event",
-    "location": "AMORIS HALL",
-    "address": "508, Nonhyeon-ro, Gangnam-gu, Seoul",
-    "placeId": null,
-    "entry": "Approved Guests only",
-    "link": "https://lu.ma/tg95eher",
-    "capacity": "200+",
-    "email": "andy@planetariumhq.com"
-  },
   "Builder Nights Seoul": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidc67ngwbhy4h3jjn2qccoxvebprmrpobfibcytst36zybpviorxi.png",
     "title": "Builder Nights Seoul",
@@ -1972,7 +1955,7 @@
     "email": "contact@injectivelabs.org"
   },
   "Play Web3": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarnrikhhdfodznttm7w55crhr7a3cbtddilf37zoneqgw76gomte.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreief2zclxp5klz77xo57ny6mlr7ta4vqym2cw3on2rci6mozbaklha.png",
     "title": "Play Web3",
     "host": "XPLA, Aethir, Xsolla, Sophon, Tophash, MetaGravity, ZKsync",
     "startDate": "2024-09-03",
@@ -2611,7 +2594,7 @@
     "type": "Hacker house, Networking, Showcases",
     "location": "AMC Tower",
     "address": "222 Bongeunsa-ro, Gangnam-gu, Seoul",
-    "placeId": null,
+    "placeId": "ChIJ_XhYRVGjfDURtiH5joH_vnc",
     "entry": "Free Entry",
     "link": "https://lu.ma/7subqb20",
     "capacity": "250",
@@ -2671,7 +2654,7 @@
   "Supra's Demo Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidn7mhvvjos3am7v6rqxgo3h5fvn4xguwwbrbfhcl6yejia6jiv6e.png",
     "title": "Supra's Demo Day",
-    "host": "Supra, Killer Whales, Hashed, A41, Google cloud",
+    "host": "Supra",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "09:00",
@@ -2838,10 +2821,10 @@
     "capacity": "40",
     "email": "mista@initia.xyz"
   },
-  "MemeCore & OKX Pheromone Day": {
+  "& OKX Pheromone Day": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifagqthwqdkv2fnrkdutkyg6mnxquygb7nyd57qnde5jwceho6gua.png",
-    "title": "MemeCore & OKX Pheromone Day",
-    "host": "MemeCore",
+    "title": "& OKX Pheromone Day",
+    "host": null,
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "12:00",
@@ -2853,7 +2836,7 @@
     "entry": "Free Entry",
     "link": "https://lu.ma/j8umhm54",
     "capacity": "700",
-    "email": "jb@memecore.org"
+    "email": "jb@.org"
   },
   "Open House #AI": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid4b2om3zhyu6lffubbtmpdzv7en5ih2ekcvuxn5yanq2dkwtnmbe.png",
@@ -3008,23 +2991,6 @@
     "capacity": null,
     "email": null
   },
-  "KOL Happy Hour w/Aethir & Maelstrom": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigpwnwm5k63ddyewbpququq35jgthps2phsymw5civbszqh6ib5m4.png",
-    "title": "KOL Happy Hour w/Aethir & Maelstrom",
-    "host": "Aethir & Arthur Hayes (Maelstrom)",
-    "startDate": "2024-09-04",
-    "endDate": "2024-09-04",
-    "startTime": "16:00",
-    "endTime": "19:00",
-    "type": "Meet up",
-    "location": "Bar & Restaurant @ 5-Star Hotel in Gangnam District [Register to see address]",
-    "address": null,
-    "placeId": null,
-    "entry": "Free Entry",
-    "link": "https://lu.ma/m7mr1aaf",
-    "capacity": "200",
-    "email": "masha@aethir.com"
-  },
   "QuillCon KBW : Founders and VC Connect": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiflhti4yo4onbgkyyndr22zatqxh4czcdwfaledmrmlabd3rwt2g4.png",
     "title": "QuillCon KBW : Founders and VC Connect",
@@ -3128,7 +3094,7 @@
     "email": "cherry@ticker.capital"
   },
   "Cosmos Asia Meetup in nonce -": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihvqzvdq4jvdj5si5iezv6uogjsn4ljm552deuieffelnyewajz7i.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifpew7zshputgvnizg7ko732kspllufbwzci6hxpakuwbcgtvaxiu.png",
     "title": "Cosmos Asia Meetup in nonce -",
     "host": "Powered by TOKI & Fracton Ventures",
     "startDate": "2024-09-04",
@@ -3144,10 +3110,10 @@
     "capacity": "40",
     "email": "pr@toki.finance"
   },
-  "MemeCore & OKX Pheromone VIP Yachts Club": {
+  "& OKX Pheromone VIP Yachts Club": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig7prifndffmj2kmw23i3yktq273iuk6vuyj44fdg2f6reuxrq33q.png",
-    "title": "MemeCore & OKX Pheromone VIP Yachts Club",
-    "host": "MemeCore",
+    "title": "& OKX Pheromone VIP Yachts Club",
+    "host": null,
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "17:30",
@@ -3159,7 +3125,7 @@
     "entry": "$500",
     "link": "https://lu.ma/qziuc76k",
     "capacity": "700",
-    "email": "jb@memecore.org"
+    "email": "jb@.org"
   },
   "The Nakamoto Revolution": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihfvwi7joagfz4rw5jxgoq7hvscn2xnraz73mfww4bzy3plkhc3bq.png",
@@ -3308,7 +3274,7 @@
     "type": "Networking Event",
     "location": "Itaewon",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJUxJhRS-jfDURD0wjDDH5KQk",
     "entry": "Free for Approved",
     "link": "https://lu.ma/aq2x2u07",
     "capacity": null,
@@ -3637,10 +3603,10 @@
     "capacity": "300",
     "email": "support@3space.art"
   },
-  "MemeCore & OKX Pheromone EDM Party": {
+  "& OKX Pheromone EDM Party": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreid53vqtm5m75fcpr55zxwrkq47v5z42ejb2mjmv6urrbfog6iseru.png",
-    "title": "MemeCore & OKX Pheromone EDM Party",
-    "host": "MemeCore",
+    "title": "& OKX Pheromone EDM Party",
+    "host": null,
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "20:00",
@@ -3652,7 +3618,7 @@
     "entry": "Free Entry",
     "link": "https://lu.ma/kx0vle3l",
     "capacity": "700",
-    "email": "jb@memecore.org"
+    "email": "jb@.org"
   },
   "Ready / Sui // Play": {
     "image": null,
@@ -4046,7 +4012,7 @@
     "email": "ayessa.lopez@halborn.com"
   },
   "Web3 Tech-Lunch with SuperWalk x Arbitrum": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifawm5mbss4uwkh5juxa4ft5usgrpr27kh6keakix7xkb4zphgxfq.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicazgsk24bo66dyc54polbwrjqmtfsixhm3qsjlckatmnuthm2qua.png",
     "title": "Web3 Tech-Lunch with SuperWalk x Arbitrum",
     "host": null,
     "startDate": "2024-09-05",
@@ -4318,7 +4284,7 @@
     "email": "tjwpdud256@naver.com"
   },
   "AI Trailblazers Night": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigsngvg6n7lb6uw6ezmm76rm5kcbpq3qx3ehnwl3hfqgpgemqpqsy.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreidchcnmnesm4xv3phstzw33n3lslo46vtje5fohiriozsun575m3u.png",
     "title": "AI Trailblazers Night",
     "host": "Mizu, Sentient, Aquarius Fund",
     "startDate": "2024-09-05",
@@ -4430,7 +4396,7 @@
     "type": "Esports, Tournament, Party",
     "location": "8 Teheran-ro 44-gil, Gangnam-gu, Seoul",
     "address": null,
-    "placeId": null,
+    "placeId": "ChIJ8zsokgakfDURB8Ge4F2PEXo",
     "entry": "Invitation Only",
     "link": "https://lu.ma/jdaetjix",
     "capacity": "150",
@@ -4505,7 +4471,7 @@
     "email": "info@tokenpost.kr"
   },
   "13Desk Meet Up": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifynjgi6hygzszkxkrpe4d3rxhapmsxpt7lgsrrj5kyls7slzjxn4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiarmkw2xx5snzddkalvwi2tvyoiidu6aqa53yd2tvvbjlfnrs6azm.png",
     "title": "13Desk Meet Up",
     "host": "13Desk",
     "startDate": "2024-09-05",
@@ -4811,7 +4777,7 @@
     "email": "info@futuracanvas.com"
   },
   "KBW DJ Night Party": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif5l4icoyqxu2b2irs5czdoavlx2ty624zrrv2jazxoqqwhwltuq4.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreig5r6putskzjgzzlncxlh556cbccj6ddbjo7dyb5ns7iltdsx4sme.png",
     "title": "KBW DJ Night Party",
     "host": "Alterverse, BabySharkUniverse, CreditScend",
     "startDate": "2024-09-05",
@@ -5049,7 +5015,7 @@
     "email": "phoebe@teamagent.xyz"
   },
   "TON Discovery Day": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifps4i6oxvbhssqza7wm3t2uraakoz3qhr6ahznyjb353erzbki7e.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibkmtrzhnggecqhfzkr3hgavvsl673c5kaowoxvsbolnig4nt5hde.png",
     "title": "TON Discovery Day",
     "host": null,
     "startDate": "2024-09-06",
@@ -5287,7 +5253,7 @@
     "email": "events@starknet.org"
   },
   "Core Network Seoul 2024": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifuybe2hgbphzrmqvjhimsi7mhcyrwxdlbfbshc7ogwhxh7k722pm.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreigfeurss7fgrwdw3ult5oy6zljlnikyj3wtt55t3shyybxzbbnhky.png",
     "title": "Core Network Seoul 2024",
     "host": "<Animoca brands, FDUSD , EVG , Coredao, Shiba inu>",
     "startDate": "2024-09-06",
@@ -5355,7 +5321,7 @@
     "email": "devonmojito@gmail.com"
   },
   "071labs KOL Party With DJ SODA": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiba2sfibpzjfq2qe6ozyqm3jj2xtw77karq4vpq4m5qokgd56rl4i.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreicyj3wkqfz64admfnrgnrl5gmyklqxbmcgfv7r5u7yl32plxb7kte.png",
     "title": "071labs KOL Party With DJ SODA",
     "host": "071labs",
     "startDate": "2024-09-06",
