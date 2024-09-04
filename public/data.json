@@ -3249,7 +3249,7 @@
   "EcoX @ KBW2024 with TorusChain & PlayWeb3": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreifq54ku6goexqbeazw4dvjgbpge3v5ecfaott4adm3brl6e3vssna.png",
     "title": "EcoX @ KBW2024 with TorusChain & PlayWeb3",
-    "host": null,
+    "host": "EcoXDubai",
     "startDate": "2024-09-04",
     "endDate": "2024-09-04",
     "startTime": "18:00",
@@ -3920,7 +3920,7 @@
     "type": "Meetup",
     "location": "Görtz",
     "address": "127 Gwangjang-dong, Gwangjin-gu, Seoul",
-    "placeId": "ChIJOaa5-7O6fDUR3G48vbHqlNA",
+    "placeId": "ChIJQT8P5iKlfDURKx5yTfcvnC0",
     "entry": "Free Entry",
     "link": "https://lu.ma/7bl20h4e",
     "capacity": null,
@@ -3944,7 +3944,7 @@
     "email": "contact@knightfury.io"
   },
   "Astar Evolution: New Stage": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreih35nwkluoh5atah7fg2imipujryur6xhhcrn6pf4wk5jyhlyzjhe.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibywjortgpxy54oohbufdg2wbgf7vpdrk2laeyufklg757tqd3gta.png",
     "title": "Astar Evolution: New Stage",
     "host": "Astar Network & Startale",
     "startDate": "2024-09-05",
@@ -4029,7 +4029,7 @@
     "email": "seono@071labs.io"
   },
   "Bitcoin Brunch @ KBW with Halborn": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibrhm64ym54sw62jqzhvnqp23fevmids5u5km3gk2bzibqllqz6ky.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreif4htv3vkyvig5gln5k67azbux2ztyiyh3m62fxexea3b6f3xc3we.png",
     "title": "Bitcoin Brunch @ KBW with Halborn",
     "host": "Halborn",
     "startDate": "2024-09-05",
@@ -4039,7 +4039,7 @@
     "type": "Networking",
     "location": "Görtz",
     "address": "127 Gwangjang-dong, Gwangjin-gu, Seoul",
-    "placeId": "ChIJOaa5-7O6fDUR3G48vbHqlNA",
+    "placeId": "ChIJQT8P5iKlfDURKx5yTfcvnC0",
     "entry": "Free Entry",
     "link": "https://lu.ma/mpjfku8y",
     "capacity": null,
@@ -5320,6 +5320,23 @@
     "capacity": "180",
     "email": "yara@interoplabs.io"
   },
+  "Aptos After Dark": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreieni2k5aaousxiecgdc2b2iz3mk7t5xoie2alq2oqjc272p5sve7e.png",
+    "title": "Aptos After Dark",
+    "host": "Gui Inu, Aptos Monkeys, Donk, Thala, Merkle, Proud lion club, Ambitious dirt, Panora, Townsquare",
+    "startDate": "2024-09-06",
+    "endDate": "2024-09-06",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "type": "Party",
+    "location": "Amazing Brewing Company",
+    "address": "4 Seongsuil-ro 4-gil, Seongdong-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/0s5n64l4",
+    "capacity": null,
+    "email": "Nomadic@aptosmonkeys.club"
+  },
   "Seoulana Summer": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiaah4uf7doiejhlglmy6tc2nl4ewltjzn3aggshghyzmdjwcx5f6i.png",
     "title": "Seoulana Summer",
@@ -5514,7 +5531,7 @@
     "startDate": "2024-09-07",
     "endDate": "2024-09-07",
     "startTime": "15:00",
-    "endTime": "13:00",
+    "endTime": "01:00",
     "type": "Workshop for AI story teller",
     "location": "TBD",
     "address": "TBD",
@@ -5523,6 +5540,23 @@
     "link": "https://www.eventbrite.com/e/earn-tokens-with-ai-stories-on-blockchain-korea-blockchain-week-tickets-1002167739687?aff=oddtdtcreator",
     "capacity": "190",
     "email": "albert@storychat.app"
+  },
+  "Post KBW: Web3 Gaming Mixer with Seraph, BNB Chain & Blockus": {
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreift43ngoi2qg6uwk7mmzotcdugv2eo6yynkaeesqn7zh6jhkv4gfq.png",
+    "title": "Post KBW: Web3 Gaming Mixer with Seraph, BNB Chain & Blockus",
+    "host": null,
+    "startDate": "2024-09-07",
+    "endDate": "2024-09-07",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "type": "Happy Hour",
+    "location": "Wang's Pub",
+    "address": "11, Gangnamdae-ro 98, Gangnam-gu, Seoul",
+    "placeId": null,
+    "entry": "Free Entry",
+    "link": "https://lu.ma/km2khe0t",
+    "capacity": "30",
+    "email": "carlos@blockus.gg"
   },
   "MISS BONK KOREA": {
     "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreibxbrbta4krdqfnxmczyffrrghkzi2jr72qqznk4lpzqonatigbum.png",
