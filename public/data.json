@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -5518,7 +5518,7 @@
     "type": "Happy Hour",
     "location": "Wang's Pub",
     "address": "11, Gangnamdae-ro 98, Gangnam-gu, Seoul",
-    "placeId": "ChIJUd03AxalfDURXhggIV0KuzA",
+    "placeId": "ChIJs-3ptPKjfDUReVacSxDTaS0",
     "entry": "Free Entry",
     "link": "https://lu.ma/km2khe0t",
     "capacity": "30",
