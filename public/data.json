@@ -51,7 +51,7 @@
     "email": "8amwon@fnnews.com"
   },
   "Tech&Talk Concert": {
-    "image": null,
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiawlww2fgqmobuvz45bhw5itshwvitxiaz2oehtxra2diphqcegtu.png",
     "title": "Tech&Talk Concert",
     "host": "Attentio",
     "startDate": "2024-08-30",
@@ -935,7 +935,7 @@
     "email": null
   },
   "Institutional Blockchain Finance Seminar l CBDC and RWA": {
-    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreiehug2bjxlnbhtuvmgmjobgipze3dajnfu4uelcyzfzgolcyc3lva.png",
+    "image": "https://raw.githubusercontent.com/ysm-dev/kbw.events/2024/public/imgs/bafkreihcc23zrtcnxafuybmzj3jkf5fty5sctgu56mvjfat7lc55nixfna.png",
     "title": "Institutional Blockchain Finance Seminar l CBDC and RWA",
     "host": null,
     "startDate": "2024-09-02",
